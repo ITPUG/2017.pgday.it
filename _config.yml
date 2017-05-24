@@ -11,11 +11,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "PGDay.IT 2017"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: ""
-url: "https://gdg-x.github.io"
-permalink: "/blog/:title"
+email: "pgday@itpug.org"
+description: "Il PostgreSQL Day italiano è la giornata nazionale dedicata interamente a PostgreSQL, il più avanzato database Open Source al mondo"
+baseurl: "/zeppelin"
+url: "http://2017.pgday.it/"
+permalink: "/2017.pgday"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
