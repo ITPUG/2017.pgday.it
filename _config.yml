@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "PGDay.IT 2017"
 email: "pgday@itpug.org"
 description: "Il PostgreSQL Day italiano è la giornata nazionale dedicata interamente a PostgreSQL, il più avanzato database Open Source al mondo"
-baseurl: "/zeppelin"
+baseurl: ""
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
