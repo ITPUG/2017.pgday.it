@@ -21,12 +21,12 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "ITPUG"
+organizerAlternateName: "ITalian PostgreSQL Users Group"
+organizerDescription: "ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia. In modo particolare, l'associazione ITPUG promuove l'adozione di PostgreSQL (http://www.postgresql.org), uno dei progetti open source di maggior successo.  Se per te PostgreSQL è una passione e/o fa parte del tuo quotidiano, ti invitiamo a far parte della sua community italiana: http://members.itpug.org/"
+organizerEmail: "info@itpug.org"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.itpug.org/index.it.html"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
