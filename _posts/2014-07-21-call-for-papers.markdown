@@ -36,7 +36,6 @@ Il nostro team ha selezionato una serie di topic interessanti, ma se hai un’id
 * Hardware e Benchmarking
 * Linux Containers
 * Cloud
-* Container
 * Sistemi operativi
 
 ##### Strumenti
