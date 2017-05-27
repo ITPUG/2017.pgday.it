@@ -1,6 +1,5 @@
 - 
   group: ""
   elements: 
-    - {name: "ITPUG", description: "ITPUG - ITalian PostgreSQL Users Group, associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia. 
-In modo particolare, l'associazione ITPUG promuove l'adozione di PostgreSQL (http://www.postgresql.org/), uno dei progetti open source di maggior successo.", link: "http://www.itpug.org/index.it.html", imageUrl: "organizer-logo.png", width: "5000px"}
+    - {name: "ITPUG", description: "ITPUG - ITalian PostgreSQL Users Group, associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia. In modo particolare, l'associazione ITPUG promuove l'adozione di PostgreSQL (http://www.postgresql.org/), uno dei progetti open source di maggior successo.", link: "http://www.itpug.org/index.it.html", imageUrl: "organizer-logo.png", width: "5000px"}
 - 
