@@ -1,60 +1,60 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "_________________"
+  surname: "________________"
+  title: "_______________________________"
+  thumbnailUrl: ___________________.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "______", title: "_________________"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "_________________"
+  surname: "________________"
+  title: "_______________________________"
+  thumbnailUrl: ___________________.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "______", title: "_________________"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "_________________"
+  surname: "________________"
+  title: "_______________________________"
+  thumbnailUrl: ___________________.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "______", title: "_________________"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
 - 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  id: 3
+  name: "_________________"
+  surname: "________________"
+  title: "_______________________________"
+  thumbnailUrl: ___________________.jpg
+  team: true
+  ribbon: 
+    - {abbr: "______", title: "_________________"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
