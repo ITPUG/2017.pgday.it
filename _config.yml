@@ -23,20 +23,24 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "ITPUG"
 organizerAlternateName: "ITalian PostgreSQL Users Group"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerDescription: "ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia.
 
+In modo particolare, l'associazione ITPUG promuove l'adozione  di PostgreSQL (http://www.postgresql.org), uno dei progetti open source di maggior successo."
+organizerEmail: "info@itpug.org"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://www.itpug.org/index.it.html"
+
+# TODO: sistemare foto
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, PostgreSQL, Open Source, Disaster Recovery, programming, Big Data, Postgres, developers"
+twitterAccount: "@PGDayIT"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
+# TODO: sistemare partnership
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "https://goo.gl/forms/0JUVQUM0YPUt7UF53"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -45,94 +49,99 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speaker"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/logistics/", text: "Logistica"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "PGDay.IT 2017 - <typeout> "
+eventDate: "Milano, 13 Ottobre, 2017"
+typeoutTextValues: '"", "13 ottobre", "Milano", "Italy", ""'
+typeoutFallback: "Milano, 13 ottobre 2017"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa speaker"}
+ - {permalink: "/#tickets", text: "Acquista il tuo biglietto"}
 
+# TODO: sistemare testo
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "Informazioni sul PGDay.IT"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conferenza", image: "conference.jpg", text: "Il PGDay.IT è la conferenza italiana dedicata al progetto open-source di maggior successo" }
+ - {title: "Be social", image: "workshop.jpg", text: "Come nostro costume: l'immancabile PG_beer! Sei disposto a rinunciarci?" }
 
+# TODO: variare dati 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "350", specialCharacter: "+", info: "partecipanti", detail: "da tutta Europa"}
+ - {count: "48", specialCharacter: "+", info: "ore", detail: "di puro PostgreSQL"}
+ - {count: "20", specialCharacter: "+", info: "speaker", detail: "da tutto il mondo"}
+ - {count: "3", specialCharacter: "", info: "track parallele", detail: "oltre agli eventi sociali"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Notizie dell'ultima ora"
 
+# TODO: sospendere
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Rockstar speaker"
+rockstarSpeakersButtonText: "Guarda tutti gli speaker"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventLocationName: "Centro Congressi Stelline"
+eventLocationLink: "http://www.stelline.it/it/centro-congressi/home/centro-congressi.html"
+eventStreetAddress: "corso Magenta, 61"
+eventAddressLocality: "Milano"
+eventAddressLocalityRegion: "(MI)"
+eventPostalCode: "20123"
+eventAddressCountry: "Italy"
+eventStartTime: "2017-10-13T9:00"
+eventDoorTime: "08:30"
+eventEndTime: "2017-10-13T18:00"
+eventPlaceCoordinates: "45.4654533, 9.166099"
+mapCenterCoordinates: "45.4654533, 9.166099"
+mapMobileCenterCoordinates: "45.4654533, 9.166099"
 
+# TODO: sistemare foto
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Location"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Fondazione Stelline"
+venueFeatures: ["Nel cuore di Milano, di fronte al Cenacolo di Leonardo e a Santa Maria delle Grazie", "8.000 mq di superficie, 20 sale e meeting & training rooms"]
 
+# TODO: sistemare url
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "PGDayIT"
+twitterFeed: "https://twitter.com/search?q=%23PGDayIT&src=typd=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizzatori"
+partnersTitle: "Partner"
+partnersC4sponsorsButton: "Diventa Sponsor"
 
+# TODO: sistemare URL 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
+subscribeTitle: "Resta aggiornato"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Sarà possibile acquistare i biglietti a partire da metà giugno. Il numero dei biglietti disponibili è limitato. Rimanete sintonizzati!"
 
+# TODO: sistemare valore biglietti e scadenze
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Prezzo biglietti"
+ticketsInfo: "Il biglietto vi garantirà l'accesso alla conferenza, ai coffee brak ed al pranzo, incluse tutte le attività programmate per la giornata del 13 ottobre 2017. Nel prezzo del biglietto NON è incluso il pernottamento."
 ticketsOffers:
  -
   name: "Early Bird"
@@ -141,10 +150,10 @@ ticketsOffers:
   ticketsNumber: "150"
   ribbon: "-5%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Acquistalo adesso"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  validFrom: "2017-06-15T10:00"
+  validThrough: "2017-09-15T23:59"
  -
   name: "Last Chance"
   price: "450"
@@ -153,7 +162,7 @@ ticketsOffers:
   ribbon: "-20%"
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Acquistalo adesso"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
@@ -164,7 +173,7 @@ ticketsOffers:
   priceCurrency: "UAH"
   ticketsNumber: "50"
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Acquistalo adesso"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-20T10:00"
@@ -172,11 +181,13 @@ ticketsOffers:
   soldOut: true
   soldOutText: "Sold Out"
 
+# TODO: sistemare permalink o cancellarlo
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/114060631874544975126", icon: "google-plus"}
+ - {link: "https://twitter.com/PGDayIT", icon: "twitter"}
+ - {link: "https://www.facebook.com/ITPUG/", icon: "facebook"}
+ - {link: "https://www.linkedin.com/company/itpug", icon: "linkedin"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -185,38 +196,42 @@ footerBlocks:
    - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "Contatti"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:info@itpug.org", text: "info@itpug.org"}
  -
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
 
+# TODO: sistemare discusShortName
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Notizie dell'ultima ora"
 blogCommentsEnabled: true
 discusShortName: "devfestua"
 
 # Speakers List Block
 showSessions: true
 
+# TODO: sistemare testo
 # Team Block
-teamBlockTitle: "About us"
+teamBlockTitle: "A proposito di ITPUG"
 aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
+# TODO: sistemare testo e coordinate
 # Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
+findWayTitle: "Trova la tua strada qui"
+findWayDistance: "Distanza"
+findWayDriving: "Con l'auto"
+findWayWalking: "A piedi"
+findWayBicycling: "In bicicletta"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
 logisticsMapCenterCoordinates: "49.056728, 3.117289"
 logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 logisticsMapAutoDirections: false
 
+# TODO: sistemare testo e segnalare hotel
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Lviv"
@@ -250,10 +265,12 @@ directionDetailsWideCards:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
+# TODO: rimuovere
 # Hackathon
 hackathonTitle: "Hackathon"
 enableHackathon: true
 
+# TODO: rimuovere
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
 hackathonRows:
@@ -261,10 +278,12 @@ hackathonRows:
  - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
  - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
 
+# TODO: rimuovere
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
 judgesTitle: "Judges"
 
+# TODO: rimuovere
 # Hackathon Prizes Block
 prizesTitle: "Prizes"
 prizes:
@@ -272,6 +291,7 @@ prizes:
  - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
  - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
+# TODO: rimuovere
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"
 hackathonLocationName: "Communa"

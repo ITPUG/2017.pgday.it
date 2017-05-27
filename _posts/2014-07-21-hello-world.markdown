@@ -1,30 +1,24 @@
 ---
 layout: post
 title:  "Hello World!"
-date:   2014-07-21 08:00:00
+date:   2017-05-29 10:00:00
 isStaticPost: false
 ---
 
-We're very excited - not just because of the inordinate amount of caffeine based products consumed - 
-but also because our team are putting together 
-the final missing parts to the biggest Google related event in Ukraine - [GDG DevFest 2014](http://devfest.gdg.org.ua/). 
+Siamo molto eccitati - non solo a causa della quantità ingente di bevande a base di caffeina consumati - 
+ma anche perché la nostra squadra sta mettendo insieme tutti i tasselli necessari 
+per portare ai massimi livelli il più grande evento italiano focalizzato su PostgreSQL: [PGDay.IT 2017](http://2017.pgday.it/). 
 
-This year event will take place in cultural capital of Ukraine - Lviv. Being a unique European city in Ukraine, Lviv is among top 10 cities of the world to visit in 2014 according to the travel group “The Rough Guide” and is among top 10 cities for spending weekends in Europe according to Lonely Planet. So take your time to spend weeked in last hidden gem in the Europe in company of experts and technical geeks.
+Quest’anno la manifestazione avrà luogo a Milano. Città facilmente raggiungibile da tutta Italia ed anche dall’Europa. La location scelta è in una zona carica di interesse culturale, per cu,i il consiglio che vi diamo, è: prendetevi il vostro tempo, magari riservando il week end alla scoperta di Milano.
 
-So should you also be excited? Well yes... and here's why!
+Anche tu dovresti essere eccitato? Beh sì … ecco perché:
 
-* **Attendance**: we're expecting over 350 attendees
-* **Topic**: more than 48 hours of pure Google technologies 
-* **Date**: 24-25 of October, expect hackathon and workshops on a first day and conference on the second
-* **Venue**: Kinopalace Cinema - for a first time we'll make technical event in real cinema directly in the heart of the ancient city of Lviv
-* **Speakers**: we're in the process of finalising the list of speakers
+* **Partecipanti**: ce ne aspettiamo tanti … ma proprio tanti!
+* **Topic**: più di 16 ore dedicate interamente a PostgreSQL 
+* **Quando**: 13 ottobre 2017. Personaggi di rilievo, tanti talk con alto contenuto tecnico e momenti sociali da non perdere
+* **Location**: Fondazione Stelline - Nel centro di Milano, di fronte al Cenacolo di Leonardo e a Santa Maria delle Grazie, la Fondazione Stelline regalerà alla manifestazione un’atmosfera ricca di storia e cultura. Nota di rilievo: il Palazzo delle Stelline è legato indissolubilmente a Leonardo da Vinci
+* **Speaker**: stiamo per aprire la Call for Paper e ci aspettiamo molte proposte interessanti. Una potrebbe essere la tua!
 
-but we've already secured a first batch of experts:
+e stiamo lavorando per assicurarci alcune tra le “rockstar” dell’ecosistema di PostgreSQL o comunque appartenenti al mondo Open Source.
 
-* **Dawid Ostrowski** - Developer Relation from Google, who excited about cloud technologies<br>
-* **Mateusz Herych** - Android GDE and GDG organizer from Krakow<br>
-* **Dmytro Danylyk** - developer, blogger, speaker, author of open source 1000+ star libraries <br>
-* **Roman Mazur** - speaker on various international conferences like Droidcon Eastern Europe and Ankara Developer Days<br>
-
-
-More details about speakers, DevFest Hackathon and Lviv will appear in subsequent posts, meantime like us on [Facebook](https://facebook.com/GDGLviv), follow on [Twitter](https://twitter.com/intent/user?screen_name=GDGLviv), add to circles in [Google+](https://plus.google.com/b/102444623953913144164) or subcribe to our [mailing list](http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&id=ae0fb459fc) and [RSS feed](http://devfest.gdg.org.ua/feed.xml) in order not to miss any cool stuff about festival.
+Maggiori dettagli sugli speaker selezionati, sulle attività in programmazione, saranno pubblicati sul blog dedicato al PGDay.IT 2017 e condivisi attraverso i nostri canali social. Seguici su [Twitter](https://twitter.com/PGDayIT), [Facebook](https://www.facebook.com/ITPUG/), [Google+](https://plus.google.com/114060631874544975126), [Linkedin](https://www.linkedin.com/company/itpug) o iscriviti alla nostra [mailing list](http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&id=ae0fb459fc) in modo da non perderti nessun fantastico aggiornamento sulla prossima edizione del [PGDay.IT 2017](http://2017.pgday.it/). 

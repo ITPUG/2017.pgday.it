@@ -1,67 +1,66 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2014-07-21 09:00:00
+date:   2017-05-29 12:00:00
 isStaticPost: false
 ---
-GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.
+PGDay.IT 2017 si terrà il 13 ottobre a Milano. Se vuoi essere parte di questa fantastica manifestazione come speaker … bussa e ti sarà aperto.
 
-#### Presenters – who should speak at the DevFest Conference?
+#### Chi dovrebbe candidarsi come speaker per il PGDay.IT 2017?
 
-* developers (freelance and hired)
-* companies developing software (apps, tools, frameworks etc.)
-* research institutions with Google relevant activities
-* companies, organisations and individuals using Google technologies
+* Utilizzatori di PostgreSQL
+* Aziende che affidano a PostgreSQL i loro dati
+* PostgreSQL hackers o Sviluppatori di tool per PostgreSQL
+* Chiunque abbia qualcosa di interessante da dire su PostgreSQL
 
-If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.<br/>
+Se appartieni ad uno di questi gruppi, sei invitato a presentare una proposta di talk (o una serie di proposte). Il comitato tecnico designato, valuterà le proposte e selezionerà i talk per la manifestazione. Magari tra questi potrebbe esserci il tuo!
 
-#### Themes and topics – what do we expect?
-Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
+#### Temi e argomenti - cosa ci aspettiamo?
 
-##### Android
+Il nostro team ha selezionato una serie di topic interessanti, ma se hai un’idea che vuoi condividere non presente in questa lista, fatti avanti.
 
-__Google I/O 2014__
+##### PostgreSQL
 
-* Material Design
-* Migration to ART
-* New Android Camera API
-* New Job Scheduler
-* Storage Access Framework
-* Elevation & Clipping
+* PostgreSQL
+* PostGIS
+* Migrazioni da altri database
 
-__General__
+##### Linguaggi OS
 
-* Android Continuous Integration
-* Loaders, Cursor Adapters
-* Android Animations
-* Patterns in Android development
+* Linguaggi di programmazione
+* Continuous integration
+* Integrazioni con altri software
 
-##### Web
+##### Ambienti
 
-* AngularJS (1x and 2.0)
-* Dart (AngularDart, server-side)
-* Polymer and WebComponents
-* Material Design in Web
-* ChromeOS (apps development)
-* Web Performance (tools, techniques, approaches)
+* Hardware e Benchmarking
+* Linux Containers
+* Cloud
+* Container
+* Sistemi operativi
 
+##### Strumenti
 
-##### Cloud
+* Sistemi di monitoraggio
+* Virtualization tool
+* Configuration managers
 
-* Google Cloud Platform
-  * Compute Engine
-  * App Engine
-  * Storages (SQL, NoSQL, BigData)
-  * APIs
-* Go (as a language for a Cloud Ready Apps)
+##### Non solo codice
+
+* Casi di studio
+* Devops
+* Modello di business open source
+* Ricerca e insegnamento con PostgreSQL
 
 
-#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
-__Deadline__ is September 1, 2014
+#### Per favore, inserisci la tua proposta [qui](https://goo.gl/forms/oT0q0UEXcedu1pbt1).
 
-__Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
+__Deadline__ il 9 luglio 2017.
 
-The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
+__Importante:__ Non c'è alcuna garanzia che la tua proposta verrà inserita nello schedule della manifestazione.<br/>
 
-#### Any questions? 
-Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+Il comitato tecnico selezionerà le proposte pervenute più interessanti e informerà i candidati selezionati entro e  non oltre il 30 luglio 2017.
+
+#### Domande? 
+
+Invia una email agli organizzatori [pgday@itpug.org](mailto:pgday@itpug.org)
