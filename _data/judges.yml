@@ -1,44 +1,65 @@
 - 
   id: 0
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "_________________"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  thumbnailUrl: ___________________.jpg
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
 - 
   id: 1
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  company: "Nravo, GDG Lviv"
-  title: "Team Lead, Unity 3D Developer"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "_________________"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  thumbnailUrl: ___________________.jpg
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  company: "ELEKS, GDG Lviv"
-  title: "R&D Engineer"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "_________________"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  thumbnailUrl: ___________________.jpg
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
 - 
   id: 3
-  name: "Oleh"
-  surname: "Zasadnyy"
-  company: "EPAM Systems, GDG Lviv"
-  title: "Junior Software Engineer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "_________________"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  thumbnailUrl: ___________________.jpg
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 4
+  name: "_________________"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  thumbnailUrl: ___________________.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
