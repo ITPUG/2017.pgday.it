@@ -128,6 +128,13 @@ organizersTitle: "Organizzatori"
 partnersTitle: "Partner"
 partnersC4sponsorsButton: "Diventa Sponsor"
 
+# TODO: sistemare URL 
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Resta aggiornato"
+subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeInfo: "Sarà possibile acquistare i biglietti a partire da metà giugno. Il numero dei biglietti disponibili è limitato. Rimanete sintonizzati!"
+
 # Tickets Block
 ticketsTitle: "Prezzo biglietti"
 ticketsInfo: "Il biglietto vi garantirà l'accesso alla conferenza, ai coffee brak ed al pranzo, incluse tutte le attività programmate per la giornata del 13 ottobre 2017. Nel prezzo del biglietto NON è incluso il pernottamento."
