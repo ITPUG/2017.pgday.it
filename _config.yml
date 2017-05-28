@@ -128,55 +128,46 @@ organizersTitle: "Organizzatori"
 partnersTitle: "Partner"
 partnersC4sponsorsButton: "Diventa Sponsor"
 
-# TODO: sistemare URL 
-# Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Resta aggiornato"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Sarà possibile acquistare i biglietti a partire da metà giugno. Il numero dei biglietti disponibili è limitato. Rimanete sintonizzati!"
-
-# TODO: sistemare valore biglietti e scadenze
 # Tickets Block
 ticketsTitle: "Prezzo biglietti"
 ticketsInfo: "Il biglietto vi garantirà l'accesso alla conferenza, ai coffee brak ed al pranzo, incluse tutte le attività programmate per la giornata del 13 ottobre 2017. Nel prezzo del biglietto NON è incluso il pernottamento."
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "350"
+  price: "______"
   priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  ticketsNumber: "______"
+  ribbon: "-___%"
+  buyButtonLink: "http://_____________/"
   buyButtonText: "Acquistalo adesso"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["_______________", "_______________", "_______________"]
   validFrom: "2017-06-15T10:00"
   validThrough: "2017-09-15T23:59"
  -
-  name: "Last Chance"
-  price: "450"
+  name: "Ordinario"
+  price: "_______"
   priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
+  ticketsNumber: "_________"
+  ribbon: "-_________%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://__________________/"
   buyButtonText: "Acquistalo adesso"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  ticketContentList: ["_______________", "_______________", "_______________"]
+  validFrom: "2017-09-16T00:00"
+  validThrough: "2017-10-12T23:59"
   disabled: true
  -
-  name: "Student"
-  price: "200"
+  name: "Studente"
+  price: "_______"
   priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  ticketsNumber: "_______"
+  buyButtonLink: "http://___________________/"
   buyButtonText: "Acquistalo adesso"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  additionalInfo: "Sarà richiesto una dimostrazione di stato STUDENTE al desk della manifestazione. In assenza di dimostrazione, il biglietto sarà cancellato senza possibilità di rimborso."
+  ticketContentList: ["_______________", "_______________", "_______________"]
+  validFrom: "2017-06-15T10:00"
+  validThrough: "2017-10-12T23:59"
+  disabled: true
 
 # TODO: sistemare permalink o cancellarlo
 # Footer
