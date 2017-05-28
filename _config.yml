@@ -231,7 +231,7 @@ logisticsMapAutoDirections: false
 # TODO: sistemare link e segnalare hotel
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Raggiungici a Milano"
+directionDetailsTitle: "Come raggiungere il PGDay.IT 2017"
 directionDetailsCards:
  - {title: "Arrivi in aereo su Linate?", information: 'Prendete il bus 73 in partenza dal piazzale dell’aeroporto e scendete al capolinea, in piazza San Babila; prendete la metropolitana MM1 in direzione Fiera/Rho, scendete alla fermata Cadorna Triennale, dirigetevi in piazza Cadorna, imboccate via Carducci e proseguite fino al primo semaforo incrociando corso Magenta, l’Hotel Palazzo delle Stelline vi attende al civico 61.'
  - {title: "Arrivi in aereo su Malpensa?", information: 'Prendete il treno navetta “Malpensa Express” e raggiungete il capolinea a Milano Cadorna, dirigetevi in piazza Cadorna, imboccate via Carducci e proseguite fino al primo semaforo incrociando corso Magenta, l’Hotel Palazzo delle Stelline vi attende al civico 61.'
