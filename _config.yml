@@ -213,7 +213,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "A proposito di ITPUG"
-aboutUs: "ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia. In modo particolare, l'associazione ITPUG promuove l'adozione  di PostgreSQL (http://www.postgresql.org), uno dei progetti open source di maggior successo. L'associazione è nata a Prato (PO) il 17 novembre 2007, poco dopo la prima edizione del PGDay.IT. Per maggiori informazioni sull'associazione ITPUG scrivi a [info@itpug.org](mailto:info@itpug.org)
+aboutUs: "ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia. In modo particolare, l'associazione ITPUG promuove l'adozione  di PostgreSQL (http://www.postgresql.org), uno dei progetti open source di maggior successo. L'associazione è nata a Prato (PO) il 17 novembre 2007, poco dopo la prima edizione del PGDay.IT. Per maggiori informazioni sull'associazione ITPUG scrivi a info@itpug.org."
 
 # TODO: sistemare testo e coordinate
 # Logistics Find Way Block
