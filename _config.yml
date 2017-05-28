@@ -67,11 +67,10 @@ heroButtons:
  - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa speaker"}
  - {permalink: "/#tickets", text: "Acquista il tuo biglietto"}
 
-# TODO: sistemare testo
 # About Block
 aboutTitle: "Informazioni sul PGDay.IT"
 aboutBlock:
- - {title: "Conferenza", image: "conference.jpg", text: "Il PGDay.IT è la conferenza italiana dedicata al progetto open-source di maggior successo" }
+ - {title: "Conferenza", image: "conference.jpg", text: "Il PGDay.IT è la conferenza italiana dedicata al progetto open-source di maggior successo. Il primo PGDay.IT si è svolto il 7 luglio 2007 e da allora la manifestazione si è svolta ogni anno. Questa è l'undicesima edizione" }
  - {title: "Be social", image: "workshop.jpg", text: "Come nostro costume: l'immancabile PG_beer! Sei disposto a rinunciarci?" }
 
 # TODO: variare dati 
@@ -86,7 +85,7 @@ statisticBlock:
 # Latest News Block
 latestNewsTitle: "Notizie dell'ultima ora"
 
-# TODO: sospendere
+# TODO: risulta vuota, può essere lasciata
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
@@ -109,7 +108,6 @@ eventPlaceCoordinates: "45.4654533, 9.166099"
 mapCenterCoordinates: "45.4654533, 9.166099"
 mapMobileCenterCoordinates: "45.4654533, 9.166099"
 
-# TODO: sistemare foto
 # Venue Block
 venueBlockTitle: "Location"
 venueBigImage: "venue_0.jpg"
@@ -202,7 +200,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Codice di condotta"}
 
 # TODO: sistemare discusShortName
 # Blog
@@ -213,10 +211,9 @@ discusShortName: "devfestua"
 # Speakers List Block
 showSessions: true
 
-# TODO: sistemare testo
 # Team Block
 teamBlockTitle: "A proposito di ITPUG"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia. In modo particolare, l'associazione ITPUG promuove l'adozione  di PostgreSQL (http://www.postgresql.org), uno dei progetti open source di maggior successo. L'associazione è nata a Prato (PO) il 17 novembre 2007, poco dopo la prima edizione del PGDay.IT. Per maggiori informazioni sull'associazione ITPUG scrivi a [info@itpug.org](mailto:info@itpug.org)
 
 # TODO: sistemare testo e coordinate
 # Logistics Find Way Block
