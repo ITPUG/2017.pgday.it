@@ -198,11 +198,10 @@ footerBlocks:
   links:
    - {permalink: "/cod/", text: "Codice di condotta"}
 
-# TODO: sistemare discusShortName
 # Blog
 blogTitle: "Notizie dell'ultima ora"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "pgdayit2017"
 
 # Speakers List Block
 showSessions: true
