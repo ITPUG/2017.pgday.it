@@ -65,7 +65,7 @@ typeoutTextValues: '"", "13 ottobre", "Milano", "Italy", ""'
 typeoutFallback: "Milano, 13 ottobre 2017"
 heroButtons:
  - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa speaker"}
- - {permalink: "/#tickets", text: "Acquista il tuo biglietto"}
+# - {permalink: "/#tickets", text: "Acquista il tuo biglietto"}
 
 # About Block
 aboutTitle: "Informazioni sul PGDay.IT"
