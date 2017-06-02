@@ -9,13 +9,13 @@
   title: "Coffee break"
   place: "Hall"
   service: true
-  description: "Uno dei momenti di interazione della giornata"
+  description: "Uno dei momenti per interagire con gli altri partecipanti"
 -
   id: 503
   title: "Lunch"
   place: "Hall"
   service: true
-  description: "Rilassante momento di condivisione di esperienze"
+  description: "Rilassante momento per condividere le proprie esperienze"
 -
   id: 001
   title: "Keynote"
