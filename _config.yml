@@ -75,11 +75,12 @@ aboutBlock:
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
+statisticTitle: "In dieci edizioni, il PGDay.It conta:"
 statisticBlock:
  - {count: "1307", specialCharacter: "+", info: "partecipanti", detail: "dall'Italia e da tutta Europa"}
  - {count: "166", specialCharacter: "+", info: "ore", detail: "di puro PostgreSQL"}
  - {count: "158", specialCharacter: "+", info: "speaker", detail: "da tutto il mondo"}
- - {count: "22", specialCharacter: "", info: "track parallele", detail: "oltre agli eventi sociali"}
+ - {count: "22", specialCharacter: "", info: "track", detail: "oltre agli eventi sociali"}
 
 # Latest News Block
 latestNewsTitle: "Notizie dell'ultima ora"
