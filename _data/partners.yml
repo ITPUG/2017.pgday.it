@@ -1,28 +1,28 @@
 - 
-  group: "Diamond sponsor"
+  group: "Diamond Partners"
   elements: 
     - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"} 
 - 
-  group: "Platinum sponsor"
+  group: "Platinum Partners"
   elements: 
     - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"}
 - 
-  group: "Gold sponsor"
+  group: "Gold Partners"
   elements: 
     - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"} 
 - 
-  group: "Silver sponsor"
+  group: "Silver Partners"
   elements: 
     - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"}    
 - 
-  group: "Bronze sponsor"
+  group: "Bronze Partners"
   elements: 
     - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"}  
 -   
-  group: "Media Partner"
+  group: "Media Partners"
   elements: 
     - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"}    
 - 
-  group: "Information partners"
+  group: "Information Partners"
   elements: 
     - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"} 
