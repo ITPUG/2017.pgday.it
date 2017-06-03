@@ -145,8 +145,8 @@ ticketsInfo: "Il biglietto vi garantirà l'accesso alla conferenza, ai coffee br
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "€ 47,00"
-  priceCurrency: "UAH"
+  price: "47,00"
+  priceCurrency: "€"
   ticketsNumber: "______"
   buyButtonLink: "http://_____________/"
   buyButtonText: "Acquistalo adesso"
@@ -156,8 +156,8 @@ ticketsOffers:
   disabled: true
  -
   name: "Ordinario"
-  price: "€ 95,00"
-  priceCurrency: "UAH"
+  price: "95,00"
+  priceCurrency: "€"
   ticketsNumber: "_________"
   featured: true
   buyButtonLink: "http://__________________/"
@@ -168,8 +168,8 @@ ticketsOffers:
   disabled: true
  -
   name: "Studente"
-  price: "€ 15,00"
-  priceCurrency: "UAH"
+  price: "15,00"
+  priceCurrency: "€"
   ticketsNumber: "_______"
   buyButtonLink: "http://___________________/"
   buyButtonText: "Acquistalo adesso"
@@ -240,32 +240,31 @@ directionDetailsCards:
  - {title: "Arrivi in auto dall’autostrada A1?", information: '(Bologna), dopo il casello del pedaggio, dirigendoVi verso la tangenziale Est, imboccate l’uscita di piazzale Corvetto, girate a destra e arrivate a piazzale Bologna, svoltate a sinistra per via Bacchiglione percorrete 100 m e girate a destra per corso Lodi. Dopo 700 m, giunti a porta Romana, girate a sinistra in via Filippetti (circonvallazione interna), proseguire per viale Beatrice d’Este, viale Gian Galeazzo, viale d’Annunzio, viale Papiniano, viale di Porta Vercellina. Arrivati a piazzale Baracca, proseguite per piazza della Conciliazione, svoltate a destra in via Boccaccio quindi percorrete la via fino a raggiungere piazza Virgilio. Dopodichè percorrete via Vincenzo Monti, al semaforo svoltate a destra in Largo d’Ancona e subito a destra in corso Magenta dove, al civico 61, vi attende l’Hotel Palazzo delle Stelline.'}
  - {title: "Arrivi in auto dall’autostrada A7?", information: '(Genova): dopo il casello del pedaggio, imboccate la tangenziale ovest in direzione Venezia, uscite a Milano Certosa e proseguite come indicato sopra.'}
 
- - {title: "Hotels", information: 'Ovviamente a Milano gli hotel non mancano. La location scelta fornisce anche la possibilità di pernottare. Se non ci fosse disponibilità, segnaleremo successivamente possibili alternative.'}
 directionDetailsWideCards:
  -
-  title: "Questions?"
+  title: "Cerchi un hotel?"
   subCards:
    -
-    title: "Hotels"
+    title: "A Milano gli hotel non mancano. La location prescelta per il PGDay.2017 fornisce anche la possibilità di pernottare. Ma le alternative non mancano."
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://www.hotelpalazzostelline.it/", text: "Hotel Palazzo delle Stelline"}
+     - {link: "http://www.anticalocandaleonardo.com/it/", text: "Antica Locanda Leonardo"}
+     - {link: "http://www.hotel-bb.com/it/hotel/milano-sant-ambrogio.htm", text: "B&B Hotel Milano Sant'Ambrogio"}
+     - {link: "http://www.hotelpanizza.it/", text: "Hotel Panizza"}
+ #  -
+    #title: "Registration"
+    #links:
+    # - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+    # - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+    # - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+    # - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#   -
+#    title: "Attendance Details"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # TODO: rimuovere
 # Hackathon
