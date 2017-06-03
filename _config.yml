@@ -8,7 +8,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "PGDay.IT 2017"
 email: "pgday@itpug.org"
@@ -38,11 +37,9 @@ socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
-# TODO: sistemare partnership
 # Documents
 c4pUrl: "https://goo.gl/forms/0JUVQUM0YPUt7UF53"
 c4sponsorsUrl: "/assets/Diventa_Partner_IT_PGDay_2017.pdf"
-
 
 # Navigation
 navigationLinks:
@@ -204,7 +201,7 @@ footerBlocks:
 # Blog
 blogTitle: "Notizie dell'ultima ora"
 blogCommentsEnabled: true
-discusShortName: "pgdayit2017"
+discusShortName: "PGDay.IT_2017"
 
 # Speakers List Block
 showSessions: true
