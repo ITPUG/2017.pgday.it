@@ -51,7 +51,7 @@ navigationLinks:
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speaker"}
 # - {permalink: "/team/", text: "Team"}
-# - {permalink: "/logistics/", text: "Logistica"}
+ - {permalink: "/logistics/", text: "Logistica"}
 bottomNavigationLinks:
  - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker"}
  - {link: "/assets/Diventa_Partner_IT_PGDay_2017.pdf", text: "Diventa Partner"}
