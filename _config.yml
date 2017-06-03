@@ -80,7 +80,7 @@ aboutBlock:
 statisticBlockTitle: "Dieci edizioni del PGDay.It:"
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "1257", specialCharacter: "+", info: "partecipanti", detail: "dall'Italia e da tutta Europa"}
+ - {count: "1257", specialCharacter: "+", info: "partecipanti", detail: "da tutta Europa"}
  - {count: "166", specialCharacter: "+", info: "ore", detail: "di puro PostgreSQL"}
  - {count: "158", specialCharacter: "+", info: "speaker", detail: "da tutto il mondo"}
  - {count: "22", specialCharacter: "", info: "track", detail: "oltre agli eventi sociali"}
