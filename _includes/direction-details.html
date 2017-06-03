@@ -8,7 +8,7 @@
             <div class="col-lg-10 col-lg-offset-1 text-left">
                 {% assign animationDelay = 0 %}
                 {% for card in site.directionDetailsCards %}
-                {% assign colWidth = 30 | divided_by: forloop.length %}
+                {% assign colWidth = 29 | divided_by: forloop.length %}
                 <div class="col-md-{{ colWidth }} col-xs-12 same-height animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                     <div class="card">
                         <h4>{{ card.title }}</h4>
