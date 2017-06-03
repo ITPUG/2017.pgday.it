@@ -213,7 +213,6 @@ showSessions: true
 teamBlockTitle: "A proposito di ITPUG"
 aboutUs: "ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia. In modo particolare, l'associazione ITPUG promuove l'adozione  di PostgreSQL (http://www.postgresql.org), uno dei progetti open source di maggior successo. L'associazione è nata a Prato (PO) il 17 novembre 2007, poco dopo la prima edizione del PGDay.IT. Per maggiori informazioni sull'associazione ITPUG scrivi a info@itpug.org."
 
-# TODO: sistemare testo e coordinate
 # Logistics Find Way Block
 findWayTitle: "Trova la tua strada qui"
 findWayDistance: "Distanza"
@@ -226,7 +225,6 @@ logisticsMapCenterCoordinates: "49.056728, 3.117289"
 logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 logisticsMapAutoDirections: false
 
-# TODO: sistemare link e segnalare hotel
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Come raggiungere il PGDay.IT 2017"
@@ -251,62 +249,3 @@ directionDetailsWideCards:
      - {link: "http://www.anticalocandaleonardo.com/it/", text: "Antica Locanda Leonardo"}
      - {link: "http://www.hotel-bb.com/it/hotel/milano-sant-ambrogio.htm", text: "B&B Hotel Milano Sant'Ambrogio"}
      - {link: "http://www.hotelpanizza.it/", text: "Hotel Panizza"}
- #  -
-    #title: "Registration"
-    #links:
-    # - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-    # - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-    # - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-    # - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-#   -
-#    title: "Attendance Details"
-#    links:
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-
-# TODO: rimuovere
-# Hackathon
-hackathonTitle: "Hackathon"
-enableHackathon: true
-
-# TODO: rimuovere
-# Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
-hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
-
-# TODO: rimuovere
-# Hackathon Judges Block
-judgesImage: "judges.jpg"
-judgesTitle: "Judges"
-
-# TODO: rimuovere
-# Hackathon Prizes Block
-prizesTitle: "Prizes"
-prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
-
-# TODO: rimuovere
-# Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
-hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
-viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
