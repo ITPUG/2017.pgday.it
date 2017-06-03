@@ -68,7 +68,7 @@ typeoutFallback: "Milano, 13 ottobre 2017"
 heroButtons:
  - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa speaker"}
  - {link: "/assets/Diventa_Partner_IT_PGDay_2017.pdf", text: "Diventa Partner"}
-# - {permalink: "/#tickets", text: "Acquista il tuo biglietto"}
+ - {permalink: "/#tickets", text: "Acquista il tuo biglietto"}
 
 # About Block
 aboutTitle: "Informazioni sul PGDay.IT"
@@ -141,41 +141,40 @@ subscribeInfo: "Sarà possibile acquistare i biglietti a partire da metà giugno
 
 # Tickets Block
 ticketsTitle: "Prezzo biglietti"
-ticketsInfo: "Il biglietto vi garantirà l'accesso alla conferenza, ai coffee brak ed al pranzo, incluse tutte le attività programmate per la giornata del 13 ottobre 2017. Nel prezzo del biglietto NON è incluso il pernottamento."
+ticketsInfo: "Il biglietto vi garantirà l'accesso alla conferenza, ai coffee brak ed al pranzo, incluse tutte le attività programmate per la giornata del 13 ottobre 2017. Nel prezzo del biglietto NON è incluso il pernottamento e NON sono inclusi gli eventi sociali come la pg_beer."
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "______"
+  price: "€ 47,00"
   priceCurrency: "UAH"
   ticketsNumber: "______"
-  ribbon: "-___%"
   buyButtonLink: "http://_____________/"
   buyButtonText: "Acquistalo adesso"
-  ticketContentList: ["_______________", "_______________", "_______________"]
+  ticketContentList: ["Early Bird - PGDay.IT 2017", "13 ottobre", "Milano"]
   validFrom: "2017-06-15T10:00"
   validThrough: "2017-09-15T23:59"
+  disabled: true
  -
   name: "Ordinario"
-  price: "_______"
+  price: "€ 95,00"
   priceCurrency: "UAH"
   ticketsNumber: "_________"
-  ribbon: "-_________%"
   featured: true
   buyButtonLink: "http://__________________/"
   buyButtonText: "Acquistalo adesso"
-  ticketContentList: ["_______________", "_______________", "_______________"]
+  ticketContentList: ["Ordinario - PGDay.IT 2017", "13 ottobre", "Milano"]
   validFrom: "2017-09-16T00:00"
   validThrough: "2017-10-12T23:59"
   disabled: true
  -
   name: "Studente"
-  price: "_______"
+  price: "€ 15,00"
   priceCurrency: "UAH"
   ticketsNumber: "_______"
   buyButtonLink: "http://___________________/"
   buyButtonText: "Acquistalo adesso"
   additionalInfo: "Sarà richiesto una dimostrazione di stato STUDENTE al desk della manifestazione. In assenza di dimostrazione, il biglietto sarà cancellato senza possibilità di rimborso."
-  ticketContentList: ["_______________", "_______________", "_______________"]
+  ticketContentList: ["Studente - PGDay.IT 2017", "13 ottobre", "Milano"]
   validFrom: "2017-06-15T10:00"
   validThrough: "2017-10-12T23:59"
   disabled: true
