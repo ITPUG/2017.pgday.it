@@ -53,10 +53,12 @@ navigationLinks:
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistica"}
 bottomNavigationLinks:
- - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa speaker"}
+ - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker"}
+ - {link: "/assets/Diventa_Partner_IT_PGDay_2017.pdf", text: "Diventa Partner"}
 rightNavigationButtons:
- - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa speaker"}
-
+ - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker"}
+ - {link: "/assets/Diventa_Partner_IT_PGDay_2017.pdf", text: "Diventa Partner"}
+ 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "PGDay.IT 2017 - <typeout> "
