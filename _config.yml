@@ -138,7 +138,7 @@ subscribeInfo: "Sarà possibile acquistare i biglietti a partire da metà giugno
 
 # Tickets Block
 ticketsTitle: "Prezzo biglietti"
-ticketsInfo: "Il biglietto vi garantirà l'accesso alla conferenza, ai coffee brak ed al pranzo, incluse tutte le attività programmate per la giornata del 13 ottobre 2017. Nel prezzo del biglietto NON è incluso il pernottamento e NON sono inclusi gli eventi sociali come la pg_beer."
+ticketsInfo: "Il biglietto vi garantirà l'accesso alla conferenza, ai coffee break ed al pranzo, incluse tutte le attività programmate per la giornata del 13 ottobre 2017. Nel prezzo del biglietto NON è incluso il pernottamento e NON sono inclusi gli eventi sociali come la pg_beer."
 ticketsOffers:
  -
   name: "Early Bird"
