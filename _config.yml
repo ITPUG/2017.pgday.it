@@ -147,7 +147,7 @@ ticketsOffers:
   buyButtonLink: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231"
   buyButtonText: "Acquistalo adesso"
   ticketContentList: ["Early Bird - PGDay.IT 2017", "13 ottobre", "Milano"]
-  validFrom: "2017-06-07T10:00"
+  validFrom: "2017-06-15T10:00"
   validThrough: "2017-09-15T23:59"
   disabled: true
  -
@@ -158,7 +158,7 @@ ticketsOffers:
   buyButtonLink: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231"
   buyButtonText: "Acquistalo adesso"
   ticketContentList: ["Ordinario - PGDay.IT 2017", "13 ottobre", "Milano"]
-  validFrom: "2017-06-07T00:00"
+  validFrom: "2017-09-16T00:00"
   validThrough: "2017-10-12T23:59"
   disabled: true
  -
@@ -169,7 +169,7 @@ ticketsOffers:
   buyButtonText: "Acquistalo adesso"
   additionalInfo: "Sarà richiesto una dimostrazione di stato STUDENTE al desk della manifestazione. In assenza di dimostrazione, il biglietto sarà cancellato senza possibilità di rimborso."
   ticketContentList: ["Studente - PGDay.IT 2017", "13 ottobre", "Milano"]
-  validFrom: "2017-06-07T10:00"
+  validFrom: "2017-06-15T10:00"
   validThrough: "2017-10-12T23:59"
   disabled: true
 
