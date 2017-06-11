@@ -1,12 +1,57 @@
 - 
-  id: 3
-  name: "_________________"
+  id: 0
+  name: "Max"
   surname: "________________"
   company: "____________________"
   title: "_______________________________"
   bio: "_________________________________________________________________________________"
   thumbnailUrl: ___________________.jpg
   rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 1
+  name: "Paul"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  bio: "_________________________________________________________________________________"
+  thumbnailUrl: ___________________.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 2
+  name: "Geronimo"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  bio: "_________________________________________________________________________________"
+  thumbnailUrl: ___________________.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 3
+  name: "Pippo"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  bio: "_________________________________________________________________________________"
+  thumbnailUrl: ___________________.jpg
+  rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
     - {name: "twitter", link: "https://twitter.com/_______________"}
@@ -15,13 +60,13 @@
     - {name: "facebook", link: "https://_____________________"}
 - 
   id: 4
-  name: "_________________"
+  name: "Pluto"
   surname: "________________"
   company: "____________________"
   title: "_______________________________"
   bio: "_________________________________________________________________________________"
   thumbnailUrl: ___________________.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
     - {name: "twitter", link: "https://twitter.com/_______________"}
@@ -30,13 +75,13 @@
     - {name: "facebook", link: "https://_____________________"}
 - 
   id: 5
-  name: "_________________"
+  name: "Paperino"
   surname: "________________"
   company: "____________________"
   title: "_______________________________"
   bio: "_________________________________________________________________________________"
   thumbnailUrl: ___________________.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
     - {name: "twitter", link: "https://twitter.com/_______________"}
@@ -45,13 +90,13 @@
     - {name: "facebook", link: "https://_____________________"}
 - 
   id: 6
-  name: "_________________"
+  name: "Minni"
   surname: "________________"
   company: "____________________"
   title: "_______________________________"
   bio: "_________________________________________________________________________________"
   thumbnailUrl: ___________________.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
     - {name: "twitter", link: "https://twitter.com/_______________"}
@@ -60,13 +105,238 @@
     - {name: "facebook", link: "https://_____________________"}
 - 
   id: 7
-  name: "_________________"
+  name: "Francesco"
+  surname: "Canovai"
+  company: "____________________"
+  title: "_______________________________"
+  bio: "_________________________________________________________________________________"
+  thumbnailUrl: ___________________.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 8
+  name: "Giulio"
+  surname: "Calacoci"
+  company: "____________________"
+  title: "_______________________________"
+  bio: "_________________________________________________________________________________"
+  thumbnailUrl: ___________________.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 9
+  name: "Bianco"
   surname: "________________"
   company: "____________________"
   title: "_______________________________"
   bio: "_________________________________________________________________________________"
   thumbnailUrl: ___________________.jpg
-  rockstar: true
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 10
+  name: "Verde"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  bio: "_________________________________________________________________________________"
+  thumbnailUrl: ___________________.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 11
+  name: "Rosso"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  bio: "_________________________________________________________________________________"
+  thumbnailUrl: ___________________.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 12
+  name: "Blu"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  bio: "_________________________________________________________________________________"
+  thumbnailUrl: ___________________.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 13
+  name: "Arancio"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  bio: "_________________________________________________________________________________"
+  thumbnailUrl: ___________________.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 14
+  name: "Giallo"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  bio: "_________________________________________________________________________________"
+  thumbnailUrl: ___________________.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 15
+  name: "Rosa"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  bio: "_________________________________________________________________________________"
+  thumbnailUrl: ___________________.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 16
+  name: "Coso"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  bio: "_________________________________________________________________________________"
+  thumbnailUrl: ___________________.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 17
+  name: "Archimede"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  bio: "_________________________________________________________________________________"
+  thumbnailUrl: ___________________.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 18
+  name: "Arabella"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  bio: "_________________________________________________________________________________"
+  thumbnailUrl: ___________________.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 19
+  name: "Amalia"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  bio: "_________________________________________________________________________________"
+  thumbnailUrl: ___________________.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 20
+  name: "Paperone"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  bio: "_________________________________________________________________________________"
+  thumbnailUrl: ___________________.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 21
+  name: "Gastone"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  bio: "_________________________________________________________________________________"
+  thumbnailUrl: ___________________.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 22
+  name: "Tom"
+  surname: "________________"
+  company: "____________________"
+  title: "_______________________________"
+  bio: "_________________________________________________________________________________"
+  thumbnailUrl: ___________________.jpg
+  rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
     - {name: "twitter", link: "https://twitter.com/_______________"}
