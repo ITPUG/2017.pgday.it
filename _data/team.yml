@@ -9,10 +9,9 @@
     - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "twitter", link: "https://twitter.com/mnencia"}
     - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/mnencia"}
 - 
   id: 1
   name: "Matteo"
@@ -24,40 +23,35 @@
     - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "twitter", link: "https://twitter.com/mbeccati"}
     - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/beccati"}
 - 
   id: 2
   name: "Patrizia"
   surname: "Dabizzi"
   title: "Tesoriere Associazione ITPUG"
-  thumbnailUrl: ___________________.jpg
+  thumbnailUrl: patri.jpg
   team: true
   ribbon: 
     - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
+    - {name: "twitter", link: "https://twitter.com/DabizziPatrizia"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/patrizia-dabizzi-a1946865"}
 - 
   id: 3
   name: "Barbara"
   surname: "Milani"
   title: "Segretario Associazione ITPUG"
-  thumbnailUrl: ___________________.jpg
+  thumbnailUrl: bam965.jpg
   team: true
   ribbon: 
     - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
+    - {name: "twitter", link: "https://twitter.com/bam965"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/bam965"}
 - 
   id: 4
   name: "Giuseppe"
@@ -69,10 +63,9 @@
     - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "twitter", link: "https://twitter.com/giubro"}
     - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/gbroccolo7"}
 - 
   id: 0
   name: "_________________"
@@ -87,7 +80,6 @@
     - {name: "twitter", link: "https://twitter.com/_______________"}
     - {name: "github", link: "https://github.com/_____________________"}
     - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
 - 
   id: 1
   name: "_________________"
@@ -102,7 +94,6 @@
     - {name: "twitter", link: "https://twitter.com/_______________"}
     - {name: "github", link: "https://github.com/_____________________"}
     - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
 - 
   id: 2
   name: "_________________"
@@ -132,7 +123,6 @@
     - {name: "twitter", link: "https://twitter.com/_______________"}
     - {name: "github", link: "https://github.com/_____________________"}
     - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
 - 
   id: 4
   name: "_________________"
@@ -160,10 +150,9 @@
     - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
+    - {name: "twitter", link: "https://twitter.com/mnencia"}
+    - {name: "github", link: "https://github.com/ITPUG/2017.pgday.it"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/mnencia"}
 - 
   id: 1
   name: "Matteo"
@@ -176,9 +165,8 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
     - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
+    - {name: "github", link: "https://github.com/ITPUG/2017.pgday.it"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/matteopasquini"}
 - 
   id: 2
   name: "Paolo"
@@ -191,21 +179,19 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
     - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "github", link: "https://github.com/ITPUG/2017.pgday.it"}
     - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
 - 
   id: 3
   name: "Barbara"
   surname: "Milani"
   title: "_______________________________"  
-  thumbnailUrl: ___________________.jpg
+  thumbnailUrl: bam965.jpg
   exTeam: true
   ribbon: 
     - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
+    - {name: "twitter", link: "https://twitter.com/bam965"}
+    - {name: "github", link: "https://github.com/ITPUG/2017.pgday.it"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/bam965"}
