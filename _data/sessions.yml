@@ -1,44 +1,80 @@
 -
-  id: 5432
+  id: 000
   title: "Registrazione partecipanti"
   place: "Hall"
   service: true
-  description: "____________________"
+  description: "Corridoio 'Chiosco della Magnolia': i partecipanti sono invitati ad avere a portata di mano il biglietto in modo da accelerare la procedura di registrazione"
 -
   id: 307
   title: "Coffee break"
   place: "Hall"
   service: true
-  description: "Uno dei momenti per interagire con gli altri partecipanti"
+  description: "Corridoio 'Chiosco della Magnolia'"
 -
   id: 503
   title: "Lunch"
   place: "Hall"
   service: true
-  description: "Rilassante momento per condividere le proprie esperienze"
+  description: "Corridoio 'Chiosco della Magnolia'"
+-
+  id: 002
+  title: "Lightning talk"
+  service: true
+  description: "Sessione libera: 5 minuti a disposizione di tutti i partecipanti. Per iscriversi, basterà segnalare il proprio Nome, Cognome e Titolo dello speach sulla board presente accanto al desk ITPUG"
+  subtype: Lightning talk
+  language: en - it
+  video: "//www.youtube.com/________________"
+-
+  id: 005
+  title: "Recruiting session"
+  service: true
+  description: "Sessione a disposizione di Aziende che sono alla ricerca di personale specializzato per ampliare il proprio team."
+  subtype: Recruiting session
+  language: en - it
+  video: "//www.youtube.com/________________"
 -
   id: 001
   title: "Keynote"
   description: "__________________"
   subtype: Keynote
-  speakers: [1]
+  speakers: [0]
   language: en
   complexity: "__________________"
   presentation: "https://____________________"
   video: "//www.youtube.com/_____________"
 -
-  id: 002
-  title: "Lightning talk"
+  id: 003
+  title: "Rock"
   description: "______________________"
-  subtype: Lightning talk
-  speakers: [6]
+  subtype: Talk
+  speakers: [1]
   language: en - it
   complexity: "______________" 
   presentation: "https://____________________"
   video: "//www.youtube.com/________________"
 -
-  id: 003
-  title: "___________"
+  id: 004
+  title: "Star"
+  description: "______________________"
+  subtype: Talk
+  speakers: [2]
+  language: en - it
+  complexity: "______________" 
+  presentation: "https://____________________"
+  video: "//www.youtube.com/________________"
+-
+  id: 010
+  title: "Talk1"
+  description: "______________________"
+  subtype: Talk
+  speakers: [3]
+  language: en - it
+  complexity: "______________" 
+  presentation: "https://____________________"
+  video: "//www.youtube.com/________________"
+-
+  id: 011
+  title: "Talk2"
   description: "______________________"
   subtype: Talk
   speakers: [4]
@@ -47,8 +83,8 @@
   presentation: "https://____________________"
   video: "//www.youtube.com/________________"
 -
-  id: 004
-  title: "___________"
+  id: 012
+  title: "Talk3"
   description: "______________________"
   subtype: Talk
   speakers: [5]
@@ -57,11 +93,101 @@
   presentation: "https://____________________"
   video: "//www.youtube.com/________________"
 -
-  id: 005
-  title: "Recruiting session"
+  id: 013
+  title: "Talk4"
   description: "______________________"
-  subtype: Recruiting session
-  speakers: [7]
+  subtype: Talk
+  speakers: [6]
+  language: en - it
+  complexity: "______________" 
+  presentation: "https://____________________"
+  video: "//www.youtube.com/________________"
+-
+  id: 014
+  title: "Talk5"
+  description: "______________________"
+  subtype: Talk
+  speakers: [7, 8]
+  language: en - it
+  complexity: "______________" 
+  presentation: "https://____________________"
+  video: "//www.youtube.com/________________"  
+-
+  id: 015
+  title: "Talk6"
+  description: "______________________"
+  subtype: Talk
+  speakers: [9]
+  language: en - it
+  complexity: "______________" 
+  presentation: "https://____________________"
+  video: "//www.youtube.com/________________"  
+-
+  id: 016
+  title: "Talk7"
+  description: "______________________"
+  subtype: Talk
+  speakers: [10]
+  language: en - it
+  complexity: "______________" 
+  presentation: "https://____________________"
+  video: "//www.youtube.com/________________"
+-
+  id: 017
+  title: "Talk8"
+  description: "______________________"
+  subtype: Talk
+  speakers: [11]
+  language: en - it
+  complexity: "______________" 
+  presentation: "https://____________________"
+  video: "//www.youtube.com/________________"
+-
+  id: 018
+  title: "Talk9"
+  description: "______________________"
+  subtype: Talk
+  speakers: [12]
+  language: en - it
+  complexity: "______________" 
+  presentation: "https://____________________"
+  video: "//www.youtube.com/________________"
+-
+  id: 019
+  title: "Talk10"
+  description: "______________________"
+  subtype: Talk
+  speakers: [13]
+  language: en - it
+  complexity: "______________" 
+  presentation: "https://____________________"
+  video: "//www.youtube.com/________________"
+-
+  id: 020
+  title: "Talk11"
+  description: "______________________"
+  subtype: Talk
+  speakers: [14]
+  language: en - it
+  complexity: "______________" 
+  presentation: "https://____________________"
+  video: "//www.youtube.com/________________"
+-
+  id: 021
+  title: "Talk12"
+  description: "______________________"
+  subtype: Talk
+  speakers: [15]
+  language: en - it
+  complexity: "______________" 
+  presentation: "https://____________________"
+  video: "//www.youtube.com/________________"
+-
+  id: 022
+  title: "Talk13"
+  description: "______________________"
+  subtype: Talk
+  speakers: [16]
   language: en - it
   complexity: "______________" 
   presentation: "https://____________________"
