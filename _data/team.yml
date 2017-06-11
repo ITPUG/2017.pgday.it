@@ -1,10 +1,85 @@
 - 
   id: 0
+  name: "Marco"
+  surname: "Nenciarini"
+  title: "Presidente Associazione ITPUG"
+  thumbnailUrl: ___________________.jpg
+  team: true
+  ribbon: 
+    - {abbr: "______", title: "_________________"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 1
+  name: "Matteo"
+  surname: "Beccati"
+  title: "Vice-Presidente Associazione ITPUG"
+  thumbnailUrl: ___________________.jpg
+  team: true
+  ribbon: 
+    - {abbr: "______", title: "_________________"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 2
+  name: "Patrizia"
+  surname: "Dabizzi"
+  title: "Tesoriere Associazione ITPUG"
+  thumbnailUrl: ___________________.jpg
+  team: true
+  ribbon: 
+    - {abbr: "______", title: "_________________"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 3
+  name: "Barbara"
+  surname: "Milani"
+  title: "Segretario Associazione ITPUG"
+  thumbnailUrl: ___________________.jpg
+  team: true
+  ribbon: 
+    - {abbr: "______", title: "_________________"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 4
+  name: "Giuseppe"
+  surname: "Broccolo"
+  title: "Consigliere"
+  thumbnailUrl: ___________________.jpg
+  team: true
+  ribbon: 
+    - {abbr: "______", title: "_________________"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 0
   name: "_________________"
   surname: "________________"
   title: "_______________________________"
   thumbnailUrl: ___________________.jpg
-  team: true
+  subTeam: true
   ribbon: 
     - {abbr: "______", title: "_________________"}
   social: 
@@ -19,7 +94,7 @@
   surname: "________________"
   title: "_______________________________"
   thumbnailUrl: ___________________.jpg
-  team: true
+  subTeam: true
   ribbon: 
     - {abbr: "______", title: "_________________"}
   social: 
@@ -34,7 +109,7 @@
   surname: "________________"
   title: "_______________________________"
   thumbnailUrl: ___________________.jpg
-  team: true
+  subTeam: true
   ribbon: 
     - {abbr: "______", title: "_________________"}
   social: 
@@ -49,7 +124,83 @@
   surname: "________________"
   title: "_______________________________"
   thumbnailUrl: ___________________.jpg
-  team: true
+  subTeam: true
+  ribbon: 
+    - {abbr: "______", title: "_________________"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 4
+  name: "_________________"
+  surname: "________________"
+  title: "_______________________________"
+  thumbnailUrl: ___________________.jpg
+  subTeam: true
+  ribbon: 
+    - {abbr: "______", title: "_________________"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+    
+- 
+  id: 0
+  name: "Marco"
+  surname: "Nenciarini"
+  title: "_______________________________"  
+  thumbnailUrl: ___________________.jpg
+  exTeam: true
+  ribbon: 
+    - {abbr: "______", title: "_________________"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 1
+  name: "Matteo"
+  surname: "Pasquini"
+  title: "_______________________________"  
+  thumbnailUrl: ___________________.jpg
+  exTeam: true
+  ribbon: 
+    - {abbr: "______", title: "_________________"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 2
+  name: "Paolo"
+  surname: "________________"
+  title: "_______________________________"  
+  thumbnailUrl: ___________________.jpg
+  exTeam: true
+  ribbon: 
+    - {abbr: "______", title: "_________________"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+    - {name: "facebook", link: "https://_____________________"}
+- 
+  id: 3
+  name: "Barbara"
+  surname: "Milani"
+  title: "_______________________________"  
+  thumbnailUrl: ___________________.jpg
+  exTeam: true
   ribbon: 
     - {abbr: "______", title: "_________________"}
   social: 
