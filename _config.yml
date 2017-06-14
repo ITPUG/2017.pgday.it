@@ -149,7 +149,7 @@ ticketsOffers:
   ticketContentList: ["Early Bird - PGDay.IT 2017", "13 ottobre", "Milano"]
   validFrom: "2017-06-15T10:00"
   validThrough: "2017-09-15T23:59"
-  disabled: true
+  disabled: false
  -
   name: "Ordinario"
   price: "95,00"
@@ -171,7 +171,7 @@ ticketsOffers:
   ticketContentList: ["Studente - PGDay.IT 2017", "13 ottobre", "Milano"]
   validFrom: "2017-06-15T10:00"
   validThrough: "2017-10-12T23:59"
-  disabled: true
+  disabled: false
 
 # TODO: sistemare permalink o cancellarlo
 # Footer
