@@ -3,6 +3,10 @@ layout: post
 title: Codice di condotta
 permalink: /cod/
 isStaticPost: true
+lang: it
+ref: cod
+redirect_from:
+ - /cod/
 ---
 
 Tutti i delegati, relatori, espositori e volontari del PGDay.IT sono

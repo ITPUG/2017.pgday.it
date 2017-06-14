@@ -1,6 +1,7 @@
 # Plugins
 gems:
 - jekyll-sitemap
+- jekyll-redirect-from
 safe: false
 
 # Build Settings
@@ -12,18 +13,24 @@ exclude:
   - 'LICENSE.txt'
   - 'CNAME'
   # Temporary disabled pages
-  - 'hackathon.html'
-  - 'schedule.html'
-  - 'speakers.html'
-  - 'team.html'
+  - 'hackathon.it.html'
+  - 'hackathon.en.html'
+  - 'schedule.it.html'
+  - 'schedule.en.html'
+  - 'speakers.it.html'
+  - 'speakers.en.html'
+  - 'team.it.html'
+  - 'team.en.html'
 
 # Site Settings
 title: "PGDay.IT 2017"
 email: "pgday@itpug.org"
-description: "Il PostgreSQL Day italiano è la giornata nazionale dedicata interamente a PostgreSQL, il più avanzato database Open Source al mondo"
+description:
+  it: "Il PostgreSQL Day italiano è la giornata nazionale dedicata interamente a PostgreSQL, il più avanzato database Open Source al mondo"
+  en: "The Italian PostgreSQL is the national day completely dedicated at PostgreSQL, the most advance open source database in the world"
 baseurl: ""
 url: "http://2017.pgday.it"
-permalink: "/blog/:title"
+permalink: "/it/blog/:title"
 googleAnalyticsTrackingId: "UA-99990720-1"
 googleAnalyticsSiteUrl: "auto"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
@@ -57,14 +64,19 @@ navigationLinks:
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speaker"}
 # - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistica"}
+ - {permalink: "/logistics/", text: "Logistica", lang: "it"}
+ - {permalink: "/logistics/", text: "Logistics", lang: "en"}
 bottomNavigationLinks:
- - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker"}
- - {link: "/assets/Diventa_Partner_IT_PGDay_2017.pdf", text: "Diventa Partner"}
+ - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
+ - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
+ - {link: "/assets/Diventa_Partner_IT_PGDay_2017.pdf", text: "Diventa Partner", lang: "it"}
+ - {link: "/assets/Be_Partner_EN_PGDay_2017.pdf", text: "Become Partner", lang: "en"}
 rightNavigationButtons:
- - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker"}
- - {link: "/assets/Diventa_Partner_IT_PGDay_2017.pdf", text: "Diventa Partner"}
- 
+ - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
+ - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
+ - {link: "/assets/Diventa_Partner_IT_PGDay_2017.pdf", text: "Diventa Partner", lang: "it"}
+ - {link: "/assets/Be_Partner_EN_PGDay_2017.pdf", text: "Become Partner", lang: "en"}
+
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "PGDay.IT 2017 - <typeout> "
@@ -138,7 +150,7 @@ organizersTitle: "Organizzatori"
 partnersTitle: "Partner"
 partnersC4sponsorsButton: "Diventa Partner"
 
-# TODO: sistemare URL 
+# TODO: sistemare URL
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Resta aggiornato"
@@ -196,13 +208,20 @@ footerBlocks:
   links:
    - {link: "http://www.itpug.org", text: "ITPUG"}
  -
+  lang: "it"
   title: "Contatti"
+  links:
+   - {link: "mailto:info@itpug.org", text: "info@itpug.org"}
+ -
+  lang: "en"
+  title: "Contacts"
   links:
    - {link: "mailto:info@itpug.org", text: "info@itpug.org"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Codice di condotta"}
+   - {permalink: "/cod/", text: "Codice di condotta", lang: "it"}
+   - {permalink: "/cod/", text: "Code of conduct", lang: "en"}
 
 # Blog
 blogTitle: "Notizie dell'ultima ora"

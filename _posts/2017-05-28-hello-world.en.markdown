@@ -3,6 +3,9 @@ layout: post
 title:  "Hello World!"
 date:   2017-05-28 10:00:00
 isStaticPost: false
+permalink: /en/blog/hello-world
+lang: en
+ref: hello
 ---
 
 Siamo molto eccitati - non solo a causa della quantità ingente di bevande a base di caffeina consumati - 

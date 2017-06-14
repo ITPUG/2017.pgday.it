@@ -3,7 +3,7 @@
         "@context" : "http://schema.org",
         "@type" : "Event",
         "name" : "{{ site.title }}",
-        "description": "{{ site.description }}",
+        "description": "{{ site.description[page.lang] }}",
         "image" : "{{ site.socialImageSrcGooglePlus | prepend: site.baseurl | prepend: site.url }}",
         "url" : "{{ site.url }}",
         "startDate" : "{{ site.eventStartTime }}",

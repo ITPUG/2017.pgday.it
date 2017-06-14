@@ -12,7 +12,7 @@
                         </div>
                         <div class="share col-md-6 col-xs-6 pull-right">
                             <ul class="social-links">
-                            {% assign postUrl = page.url | prepend: site.baseurl | prepend: site.url %} 
+                            {% assign postUrl = page.url | prepend: site.baseurl | prepend: site.url %}
                                 <li>
                                     <a href="#" onclick="window.open('https://plus.google.com/share?url={{ postUrl }}', 'newwindow', 'width=600, height=500'); return false;">
                                         <svg class="icon icon-google-plus" viewBox="0 0 30 32">
@@ -38,19 +38,36 @@
                         </div>
                     </div>
                     {% endif %}
-                    
+
                     <div class="post-body">{{ content }}</div>
 
                     <div id="page-navigation" class="page-navigation">
                         <div class="next col-xs-6">
-                            {% if page.next.url %}
-                                <a href="{{ page.next.url | prepend: site.baseurl }}" title="{{ page.next.title | strip_html }}">&laquo; {{page.next.title | strip_html | truncate: 15 }}</a>
-                            {% endif %}
+                            {% for post in site.posts %}
+                              {% if post.lang == page.lang %}
+                                {% if prev %}
+                                  <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title | strip_html }}">&laquo; {{post.title | strip_html | truncate: 15 }}</a>
+                                {% endif %}
+                                {% assign prev = false %}
+                                {% if post.id == page.id %}
+                                  {% assign prev = true %}
+                                {% endif %}
+                              {% endif %}
+                            {% endfor %}
                         </div>
                         <div class="previous col-xs-6 text-right">
-                            {% if page.previous.url %}
-                                <a href="{{ page.previous.url | prepend: site.baseurl }}" title="{{ page.previous.title | strip_html }}">{{page.previous.title | strip_html | truncate: 15 }} &raquo;</a>
-                            {% endif %}
+                            {% for post in site.posts reversed %}
+                              {% if post.lang == page.lang %}
+                                {% if next %}
+                                  <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title | strip_html }}">{{post.title | strip_html | truncate: 15 }} &raquo;</a>
+                                  {% break %}
+                                {% endif %}
+                                {% assign next = false %}
+                                {% if post.id == page.id %}
+                                  {% assign next = true %}
+                                {% endif %}
+                              {% endif %}
+                            {% endfor %}
                         </div>
                     </div>
 
@@ -64,7 +81,7 @@
 
                 {% if include.isStaticPost == false %}
                     <div class="row text-center">
-                        <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a>
+                        <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: page.lang | prepend: "/" | prepend: site.baseurl }}" target="_blank">via RSS</a>
                         </p>
                     </div>
                 {% endif %}

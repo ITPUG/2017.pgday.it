@@ -3,6 +3,9 @@ layout: post
 title:  "Call for Papers"
 date:   2017-05-29 12:00:00
 isStaticPost: false
+permalink: /en/blog/call-for-papers
+lang: en
+ref: cfp
 ---
 PGDay.IT 2017 si terrà il 13 ottobre a Milano. Se vuoi essere parte di questa fantastica manifestazione come speaker … bussa e ti sarà aperto.
 
