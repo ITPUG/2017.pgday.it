@@ -79,14 +79,25 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "PGDay.IT 2017 - <typeout> "
-eventDate: "Milano, 13 Ottobre, 2017"
-typeoutTextValues: '"", "13 ottobre", "Milano", "Italy", ""'
-typeoutFallback: "Milano, 13 ottobre 2017"
+heroTitle:
+  it: "PGDay.IT 2017 - <typeout> "
+  en: "PGDay.IT 2017 - <typeout> "
+eventDate:
+  it: "Milano, 13 Ottobre, 2017"
+  en: "Milan, October 13th, 2017"
+typeoutTextValues:
+  it: '"", "13 ottobre", "Milano", "Italy", ""'
+  en: '"", "October 13th", "Milan", "Italy", ""'
+typeoutFallback:
+  it: "Milano, 13 ottobre 2017"
+  en: "Milan, October 13th, 2017"
 heroButtons:
- - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa speaker"}
- - {link: "/assets/Diventa_Partner_IT_PGDay_2017.pdf", text: "Diventa Partner"}
- - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Acquista il tuo biglietto"}
+ - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
+ - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
+ - {link: "/assets/Diventa_Partner_IT_PGDay_2017.pdf", text: "Diventa Partner", lang: "it"}
+ - {link: "/assets/Be_Partner_EN_PGDay_2017.pdf", text: "Become Partner", lang: "en"}
+ - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Acquista il tuo biglietto", lang: "it"}
+ - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Get your ticket", lang: "en"}
 
 # About Block
 aboutTitle: "Informazioni sul PGDay.IT"
