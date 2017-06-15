@@ -91,7 +91,7 @@ heroButtons:
 # About Block
 aboutTitle: "Informazioni sul PGDay.IT"
 aboutBlock:
- - {title: "Conferenza", image: "conference.jpg", text: "PGDay.IT è la conferenza italiana dedicata a PostgreSQL, uno dei progetto open-source di maggior successo. Il primo PGDay.IT si è svolto il 7 luglio 2007 e da allora la manifestazione ha avuto una cadenza annuale. Questa è l'undicesima edizione." }
+ - {title: "Conferenza", image: "conference.jpg", text: "PGDay.IT è la conferenza italiana dedicata a PostgreSQL, uno dei progetti open-source di maggior successo. Il primo PGDay.IT si è svolto il 7 luglio 2007 e da allora la manifestazione ha avuto una cadenza annuale. Questa è l'undicesima edizione." }
  - {title: "Be social", image: "workshop.jpg", text: "Come nostro costume: l'immancabile PG_beer! Sei disposto a rinunciarci? Ancora non possiamo dirti dove avrà luogo, ma, seguendoci sui nostri canali, lo scoprirai presto." }
 
 # Statistic Block
