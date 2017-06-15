@@ -86,7 +86,7 @@ typeoutFallback: "Milano, 13 ottobre 2017"
 heroButtons:
  - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa speaker"}
  - {link: "/assets/Diventa_Partner_IT_PGDay_2017.pdf", text: "Diventa Partner"}
- - {permalink: "/#tickets", text: "Acquista il tuo biglietto"}
+ - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Acquista il tuo biglietto"}
 
 # About Block
 aboutTitle: "Informazioni sul PGDay.IT"
