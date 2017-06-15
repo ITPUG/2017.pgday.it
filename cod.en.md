@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Codice di condotta
-permalink: /cod/
+permalink: /en/cod/
 isStaticPost: true
 lang: en
 ref: cod
