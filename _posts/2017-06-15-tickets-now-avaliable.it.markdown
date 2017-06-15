@@ -3,11 +3,11 @@ layout: post
 title:  "Disponibili i biglietti per il PGDay.IT 2017"
 date:   2017-06-15 10:00:00
 isStaticPost: false
-permalink: /it/blog/pubblicazione-biglietti-PGDay
+permalink: /it/blog/tickets-now-avaliable
 lang: it
-ref: bpg
+ref: tickets-now-avaliable
 redirect-from:
- - /blog//pubblicazione-biglietti-PGDay
+ - /blog/tickets-now-avaliable
 ---
 
 Ci siamo!
