@@ -14,12 +14,12 @@ Registrations to attend [PGDay.IT 2017](http://2017.pgday.it/) are open. Tickets
 
 As with the previous editions, we have provided 3 different types of tickets:
 
-* **Early Bird**: **47,00 €** that will no longer be available from September 16th, 2017. From September 16th to October 12nd the **Ordinary** will be available: **95,00 €**.
+* **Early Bird**: **47,00 €** that will no longer be available from September 16th, 2017. From September 16th to October 12th the **Ordinary** tickeys will be available: **95,00 €**.
 
-* **Student**: **15,00 €**. Ticket available until October 12. Important: A STUDENT status demonstration will be requested at the event desk. In the absence of that, the ticket will be canceled without refund.
+* **Student**: **15,00 €**. Ticket available until October 12th. Important: A valid student document will be requested at the front desk. In case a valid document demostrating a student status is not presented, the ticket will be canceled without refund.
 
-Considering that [Call for Paper](http://2017.pgday.it/en/blog/call-for-papers) is still in progress, we certainly can not incite you to benefit from the opening of [Early Bird](https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231)  by showing you the Schedule of the day. But we can tell you that there are so many beautiful proposals coming. All with high technical content. So do not miss the opportunity!
+We cannot rush you to benefit from the [Early Bird](https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231) since [Call for Paper](http://2017.pgday.it/en/blog/call-for-papers) is still in progress, and we do not have yet a definite schedule for the day. We can assure we have many interesting technical contents proposals, so do not miss this opportunity!
 
-Companies interested in more than 3 tickets are invited to contact us by writing to: [pgday@itpug.org](mailto:pgday@itpug.org)
+Companies interested in more than 3 tickets are invited to contact us by sending an email to: [pgday@itpug.org](mailto:pgday@itpug.org)
 
-See you in Milan on October 13, 2017.
+See you in Milan on October 13th, 2017.
