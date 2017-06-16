@@ -22,32 +22,32 @@ If you belong to one of these groups, you are invited to submit a talk proposal 
 
 Our team has identified a number of interesting topics to talk about. If you have an idea not present in the list below, go ahead and share it with us.
 
-####### PostgreSQL
+###### PostgreSQL
 
 * PostgreSQL
 * PostGIS
 * Migration from other databases
 
-####### OS Languages
+###### OS Languages
 
 * Programming Languages
 * Continuous Integration
 * Integration with other software
 
-####### Environments
+###### Environments
 
 * Hardware and Benchmarking
 * Linux Containers
 * Cloud
 * Operating Systems
 
-####### Instruments
+###### Instruments
 
 * Monitoring Systems
 * Virtualization Tools
 * Configuration Managers
 
-####### Not just code
+###### Not just code
 
 * Case Studies
 * Devops
