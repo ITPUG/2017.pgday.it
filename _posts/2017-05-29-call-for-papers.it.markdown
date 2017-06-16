@@ -11,7 +11,7 @@ redirect-from:
 ---
 PGDay.IT 2017 si terrà il 13 ottobre a Milano. Se vuoi essere parte di questa fantastica manifestazione come speaker … bussa e ti sarà aperto.
 
-###### Chi dovrebbe candidarsi come speaker per il PGDay.IT 2017?
+###### Chi dovrebbe candidarsi come speaker al PGDay.IT 2017?
 
 * Utilizzatori di PostgreSQL
 * Aziende che affidano a PostgreSQL i loro dati
