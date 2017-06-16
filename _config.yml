@@ -100,10 +100,14 @@ heroButtons:
  - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Get your ticket", lang: "en"}
 
 # About Block
-aboutTitle: "Informazioni sul PGDay.IT"
+aboutTitle:
+  it: "Informazioni sul PGDay.IT"
+  en: "Informazioni sul PGDay.IT"
 aboutBlock:
- - {title: "Conferenza", image: "conference.jpg", text: "PGDay.IT è la conferenza italiana dedicata a PostgreSQL, uno dei progetti open-source di maggior successo. Il primo PGDay.IT si è svolto il 7 luglio 2007 e da allora la manifestazione ha avuto una cadenza annuale. Questa è l'undicesima edizione." }
- - {title: "Be social", image: "workshop.jpg", text: "Come nostro costume: l'immancabile PG_beer! Sei disposto a rinunciarci? Ancora non possiamo dirti dove avrà luogo, ma, seguendoci sui nostri canali, lo scoprirai presto." }
+ - {lang: "it", title: "Conferenza", image: "conference.jpg", text: "PGDay.IT è la conferenza italiana dedicata a PostgreSQL, uno dei progetti open-source di maggior successo. Il primo PGDay.IT si è svolto il 7 luglio 2007 e da allora la manifestazione ha avuto una cadenza annuale. Questa è l'undicesima edizione." }
+ - {lang: "en", title: "Conference", image: "conference.jpg", text: "PGDay.IT è la conferenza italiana dedicata a PostgreSQL, uno dei progetti open-source di maggior successo. Il primo PGDay.IT si è svolto il 7 luglio 2007 e da allora la manifestazione ha avuto una cadenza annuale. Questa è l'undicesima edizione." }
+ - {lang: "it", title: "Be social", image: "workshop.jpg", text: "Come nostro costume: l'immancabile PG_beer! Sei disposto a rinunciarci? Ancora non possiamo dirti dove avrà luogo, ma, seguendoci sui nostri canali, lo scoprirai presto." }
+ - {lang: "en", title: "Be social", image: "workshop.jpg", text: "Come nostro costume: l'immancabile PG_beer! Sei disposto a rinunciarci? Ancora non possiamo dirti dove avrà luogo, ma, seguendoci sui nostri canali, lo scoprirai presto." }
 
 # Statistic Block
 statisticBlockTitle: "Dieci edizioni del PGDay.It:"
