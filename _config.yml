@@ -106,12 +106,12 @@ heroButtons:
 # About Block
 aboutTitle:
   it: "Informazioni sul PGDay.IT"
-  en: "Informazioni sul PGDay.IT"
+  en: "About PGDay.IT"
 aboutBlock:
  - {lang: "it", title: "Conferenza", image: "conference.jpg", text: "PGDay.IT è la conferenza italiana dedicata a PostgreSQL, uno dei progetti open-source di maggior successo. Il primo PGDay.IT si è svolto il 7 luglio 2007 e da allora la manifestazione ha avuto una cadenza annuale. Questa è l'undicesima edizione." }
- - {lang: "en", title: "Conference", image: "conference.jpg", text: "PGDay.IT è la conferenza italiana dedicata a PostgreSQL, uno dei progetti open-source di maggior successo. Il primo PGDay.IT si è svolto il 7 luglio 2007 e da allora la manifestazione ha avuto una cadenza annuale. Questa è l'undicesima edizione." }
+ - {lang: "en", title: "Conference", image: "conference.jpg", text: "PGDay.IT is the Italian event dedicated to PostgreSQL, one of the most successful open-source projects. The first PGDay.IT took place on July 7, 2007 and since then the event has had an annual cadence. This is the eleventh edition." }
  - {lang: "it", title: "Be social", image: "workshop.jpg", text: "Come nostro costume: l'immancabile PG_beer! Sei disposto a rinunciarci? Ancora non possiamo dirti dove avrà luogo, ma, seguendoci sui nostri canali, lo scoprirai presto." }
- - {lang: "en", title: "Be social", image: "workshop.jpg", text: "Come nostro costume: l'immancabile PG_beer! Sei disposto a rinunciarci? Ancora non possiamo dirti dove avrà luogo, ma, seguendoci sui nostri canali, lo scoprirai presto." }
+ - {lang: "en", title: "Be social", image: "workshop.jpg", text: "Like our costume: the inevitable PG_beer! Are you willing to give up?" }
 
 # Statistic Block
 statisticBlockTitle: "Dieci edizioni del PGDay.It:"
@@ -125,7 +125,7 @@ statisticBlock:
 # Latest News Block
 latestNewsTitle:
   it: "Notizie dell'ultima ora"
-  en: "Notizie dell'ultima ora"
+  en: "Last News"
 
 # TODO: risulta vuota, può essere lasciata
 # Rockstar Speakers Block
