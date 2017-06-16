@@ -64,18 +64,22 @@ navigationLinks:
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speaker"}
 # - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistica", lang: "it"}
- - {permalink: "/logistics/", text: "Logistics", lang: "en"}
-bottomNavigationLinks:
  - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
  - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
  - {link: "/assets/Diventa_Partner_IT_PGDay_2017.pdf", text: "Diventa Partner", lang: "it"}
  - {link: "/assets/Be_Partner_EN_PGDay_2017.pdf", text: "Become Partner", lang: "en"}
-rightNavigationButtons:
- - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
- - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
- - {link: "/assets/Diventa_Partner_IT_PGDay_2017.pdf", text: "Diventa Partner", lang: "it"}
- - {link: "/assets/Be_Partner_EN_PGDay_2017.pdf", text: "Become Partner", lang: "en"}
+ - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Acquista il tuo biglietto", lang: "it"}
+ - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Buy your ticket", lang: "en"} 
+#bottomNavigationLinks:
+ #- {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
+ #- {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
+ #- {link: "/assets/Diventa_Partner_IT_PGDay_2017.pdf", text: "Diventa Partner", lang: "it"}
+ #- {link: "/assets/Be_Partner_EN_PGDay_2017.pdf", text: "Become Partner", lang: "en"}
+#rightNavigationButtons:
+ #- {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
+ #- {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
+ #- {link: "/assets/Diventa_Partner_IT_PGDay_2017.pdf", text: "Diventa Partner", lang: "it"}
+ #- {link: "/assets/Be_Partner_EN_PGDay_2017.pdf", text: "Become Partner", lang: "en"}
 
 # Hero Block
 heroImage: "hero.jpg"
