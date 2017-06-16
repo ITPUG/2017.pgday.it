@@ -7,62 +7,60 @@ permalink: /en/blog/call-for-papers
 lang: en
 ref: cfp
 ---
-PGDay.IT 2017 si terrà il 13 ottobre a Milano. Se vuoi essere parte di questa fantastica manifestazione come speaker … bussa e ti sarà aperto.
+[PGDay.IT 2017](http://2017.pgday.it/en/) will be held on October 13th in Milan. If you want to be part of this event as a speaker ... please, knocks the doar and it will be open.
 
-#### Chi dovrebbe candidarsi come speaker per il PGDay.IT 2017?
+#### Who should apply as speaker for PGDay.IT 2017?
 
-* Utilizzatori di PostgreSQL
-* Aziende che affidano a PostgreSQL i loro dati
-* PostgreSQL hackers o Sviluppatori di tool per PostgreSQL
-* Chiunque abbia qualcosa di interessante da dire su PostgreSQL
+* PostgreSQL users
+* Companies that rely PostgreSQL
+* PostgreSQL hackers or PostgreSQL Tool Developers
+* Anyone who wants to share important facts or issues about PostgreSQL
 
-Se appartieni ad uno di questi gruppi, sei invitato a presentare una proposta di talk (o una serie di proposte). Il comitato tecnico designato, valuterà le proposte e selezionerà i talk per la manifestazione. Magari tra questi potrebbe esserci il tuo!
+If you belong to one of these groups, you are invited to submit a talk proposal (or proposals). The designated technical committee will evaluate the proposals and select the talk for the event. It could be yours!
 
-#### Temi e argomenti - cosa ci aspettiamo?
+#### Topics and Arguments - What Do We Expect?
 
-Il nostro team ha selezionato una serie di topic interessanti, ma se hai un’idea che vuoi condividere non presente in questa lista, fatti avanti.
+Our team has identified a number of interesting topics to talk about. If you have an idea not present in the list below, go ahead and share it with us.
 
 ##### PostgreSQL
 
 * PostgreSQL
 * PostGIS
-* Migrazioni da altri database
+* Migration from other databases
 
-##### Linguaggi OS
+##### OS Languages
 
-* Linguaggi di programmazione
-* Continuous integration
-* Integrazioni con altri software
+* Programming Languages
+* Continuous Integration
+* Integration with other software
 
-##### Ambienti
+##### Environments
 
-* Hardware e Benchmarking
+* Hardware and Benchmarking
 * Linux Containers
 * Cloud
-* Sistemi operativi
+* Operating Systems
 
-##### Strumenti
+##### Instruments
 
-* Sistemi di monitoraggio
-* Virtualization tool
-* Configuration managers
+* Monitoring Systems
+* Virtualization Tools
+* Configuration Managers
 
-##### Non solo codice
+##### Not just code
 
-* Casi di studio
+* Case Studies
 * Devops
-* Modello di business open source
-* Ricerca e insegnamento con PostgreSQL
+* Open Source Business model
+* Researching and School teaching with PostgreSQL
 
+#### Please submit your proposal [here](https://goo.gl/forms/oT0q0UEXcedu1pbt1).
 
-#### Per favore, inserisci la tua proposta [qui](https://goo.gl/forms/oT0q0UEXcedu1pbt1).
+__Deadline:__ July 9th, 2017.
 
-__Deadline__ il 9 luglio 2017.
+__Important:__ There is no guarantee that your proposal will be included in the event schedule.
 
-__Importante:__ Non c'è alcuna garanzia che la tua proposta verrà inserita nello schedule della manifestazione.<br/>
+The Technical Committee will select the most interesting proposals received and will inform the candidates no later than July 30th, 2017.
 
-Il comitato tecnico selezionerà le proposte pervenute più interessanti e informerà i candidati selezionati entro e  non oltre il 30 luglio 2017.
-
-#### Domande? 
-
-Invia una email agli organizzatori [pgday@itpug.org](mailto:pgday@itpug.org)
+__Questions?__
+Please send an email with your questions or comments to [pgday@itpug.org](mailto:pgday@itpug.org)
