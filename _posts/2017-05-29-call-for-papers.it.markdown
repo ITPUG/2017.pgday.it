@@ -25,32 +25,32 @@ Se appartieni ad uno di questi gruppi, sei invitato a presentare una proposta di
 
 Il nostro team ha selezionato una serie di topic interessanti, ma se hai un’idea che vuoi condividere non presente in questa lista, fatti avanti.
 
-####### PostgreSQL
+###### PostgreSQL
 
 * PostgreSQL
 * PostGIS
 * Migrazioni da altri database
 
-####### Linguaggi OS
+###### Linguaggi OS
 
 * Linguaggi di programmazione
 * Continuous integration
 * Integrazioni con altri software
 
-####### Ambienti
+###### Ambienti
 
 * Hardware e Benchmarking
 * Linux Containers
 * Cloud
 * Sistemi operativi
 
-####### Strumenti
+###### Strumenti
 
 * Sistemi di monitoraggio
 * Virtualization tool
 * Configuration managers
 
-####### Non solo codice
+###### Non solo codice
 
 * Casi di studio
 * Devops
