@@ -6,6 +6,8 @@ isStaticPost: false
 permalink: /en/blog/tickets-now-avaliable
 lang: en
 ref: tickets-now-avaliable
+redirect-from:
+ - /blog/tickets-now-avaliable
 ---
 
 Here we are!
