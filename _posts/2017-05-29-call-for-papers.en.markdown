@@ -9,7 +9,7 @@ ref: cfp
 ---
 [PGDay.IT 2017](http://2017.pgday.it/en/) will be held on October 13th in Milan. If you want to be part of this event as a speaker ... please, knock and the door will be opened!
 
-##### Who should apply as speaker for PGDay.IT 2017?
+###### Who should apply as speaker for PGDay.IT 2017?
 
 * PostgreSQL users
 * Companies that rely PostgreSQL
@@ -18,43 +18,43 @@ ref: cfp
 
 If you belong to one of these groups, you are invited to submit a talk proposal (or proposals). The designated technical committee will evaluate the proposals and select the talk for the event. It could be yours!
 
-##### Topics and Arguments - What Do We Expect?
+###### Topics and Arguments - What Do We Expect?
 
 Our team has identified a number of interesting topics to talk about. If you have an idea not present in the list below, go ahead and share it with us.
 
-###### PostgreSQL
+####### PostgreSQL
 
 * PostgreSQL
 * PostGIS
 * Migration from other databases
 
-###### OS Languages
+####### OS Languages
 
 * Programming Languages
 * Continuous Integration
 * Integration with other software
 
-###### Environments
+####### Environments
 
 * Hardware and Benchmarking
 * Linux Containers
 * Cloud
 * Operating Systems
 
-###### Instruments
+####### Instruments
 
 * Monitoring Systems
 * Virtualization Tools
 * Configuration Managers
 
-###### Not just code
+####### Not just code
 
 * Case Studies
 * Devops
 * Open Source Business model
 * Researching and School teaching with PostgreSQL
 
-##### Please submit your proposal [here](https://goo.gl/forms/oT0q0UEXcedu1pbt1).
+###### Please submit your proposal [here](https://goo.gl/forms/oT0q0UEXcedu1pbt1).
 
 __Deadline:__ July 9th, 2017.
 
