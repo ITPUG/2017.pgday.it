@@ -7,7 +7,7 @@ permalink: /en/blog/call-for-papers
 lang: en
 ref: cfp
 ---
-[PGDay.IT 2017](http://2017.pgday.it/en/) will be held on October 13th in Milan. If you want to be part of this event as a speaker ... please, knocks the doar and it will be open.
+[PGDay.IT 2017](http://2017.pgday.it/en/) will be held on October 13th in Milan. If you want to be part of this event as a speaker ... please, knock and the door will be opened!
 
 #### Who should apply as speaker for PGDay.IT 2017?
 
