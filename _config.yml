@@ -274,9 +274,6 @@ findWayDriving:
 findWayWalking:
   it: "A piedi"
   en: "Walking"
-findWayBicycling:
-  it: "In bicicletta"
-  en: "By bicycle"
 findWayTransit:
   it: "Mezzi pubblici"
   en: "Public Transport"
