@@ -247,7 +247,12 @@ footerBlocks:
    - {permalink: "/cod/", text: "Code of conduct", lang: "en"}
 
 # Blog
-blogTitle: "Notizie dell'ultima ora"
+blogTitle:
+  it: "Notizie dell'ultima ora"
+  en: "Latest News"
+blogReadMore:
+  it: "continua a leggere"
+  en: "read more"
 blogCommentsEnabled: true
 discusShortName: "PGDay.IT_2017"
 
