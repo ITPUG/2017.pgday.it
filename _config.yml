@@ -113,7 +113,7 @@ aboutBlock:
  - {lang: "it", title: "Conferenza", image: "conference.jpg", text: "PGDay.IT è la conferenza italiana dedicata a PostgreSQL, uno dei progetti open-source di maggior successo. Il primo PGDay.IT si è svolto il 7 luglio 2007 e da allora la manifestazione ha avuto una cadenza annuale. Questa è l'undicesima edizione." }
  - {lang: "en", title: "Conference", image: "conference.jpg", text: "PGDay.IT is the Italian event dedicated to PostgreSQL, one of the most successful open-source projects. The first PGDay.IT took place on July 7, 2007 and since then the event has had an annual cadence. This is the eleventh edition." }
  - {lang: "it", title: "Be social", image: "workshop.jpg", text: "Come nostro costume: l'immancabile PG_beer! Sei disposto a rinunciarci? Ancora non possiamo dirti dove avrà luogo, ma, seguendoci sui nostri canali, lo scoprirai presto." }
- - {lang: "en", title: "Be social", image: "workshop.jpg", text: "Like our costume: the inevitable PG_beer! Are you willing to give up?" }
+ - {lang: "en", title: "Be social", image: "workshop.jpg", text: "As our costume: the inevitable PG_beer! Are you willing to give up? We still cannot tell you where it will be, but following us on our channels, you will soon find out." }
 
 # Statistic Block
 statisticBlockTitle: "Dieci edizioni del PGDay.It:"
@@ -159,7 +159,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Fondazione Stelline"
-venueFeatures: ["Nel cuore di Milano, di fronte al Cenacolo di Leonardo e a Santa Maria delle Grazie", "8.000 mq di superficie, 20 sale e meeting & training rooms"]
+venueFeatures: ["Nel cuore di Milano, di fronte al Cenacolo di Leonardo e a Santa Maria delle Grazie", "8.000 mq di superficie, 20 sale e meeting & training room"]
 
 # TODO: sistemare url
 # Tweets Feed Block
@@ -332,7 +332,7 @@ directionDetailsWideCards:
    -
     title: "Hotels are not lacking in Milan. PGDay.IT venue also provides accomodations (Hotel Palazzo delle Stelline). Alternatives? Below you will find some others option close to PGDay.IT 2017."
     links:
-     - {link: "http://www.hotelpalazzostelline.it/", text: "Hotel Palazzo delle Stelline"}
-     - {link: "http://www.anticalocandaleonardo.com/it/", text: "Antica Locanda Leonardo"}
+     - {link: "http://www.hotelpalazzostelline.it/en", text: "Hotel Palazzo delle Stelline"}
+     - {link: "http://www.anticalocandaleonardo.com", text: "Antica Locanda Leonardo"}
      - {link: "http://www.hotel-bb.com/it/hotel/milano-sant-ambrogio.htm", text: "B&B Hotel Milano Sant'Ambrogio"}
      - {link: "http://www.hotelpanizza.it/", text: "Hotel Panizza"}
