@@ -9,6 +9,7 @@ ref: cfp
 redirect-from:
  - /blog/call-for-papers
 ---
+
 PGDay.IT 2017 si terrà il 13 ottobre a Milano. Se vuoi essere parte di questa fantastica manifestazione come speaker … bussa e ti sarà aperto.
 
 ###### Chi dovrebbe candidarsi come speaker al PGDay.IT 2017?
