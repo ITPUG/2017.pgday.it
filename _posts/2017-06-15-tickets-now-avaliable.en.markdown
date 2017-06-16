@@ -14,7 +14,7 @@ Registrations to attend [PGDay.IT 2017](http://2017.pgday.it/) are open. Tickets
 
 As with the previous editions, we have provided 3 different types of tickets:
 
-* **Early Bird**: **47,00 €** that will no longer be available from September 16th, 2017. From September 16th to October 12th the **Ordinary** tickeys will be available: **95,00 €**.
+* **Early Bird**: **47,00 €** that will no longer be available from September 16th, 2017. From September 16th to October 12th the **Ordinary** tickets will be available: **95,00 €**.
 
 * **Student**: **15,00 €**. Ticket available until October 12th. Important: A valid student document will be requested at the front desk. In case a valid document demostrating a student status is not presented, the ticket will be canceled without refund.
 
