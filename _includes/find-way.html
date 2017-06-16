@@ -1,8 +1,8 @@
 <!-- Begin Find Way-->
-<section id="find-way" class="find-way">    
+<section id="find-way" class="find-way">
     <div id="canvas-map" class="canvas-map"></div>
     <div class="content-wrapper text-left">
-        <h3 class="animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.findWayTitle }}</h3>
+        <h3 class="animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.findWayTitle[page.lang] }}</h3>
         <div class="map-card col-lg-3 col-md-4 col-sm-6 col-xs-12">
             <div class="map-search">
                 <input type="text" id="location-input" class="location-input" name="location-input" data-input-value="Your location" placeholder="Your location" autocomplete="off">
@@ -12,7 +12,7 @@
             </div>
             <div class="location-result">
                 <span id="result-name" class="result-name"></span>
-                <span>to DevFest</span>
+                <span>{{ site.findWayDestination[page.lang] }}</span>
                 <svg id="direction-cancel" class="icon icon-cross" viewBox="0 0 30 32">
                     <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-cross"></use>
                 </svg>
@@ -24,7 +24,7 @@
                     <svg class="icon icon-flag" viewBox="0 0 30 32">
                         <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-flag"></use>
                     </svg>
-                    <span>{{ site.findWayDistance }}</span>
+                    <span>{{ site.findWayDistance[page.lang] }}</span>
                     <span id="distance" class="detailed-result pull-right"></span>
                 </li>
                 <li>
@@ -33,18 +33,18 @@
                             <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-flight"></use>
                         </svg>
                         <select id="mode-select">
-                            <option value="DRIVING">{{ site.findWayDriving }}</option>
-                            <option value="WALKING">{{ site.findWayWalking }}</option>
-                            <option value="BICYCLING">{{ site.findWayBicycling }}</option>
-                            <option value="TRANSIT">{{ site.findWayTransit }}</option>
+                            <option value="DRIVING">{{ site.findWayDriving[page.lang] }}</option>
+                            <option value="WALKING">{{ site.findWayWalking[page.lang] }}</option>
+                            <option value="BICYCLING">{{ site.findWayBicycling[page.lang] }}</option>
+                            <option value="TRANSIT">{{ site.findWayTransit[page.lang] }}</option>
                         </select>
                         <span id="estimateTime" class="detailed-result pull-right"></span>
                     </div>
-                    <a id="find-flight" href="https://google.com/flights" class="pull-right hidden" target="_blank">{{ site.findWayFindFlight }}</a>
+                    <a id="find-flight" href="https://google.com/flights" class="pull-right hidden" target="_blank">{{ site.findWayFindFlight[page.lang] }}</a>
                 </li>
             </ul>
             <div class="clearfix"></div>
-            <a href="https://maps.google.com/maps?ll={{ site.eventPlaceCoordinates | replace:' ',''}}&z=17&t=m&hl=en-US&gl=US&mapclient=embed&q={{ site.eventStreetAddress | replace:' ','%20' | replace:',','%2C'}}%2C%20{{ site.eventAddressLocality | replace:' ','%20' | replace:',','%2C'}}" class="view-on-map" target="_blank">{{ site.viewOnMap }}</a>
+            <a href="https://maps.google.com/maps?ll={{ site.eventPlaceCoordinates | replace:' ',''}}&z=17&t=m&hl=en-US&gl=US&mapclient=embed&q={{ site.eventStreetAddress | replace:' ','%20' | replace:',','%2C'}}%2C%20{{ site.eventAddressLocality | replace:' ','%20' | replace:',','%2C'}}" class="view-on-map" target="_blank">{{ site.viewOnMap[page.lang] }}</a>
         </div>
     </div>
 </section>

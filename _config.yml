@@ -64,12 +64,14 @@ navigationLinks:
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speaker"}
 # - {permalink: "/team/", text: "Team"}
+ - {permalink: "/logistics/", text: "Logistica", lang: "it"}
+ - {permalink: "/logistics/", text: "Logistics", lang: "en"}
  - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
  - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
  - {link: "/assets/Diventa_Partner_IT_PGDay_2017.pdf", text: "Diventa Partner", lang: "it"}
  - {link: "/assets/Be_Partner_EN_PGDay_2017.pdf", text: "Become Partner", lang: "en"}
  - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Acquista il tuo biglietto", lang: "it"}
- - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Buy your ticket", lang: "en"} 
+ - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Buy your ticket", lang: "en"}
 #bottomNavigationLinks:
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
@@ -257,13 +259,33 @@ teamBlockTitle: "A proposito di ITPUG"
 aboutUs: "ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia. In modo particolare, l'associazione ITPUG promuove l'adozione  di PostgreSQL (http://www.postgresql.org), uno dei progetti open source di maggior successo. L'associazione è nata a Prato (PO) il 17 novembre 2007, poco dopo la prima edizione del PGDay.IT. Per maggiori informazioni sull'associazione ITPUG scrivi a info@itpug.org."
 
 # Logistics Find Way Block
-findWayTitle: "Trova la tua strada qui"
-findWayDistance: "Distanza"
-findWayDriving: "Con l'auto"
-findWayWalking: "A piedi"
-findWayBicycling: "In bicicletta"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
+findWayTitle:
+  it: "Trova la tua strada qui"
+  en: "Find your way here"
+findWayDestination:
+  it: "al PGDay.IT"
+  en: "to PGDay.IT"
+findWayDistance:
+  it: "Distanza"
+  en: "Distance"
+findWayDriving:
+  it: "Con l'auto"
+  en: "By car"
+findWayWalking:
+  it: "A piedi"
+  en: "Walking"
+findWayBicycling:
+  it: "In bicicletta"
+  en: "By bicycle"
+findWayTransit:
+  it: "Mezzi pubblici"
+  en: "Public Transport"
+findWayFindFlight:
+  it: "Find Flight"
+  en: "Find Flight"
+viewOnMap:
+  it: "Vedi su Google Maps"
+  en: "View on Google Maps"
 logisticsMapCenterCoordinates: "49.056728, 3.117289"
 logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 logisticsMapAutoDirections: false
@@ -272,20 +294,41 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Come raggiungere il PGDay.IT 2017"
 directionDetailsCards:
- - {title: "Arrivi in aereo su Linate?", information: 'Prendete il bus 73 in partenza dal piazzale dell’aeroporto e scendete al capolinea, in piazza San Babila; prendete la metropolitana MM1 in direzione Fiera/Rho, scendete alla fermata Cadorna Triennale, dirigetevi in piazza Cadorna, imboccate via Carducci e proseguite fino al primo semaforo incrociando corso Magenta, la Fondazione Stelline vi attende al civico 61.'}
- - {title: "Arrivi in aereo su Malpensa?", information: 'Prendete il treno navetta “Malpensa Express” e raggiungete il capolinea a Milano Cadorna, dirigetevi in piazza Cadorna, imboccate via Carducci e proseguite fino al primo semaforo incrociando corso Magenta, la Fondazione Stelline vi attende al civico 61.'}
+ - {lang: "it", title: "Arrivi in aereo su Linate?", information: 'Prendete il bus 73 in partenza dal piazzale dell’aeroporto e scendete al capolinea, in piazza San Babila; prendete la metropolitana MM1 in direzione Fiera/Rho, scendete alla fermata Cadorna Triennale, dirigetevi in piazza Cadorna, imboccate via Carducci e proseguite fino al primo semaforo incrociando corso Magenta, la Fondazione Stelline vi attende al civico 61.'}
+ - {lang: "en", title: "Do you land at Linate Airport?", information: 'Take bus 73 departing from the piazza of the airport and exit at the end of the line, in piazza San Babila; take the Metropolitana MM1 in the direction of Fiera/Rho, exit to the stop for Cadorna Triennale, turn into piazza Cadorna, turn into via Carducci and continue to the first traffic light, crossing corso Magenta, Fondazione Stelline awaits you at number 61.'}
 
- - {title: "Arrivi in treno?", information: 'Arrivati alla Stazione Centrale di Milano, o alla stazione Porta Garibaldi, prendete la metropolitana MM2 in direzione di Abbiategrasso e scendete alla fermata Cadorna Triennale, dirigetevi in piazza Cadorna, imboccate via Carducci e proseguite fino al primo semaforo incrociando corso Magenta, la Fondazione Stelline vi attende al civico 61.'}
- - {title: "Arrivi in auto dalle autostrade del nord?", information: '(A4 Torino/Venezia; A9 Como/Chiasso; A8 Varese), dopo il casello del pedaggio proseguite in direzione Milano e prendete l’uscita Milano Certosa, percorrete tutto viale Certosa, attraversate due incroci e confluite in corso Sempione, alla fine del corso svoltate a destra per via Canova, alla fine della via girate a destra in via Pagano, dopo 200 m svoltate a sinistra in via Monti fino a raggiungere l’incrocio con corso Magenta, girate a destra e raggiungete il civico 61 dove vi attende la Fondazione Stelline.'}
+ - {lang: "it", title: "Arrivi in aereo su Malpensa?", information: 'Prendete il treno navetta “Malpensa Express” e raggiungete il capolinea a Milano Cadorna, dirigetevi in piazza Cadorna, imboccate via Carducci e proseguite fino al primo semaforo incrociando corso Magenta, la Fondazione Stelline vi attende al civico 61.'}
+ - {lang: "en", title: "Do you land at Malpensa Airport??", information: 'Take shuttle train “Malpensa Express” and reach the head of the line at Milano Cadorna, turn into piazza Cadorna, turn into via Carducci and continue to the first traffic light, crossing corso Magenta, Fondazione Stelline awaits you at number 61.'}
 
- - {title: "Arrivi in auto dall’autostrada A1?", information: '(Bologna), dopo il casello del pedaggio, dirigendoVi verso la tangenziale Est, imboccate l’uscita di piazzale Corvetto, girate a destra e arrivate a piazzale Bologna, svoltate a sinistra per via Bacchiglione percorrete 100 m e girate a destra per corso Lodi. Dopo 700 m, giunti a porta Romana, girate a sinistra in via Filippetti (circonvallazione interna), proseguire per viale Beatrice d’Este, viale Gian Galeazzo, viale d’Annunzio, viale Papiniano, viale di Porta Vercellina. Arrivati a piazzale Baracca, proseguite per piazza della Conciliazione, svoltate a destra in via Boccaccio quindi percorrete la via fino a raggiungere piazza Virgilio. Dopodichè percorrete via Vincenzo Monti, al semaforo svoltate a destra in Largo d’Ancona e subito a destra in corso Magenta dove, al civico 61, vi attende la Fondazione Stelline.'}
- - {title: "Arrivi in auto dall’autostrada A7?", information: '(Genova): dopo il casello del pedaggio, imboccate la tangenziale ovest in direzione Venezia, uscite a Milano Certosa e proseguite come indicato sopra.'}
+ - {lang: "it", title: "Arrivi in treno?", information: 'Arrivati alla Stazione Centrale di Milano, o alla stazione Porta Garibaldi, prendete la metropolitana MM2 in direzione di Abbiategrasso e scendete alla fermata Cadorna Triennale, dirigetevi in piazza Cadorna, imboccate via Carducci e proseguite fino al primo semaforo incrociando corso Magenta, la Fondazione Stelline vi attende al civico 61.'}
+ - {lang: "en", title: "Are you coming by train?", information: 'Arriving at the Central Station of Milan, or at the station Porta Garibaldi, take the Metropolitana MM2 in the direction of Abbiategrasso and exit to the stop for Cadorna Triennale, turn into piazza Cadorna, turn into via Carducci and continue to the first traffic light, crossing corso Magenta, Fondazione Stelline awaits you at number 61.'}
+
+ - {lang: "it", title: "Arrivi in auto dalle autostrade del nord?", information: '(A4 Torino/Venezia; A9 Como/Chiasso; A8 Varese), dopo il casello del pedaggio proseguite in direzione Milano e prendete l’uscita Milano Certosa, percorrete tutto viale Certosa, attraversate due incroci e confluite in corso Sempione, alla fine del corso svoltate a destra per via Canova, alla fine della via girate a destra in via Pagano, dopo 200 m svoltate a sinistra in via Monti fino a raggiungere l’incrocio con corso Magenta, girate a destra e raggiungete il civico 61 dove vi attende la Fondazione Stelline.'}
+ - {lang: "en", title: "Are you coming by car from the northern highway?", information: '(A4 Torino/Venezia; A9 Como/Chiasso; A8 Varese), after the tollbooth, continue in the direction of Milan and take the exit Milano Certosa, go to the end of viale Certosa, cross two crossings and merge into corso Sempione, at the end of the corso turn right on via Canova, at the end of the via turn right in via Pagano, after 200 m turn left in via Monti until reaching the crossing with corso Magenta, turn right and reach number 61, where you are welcomed to Fondazione Stelline.'}
+
+ - {lang: "it", title: "Arrivi in auto dall’autostrada A1?", information: '(Bologna), dopo il casello del pedaggio, dirigendoVi verso la tangenziale Est, imboccate l’uscita di piazzale Corvetto, girate a destra e arrivate a piazzale Bologna, svoltate a sinistra per via Bacchiglione percorrete 100 m e girate a destra per corso Lodi. Dopo 700 m, giunti a porta Romana, girate a sinistra in via Filippetti (circonvallazione interna), proseguire per viale Beatrice d’Este, viale Gian Galeazzo, viale d’Annunzio, viale Papiniano, viale di Porta Vercellina. Arrivati a piazzale Baracca, proseguite per piazza della Conciliazione, svoltate a destra in via Boccaccio quindi percorrete la via fino a raggiungere piazza Virgilio. Dopodichè percorrete via Vincenzo Monti, al semaforo svoltate a destra in Largo d’Ancona e subito a destra in corso Magenta dove, al civico 61, vi attende la Fondazione Stelline.'}
+ - {lang: "en", title: "Are you coming by car from highway A1?", information: '(Bologna), after the tollbooth, turn into the exit of piazzale Corvetto, turn right and you will arrive at piazzale Bologna, turn left through via Bacchiglione continue 100 m and turn right on corso Lodi. After 700 m, reaching porta Romana, turn left on via Filippetti (inner beltway), continue along viale Beatrice d’Este, viale Gian Galeazzo, viale d’Annunzio, viale Papiniano, viale of Porta Vercellina, arriving at piazzale Baracca, turn right, where at number 61 you are welcomed to Fondazione Stelline.'}
+
+ - {lang: "it", title: "Arrivi in auto dall’autostrada A7?", information: '(Genova): dopo il casello del pedaggio, imboccate la tangenziale ovest in direzione Venezia, uscite a Milano Certosa e proseguite come indicato sopra.'}
+ - {lang: "en", title: "Are you coming by car from highway A7?", information: '(Genova): after the tollbooth, turn into the western tangential in the direction of Venice, exit at Milano Certosa and continue as indicated above.'}
 directionDetailsWideCards:
  -
+  lang: "it"
   title: "Cerchi un hotel?"
   subCards:
    -
-    title: "A Milano gli hotel non mancano. La location prescelta per il PGDay.IT 2017 fornisce anche la possibilità di pernottare: 'Hotel Palazzo delle Stelline'. Alternative? Sotto ne trovi segnalate alcune nelle vicinanze della location del PGDay.IT 2017."
+    title: "A Milano gli hotel non mancano. La location prescelta per il PGDay.2017 fornisce anche la possibilità di pernottare: 'Hotel Palazzo delle Stelline'. Alternative? Sotto ne trovi segnalate alcune nelle vicinanze della location del PGDay.IT 2017."
+    links:
+     - {link: "http://www.hotelpalazzostelline.it/", text: "Hotel Palazzo delle Stelline"}
+     - {link: "http://www.anticalocandaleonardo.com/it/", text: "Antica Locanda Leonardo"}
+     - {link: "http://www.hotel-bb.com/it/hotel/milano-sant-ambrogio.htm", text: "B&B Hotel Milano Sant'Ambrogio"}
+     - {link: "http://www.hotelpanizza.it/", text: "Hotel Panizza"}
+ -
+  lang: "en"
+  title: "Are you looking for an hotel"
+  subCards:
+   -
+    title: "Hotels are not lacking in Milan. PGDay.IT venue also provides accomodations (Hotel Palazzo delle Stelline). Alternatives? Below you will find some others option close to PGDay.IT 2017."
     links:
      - {link: "http://www.hotelpalazzostelline.it/", text: "Hotel Palazzo delle Stelline"}
      - {link: "http://www.anticalocandaleonardo.com/it/", text: "Antica Locanda Leonardo"}
