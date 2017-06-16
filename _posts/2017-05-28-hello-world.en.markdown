@@ -8,20 +8,18 @@ lang: en
 ref: hello
 ---
 
-Siamo molto eccitati - non solo a causa della quantità ingente di bevande a base di caffeina consumati - 
-ma anche perché la nostra squadra sta mettendo insieme tutti i tasselli necessari 
-per portare ai massimi livelli il più grande evento italiano focalizzato su PostgreSQL: [PGDay.IT 2017](http://2017.pgday.it/). 
+We are very excited - not only because of the huge amount of caffeine drinks consumed - but also because our team is putting all the dots to bring to the highest levels the largest Italian event focused on PostgreSQL: [PGDay.IT 2017](http://2017.pgday.it/). 
 
-Quest’anno la manifestazione avrà luogo a Milano. Città facilmente raggiungibile da tutta Italia ed anche dall’Europa. La location scelta è in una zona carica di interesse culturale, per cu,i il consiglio che vi diamo, è: prendetevi il vostro tempo, magari riservando il week end alla scoperta di Milano.
+This year the event will be held in Milan. A city easily reacheble from all Italian cities and also from Europe. The location choosen is in a area full of cultural interests. Our advicefor you: take your time, keep the weekend to the discovery Milan.
 
-Anche tu dovresti essere eccitato? Beh sì … ecco perché:
+Should you be excited too? Well yes ... this is why:
 
-* **Partecipanti**: ce ne aspettiamo tanti … ma proprio tanti!
-* **Topic**: più di 16 ore dedicate interamente a PostgreSQL 
-* **Quando**: 13 ottobre 2017. Personaggi di rilievo, tanti talk con alto contenuto tecnico e momenti sociali da non perdere
-* **Location**: Fondazione Stelline - Nel centro di Milano, di fronte al Cenacolo di Leonardo e a Santa Maria delle Grazie, la Fondazione Stelline regalerà alla manifestazione un’atmosfera ricca di storia e cultura. Nota di rilievo: il Palazzo delle Stelline è legato indissolubilmente a Leonardo da Vinci
-* **Speaker**: stiamo per aprire la Call for Paper e ci aspettiamo molte proposte interessanti. Una potrebbe essere la tua!
+* **Attendees**: we expect so many ... really a lot of people!
+* **Topic**: More than 16 hours dedicated entirely to PostgreSQL 
+* **When**: October 13th, 2017. Relevant people, lots of talks with high technical content and social moments not to be missed
+* **Location**: Fondazione Stelline - In the center of Milan, across to Leonardo’s Cenacle and Santa Maria delle Grazie, the Fondazione Stelline will give the event an atmosphere rich of history and culture. Important note: Palazzo delle Stelline is closely banded to Leonardo da Vinci
+* **Speakers**: The Call for Paper is open and we expect many interesting proposals. One might be yours!
 
-e stiamo lavorando per assicurarci alcune tra le “rockstar” dell’ecosistema di PostgreSQL o comunque appartenenti al mondo Open Source.
+We are working also to ensure some "Rockstars" of the PostgreSQL Ecosystem and/or supporters of the Open Source world.
 
-Maggiori dettagli sugli speaker selezionati, sulle attività in programmazione, saranno pubblicati sul blog dedicato al PGDay.IT 2017 e condivisi attraverso i nostri canali social. Seguici su [Twitter](https://twitter.com/PGDayIT), [Facebook](https://www.facebook.com/ITPUG/), [Google+](https://plus.google.com/114060631874544975126), [Linkedin](https://www.linkedin.com/company/itpug) o iscriviti alla nostra [mailing list](http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&id=ae0fb459fc) in modo da non perderti nessun fantastico aggiornamento sulla prossima edizione del [PGDay.IT 2017](http://2017.pgday.it/). 
+More details about the selected speakers and the schedule will be published on the blog dedicated to PGDay.IT 2017 and shared through our social channels. Follow us on [Twitter](https://twitter.com/PGDayIT), [Facebook](https://www.facebook.com/ITPUG/), [Google+](https://plus.google.com/114060631874544975126), [Linkedin](https://www.linkedin.com/company/itpug) or subscribe to our [mailing list](http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&id=ae0fb459fc) So you will not miss any updates on [PGDay.IT 2017](http://2017.pgday.it/). 
