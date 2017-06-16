@@ -119,7 +119,9 @@ statisticBlock:
  - {count: "22", specialCharacter: "", info: "track", detail: "oltre agli eventi sociali"}
 
 # Latest News Block
-latestNewsTitle: "Notizie dell'ultima ora"
+latestNewsTitle:
+  it: "Notizie dell'ultima ora"
+  en: "Notizie dell'ultima ora"
 
 # TODO: risulta vuota, può essere lasciata
 # Rockstar Speakers Block
