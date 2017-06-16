@@ -20,7 +20,7 @@ Come per le precedenti edizioni, abbiamo previsto 3 diverse tipologie di bigliet
 
 * **Studente**: a **15,00 €**. Biglietto disponibile fino al 12 ottobre. Importante: sarà richiesto una dimostrazione di stato STUDENTE al desk della manifestazione. In assenza di dimostrazione, il biglietto sarà cancellato senza possibilità di rimborso.
 
-Considerando che è ancora in corso la [Call for Paper](http://2017.pgday.it/blog/call-for-papers) non possiamo certo incitarvi ad approfittare dell'apertura dell'[Early Bird](https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231) mostrandovi lo Schedule della giornata. Possiamo però di dirvi che stanno arrivando tante belle proposte. Tutte con alti contenuti tecnici. Per cui, non perdete l'occasione!
+Considerando che è ancora in corso la [Call for Paper](http://2017.pgday.it/en/blog/call-for-papers) non possiamo certo incitarvi ad approfittare dell'apertura dell'[Early Bird](https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231) mostrandovi lo Schedule della giornata. Possiamo però di dirvi che stanno arrivando tante belle proposte. Tutte con alti contenuti tecnici. Per cui, non perdete l'occasione!
 
 Le aziende interessate ad un numero maggiore di 3 biglietti, sono invitate a contattarci, scrivendo a: [pgday@itpug.org](mailto:pgday@itpug.org)
 
