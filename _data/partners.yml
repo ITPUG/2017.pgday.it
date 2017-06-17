@@ -1,28 +1,24 @@
 - 
   group: "Diamond Partners"
-  elements: 
-    - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"} 
+#  elements: 
+#    - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"} 
 - 
   group: "Platinum Partners"
-  elements: 
-    - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"}
+#  elements: 
+#    - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"}
 - 
   group: "Gold Partners"
-  elements: 
-    - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"} 
+#  elements: 
+#    - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"} 
 - 
   group: "Silver Partners"
-  elements: 
-    - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"}    
+#  elements: 
+#    - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"}    
 - 
   group: "Bronze Partners"
-  elements: 
-    - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"}  
+#  elements: 
+#    - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"}  
 -   
   group: "Media Partners"
   elements: 
-    - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"}    
-- 
-  group: "Information Partners"
-  elements: 
-    - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"} 
+    - {name: "GRUSP", description: "Nata nel 2003 come associazione dedicata al solo mondo del PHP il GrUSP è diventata il punto di riferimento in Italia per le buone pratiche nel mondo dello sviluppo web.", link: "http://www.grusp.org/it/", imageUrl: "grusp-logo.svg"}      
