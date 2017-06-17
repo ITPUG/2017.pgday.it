@@ -3,7 +3,7 @@
   name: "Marco"
   surname: "Nenciarini"
   title: "Presidente Associazione ITPUG"
-  thumbnailUrl: ___________________.jpg
+  thumbnailUrl: marco.jpg
   team: true
   ribbon: 
     - {abbr: "______", title: "_________________"}
@@ -17,7 +17,7 @@
   name: "Matteo"
   surname: "Beccati"
   title: "Vice-Presidente Associazione ITPUG"
-  thumbnailUrl: ___________________.jpg
+  thumbnailUrl: matteo.jpg
   team: true
   ribbon: 
     - {abbr: "______", title: "_________________"}
@@ -57,7 +57,7 @@
   name: "Giuseppe"
   surname: "Broccolo"
   title: "Consigliere"
-  thumbnailUrl: ___________________.jpg
+  thumbnailUrl: giuseppe.jpg
   team: true
   ribbon: 
     - {abbr: "______", title: "_________________"}
@@ -143,43 +143,43 @@
   id: 0
   name: "Marco"
   surname: "Nenciarini"
-  title: "_______________________________"  
-  thumbnailUrl: ___________________.jpg
+  title: "marco"  
+  thumbnailUrl: marco.jpg
   exTeam: true
   ribbon: 
     - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
     - {name: "twitter", link: "https://twitter.com/mnencia"}
-    - {name: "github", link: "https://github.com/ITPUG/2017.pgday.it"}
+    - {name: "github", link: "https://github.com/______________"}
     - {name: "linkedin", link: "https://it.linkedin.com/in/mnencia"}
 - 
   id: 1
   name: "Matteo"
   surname: "Pasquini"
   title: "_______________________________"  
-  thumbnailUrl: ___________________.jpg
+  thumbnailUrl: mpasquini.jpg
   exTeam: true
   ribbon: 
     - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
     - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/ITPUG/2017.pgday.it"}
+    - {name: "github", link: "https://github.com/____________"}
     - {name: "linkedin", link: "https://it.linkedin.com/in/matteopasquini"}
 - 
   id: 2
   name: "Paolo"
-  surname: "________________"
+  surname: "Dina"
   title: "_______________________________"  
-  thumbnailUrl: ___________________.jpg
+  thumbnailUrl: paolo.jpg
   exTeam: true
   ribbon: 
     - {abbr: "______", title: "_________________"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+PaoloDina"}
     - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/ITPUG/2017.pgday.it"}
+    - {name: "github", link: "https://github.com/paolodina"}
     - {name: "linkedin", link: "https://_______________"}
 - 
   id: 3
