@@ -143,7 +143,6 @@
   id: 0
   name: "Marco"
   surname: "Nenciarini"
-  title: "marco"  
   thumbnailUrl: marco.jpg
   exTeam: true
   ribbon: 
@@ -156,8 +155,7 @@
 - 
   id: 1
   name: "Matteo"
-  surname: "Pasquini"
-  title: "_______________________________"  
+  surname: "Pasquini" 
   thumbnailUrl: mpasquini.jpg
   exTeam: true
   ribbon: 
@@ -170,8 +168,7 @@
 - 
   id: 2
   name: "Paolo"
-  surname: "Dina"
-  title: "_______________________________"  
+  surname: "Dina" 
   thumbnailUrl: paolo.jpg
   exTeam: true
   ribbon: 
@@ -184,8 +181,7 @@
 - 
   id: 3
   name: "Barbara"
-  surname: "Milani"
-  title: "_______________________________"  
+  surname: "Milani"  
   thumbnailUrl: bam965.jpg
   exTeam: true
   ribbon: 
