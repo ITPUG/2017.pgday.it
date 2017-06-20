@@ -57,9 +57,11 @@
           <a href="{{ post.url }}" class="btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm {{ post.lang }}">{{ post.lang }}</a>
         {% endfor %}
 
+        <div id="lang-links">
         {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
         {% for page in pages %}
           <a href="{{ page.url }}" class="btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm {{ page.lang }}">{{ page.lang }}</a>
         {% endfor %}
+        </div>
     </nav>
 </header>
