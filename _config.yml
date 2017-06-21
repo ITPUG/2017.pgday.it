@@ -315,8 +315,12 @@ discusShortName: "PGDay.IT_2017"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "A proposito di ITPUG"
-aboutUs: "ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia. In modo particolare, l'associazione ITPUG promuove l'adozione  di PostgreSQL (http://www.postgresql.org), uno dei progetti open source di maggior successo. L'associazione è nata a Prato (PO) il 17 novembre 2007, poco dopo la prima edizione del PGDay.IT. Per maggiori informazioni sull'associazione ITPUG scrivi a info@itpug.org."
+teamBlockTitle:
+    it: "A proposito di ITPUG"
+    en: "About ITPUG"
+aboutUs:
+    it: "ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia. In modo particolare, l'associazione ITPUG promuove l'adozione  di PostgreSQL (http://www.postgresql.org), uno dei progetti open source di maggior successo. L'associazione è nata a Prato (PO) il 17 novembre 2007, poco dopo la prima edizione del PGDay.IT. Per maggiori informazioni sull'associazione ITPUG scrivi a info@itpug.org."
+    en: "ITPUG - Italian PostgreSQL Users Group is a no-profit association for the promotion, spreading and protection of Free Software (FLOSS) in Italy. In particular, the ITPUG association promotes the adoption of PostgreSQL (http://www.postgresql.org), one of the most successful open source projects. The association was born in Prato (PO) on November 17, 2007, shortly after the first edition of PGDay.IT. For more information about the ITPUG association, please write to info@itpug.org."
 
 # Logistics Find Way Block
 findWayTitle:
@@ -349,7 +353,9 @@ logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Come raggiungere il PGDay.IT 2017"
+directionDetailsTitle:
+    it: "Come raggiungere il PGDay.IT 2017"
+    en: "How to reach PGDay.IT 2017"
 directionDetailsCards:
  - {lang: "it", title: "Arrivi in aereo su Linate?", information: 'Prendete il bus 73 in partenza dal piazzale dell’aeroporto e scendete al capolinea, in piazza San Babila; prendete la metropolitana MM1 in direzione Fiera/Rho, scendete alla fermata Cadorna Triennale, dirigetevi in piazza Cadorna, imboccate via Carducci e proseguite fino al primo semaforo incrociando corso Magenta, la Fondazione Stelline vi attende al civico 61.'}
  - {lang: "en", title: "Do you land at Linate Airport?", information: 'Take bus 73 departing from the piazza of the airport and exit at the end of the line, in piazza San Babila; take the Metropolitana MM1 in the direction of Fiera/Rho, exit to the stop for Cadorna Triennale, turn into piazza Cadorna, turn into via Carducci and continue to the first traffic light, crossing corso Magenta, Fondazione Stelline awaits you at number 61.'}
