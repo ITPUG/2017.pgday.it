@@ -144,8 +144,12 @@ latestNewsTitle:
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speaker"
-rockstarSpeakersButtonText: "Guarda tutti gli speaker"
+rockstarSpeakersTitle:
+    it: "Rockstar speaker"
+    en: "Rockstar speaker"
+rockstarSpeakersButtonText:
+    it: "Guarda tutti gli speaker"
+    en: "All Speakers here"
 
 # Location Block
 locationBlockTitle: "Location"
@@ -164,13 +168,19 @@ mapCenterCoordinates: "45.4654533, 9.166099"
 mapMobileCenterCoordinates: "45.4654533, 9.166099"
 
 # Venue Block
-venueBlockTitle: "Location"
+venueBlockTitle:
+  it: "Location"
+  en: "Location"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Fondazione Stelline"
-venueFeatures: ["Nel cuore di Milano, di fronte al Cenacolo di Leonardo e a Santa Maria delle Grazie", "8.000 mq di superficie, 20 sale e meeting & training room"]
+venueTitle:
+  it: "Fondazione Stelline"
+  en: "Fondazione Stelline"
+venueFeatures:
+  it: ["Nel cuore di Milano, di fronte al Cenacolo di Leonardo e a Santa Maria delle Grazie", "8.000 mq di superficie, 20 sale e meeting & training room"]
+  en: ["A place in the heart of Milan, across to Leonardo’s Cenacle and Santa Maria delle Grazie", "8.000 mq of surface, 20 halls and meeting & training rooms"]
 
 # TODO: sistemare url
 # Tweets Feed Block
@@ -180,50 +190,84 @@ twitterHashTag: "PGDayIT"
 twitterFeed: "https://twitter.com/search?q=%23PGDayIT&src=typd=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizzatori"
-partnersTitle: "Partner"
-partnersC4sponsorsButton: "Diventa Partner"
+organizersTitle:
+    it: "Organizzatori"
+    en: "Organiser"
+partnersTitle:
+    it: "Partner"
+    en: "Partner"
+partnersC4sponsorsButton:
+    it: "Diventa Partner"
+    en: "Become Partner"
 
 # TODO: sistemare URL
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Resta aggiornato"
+subscribeTitle:
+    it: "Resta aggiornato"
+    en: "Stay in touch"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Sarà possibile acquistare i biglietti a partire da metà giugno. Il numero dei biglietti disponibili è limitato. Rimanete sintonizzati!"
+subscribeInfo:
+    it: "Sarà possibile acquistare i biglietti a partire da metà giugno. Il numero dei biglietti disponibili è limitato. Rimanete sintonizzati!"
+    en: "Tickets will be available from June 15th. The number of available tickets is limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Prezzo biglietti"
-ticketsInfo: "Il biglietto vi garantirà l'accesso alla conferenza, ai coffee break ed al pranzo, incluse tutte le attività programmate per la giornata del 13 ottobre 2017. Nel prezzo del biglietto NON è incluso il pernottamento e NON sono inclusi gli eventi sociali come la pg_beer."
+ticketsTitle:
+    it: "Prezzo biglietti"
+    en: "Ticket prices"
+ticketsInfo:
+    it: "Il biglietto vi garantirà l'accesso alla conferenza, ai coffee break ed al pranzo, incluse tutte le attività programmate per la giornata del 13 ottobre 2017. Nel prezzo del biglietto NON è incluso il pernottamento e NON sono inclusi gli eventi sociali come la pg_beer."
+    en: "The ticket will guarantee you the access to the event, coffee breaks and lunch, including all scheduled activities for the day of October 13, 2017. In the ticket price is NOT included in the overnight stay and it is NOT included social events like pg_beer."
 ticketsOffers:
  -
-  name: "Early Bird"
+  name:
+    it: "Early Bird"
+    en: "Early Bird"
   price: "47,00"
   priceCurrency: "€"
   buyButtonLink: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231"
-  buyButtonText: "Acquistalo adesso"
-  ticketContentList: ["Early Bird - PGDay.IT 2017", "13 ottobre", "Milano"]
+  buyButtonText:
+    it: "Acquistalo adesso"
+    en: "Get it now"
+  ticketContentList:
+    it: ["Early Bird - PGDay.IT 2017", "13 ottobre", "Milano"]
+    en: ["Early Bird - PGDay.IT 2017", "October 13th", "Milan"]
   validFrom: "2017-06-15T10:00"
   validThrough: "2017-09-15T23:59"
   disabled: false
  -
-  name: "Ordinario"
+  name:
+    it: "Ordinario"
+    en: "Ordinary"
   price: "95,00"
   priceCurrency: "€"
   featured: true
   buyButtonLink: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231"
-  buyButtonText: "Acquistalo adesso"
-  ticketContentList: ["Ordinario - PGDay.IT 2017", "13 ottobre", "Milano"]
+  buyButtonText:
+    it: "Acquistalo adesso"
+    en: "Get it now"
+  ticketContentList:
+    it: ["Ordinario - PGDay.IT 2017", "13 ottobre", "Milano"]
+    en: ["Ordinary - PGDay.IT 2017", "October 13th", "Milan"]
   validFrom: "2017-09-16T00:00"
   validThrough: "2017-10-12T23:59"
   disabled: true
  -
-  name: "Studente"
+  name:
+    it: "Studente"
+    en: "Student"
   price: "15,00"
   priceCurrency: "€"
   buyButtonLink: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231"
-  buyButtonText: "Acquistalo adesso"
-  additionalInfo: "Sarà richiesto una dimostrazione di stato STUDENTE al desk della manifestazione. In assenza di dimostrazione, il biglietto sarà cancellato senza possibilità di rimborso."
-  ticketContentList: ["Studente - PGDay.IT 2017", "13 ottobre", "Milano"]
+  buyButtonText:
+    it: "Acquistalo adesso"
+    en: "Get it now"
+  additionalInfo:
+    it: "Sarà richiesto una dimostrazione di stato STUDENTE al desk della manifestazione. In assenza di dimostrazione, il biglietto sarà cancellato senza possibilità di rimborso."
+    en: "A valid student document will be requested at the front desk. In case a valid document demostrating a student status is not presented, the ticket will be canceled without refund."
+  ticketContentList:
+    it: ["Studente - PGDay.IT 2017", "13 ottobre", "Milano"]
+    en: ["Student - PGDay.IT 2017", "October 13th", "Milan"]
   validFrom: "2017-06-15T10:00"
   validThrough: "2017-10-12T23:59"
   disabled: false
