@@ -122,8 +122,8 @@ aboutBlock:
 
 # Statistic Block
 statisticBlockTitle:
-    it: "I numeri di dieci edizioni del PGDay.It:"
-    en: "Numbers of ten editions of PGDay.It:"
+    it: "I numeri di dieci edizioni del PGDay.It"
+    en: "Numbers of ten editions of PGDay.It"
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {lang: "it", count: "1257", specialCharacter: "+", info: "partecipanti", detail: "da tutta Europa"}
