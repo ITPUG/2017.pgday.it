@@ -1,64 +1,58 @@
 ---
 layout: post
-title: Codice di condotta
+title: Code of Conduct
 permalink: /en/cod/
 isStaticPost: true
 lang: en
 ref: cod
 ---
 
-Tutti i delegati, relatori, espositori e volontari del PGDay.IT sono
-tenuti ad attenersi al seguente codice di condotta. Gli organizzatori
-si impegnano a far rispettare questo codice durante tutta la
-manifestazione.
+All delegates, speakers, exhibitors and volunteers of PGDay.IT must
+follow the following code of conduct.
+Organizers will enforce this code before and throughout the event.
 
-##### In breve
+##### In short
 
-Il PGDay.IT vuole fornire un’esperienza della conferenza senza
-molestie per tutti, indipendentemente da genere, orientamento
-sessuale, disabilità, aspetto fisico, dimensione corporea, razza o
-religione. Non tolleriamo molestie ai partecipanti alla conferenza in
-qualsiasi forma. Linguaggio e immagini sessuali non sono appropriate
-per qualsiasi ambito della conferenza, compresi le presentazioni. I
-partecipanti alla conferenza che violano queste regole possono essere
-sanzionati o espulsi dalla conferenza senza rimborso a discrezione
-degli organizzatori della conferenza.
+PGDay.IT wants to provide an experience of the conference without harassment for all,
+regardless of gender, sexual orientation, disability, physical appearance,
+body size, race or religion.
+We do not tolerate harassment to conference participants in any form.
+Language and sexual images are not appropriate for any area of
+conference, including presentations.
+Conference participants who violate these rules can be fined
+or expelled from the conference without refund at the discretion of the conference organizers.
 
-##### Versione lunga
+##### Long version
 
-Le molestie includono commenti offensivi verbali legati a genere,
-orientamento sessuale, disabilità, aspetto fisico, dimensione
-corporea, razza, religione, immagini sessuali in spazi pubblici,
-intimidazioni intenzionali, stalking, inseguimenti, fotografie o
-registrazioni moleste, interruzione continuata di presentazioni o
-altri eventi, contatto fisico inappropriato e attenzioni sessuali
-sgradite.
+Harassment includes offensive verbal comments related to gender, sexual orientation,
+disability, physical appearance, body size, race, religion, sexual images in
+public spaces, deliberate intimidation, stalking, chasing, photographs or
+harassing recordings, continued interruption of presentations or other events,
+inappropriate physical contact and unwanted sexual attention.
 
-I partecipanti cui viene chiesto di interrompere qualsiasi
-comportamento molesto sono tenuti a conformarsi immediatamente.
+Participants who are instructed to stop any harassing behavior are
+required to comply immediately.
 
-Anche gli espositori presenti nella sala espositiva, in banchetti per
-sponsor o fornitori, o attività analoghe sono soggetti alla norma anti
-molestie. In particolare, gli espositori non devono usare immagini
-attività o altro materiale sessualizzato. Il personale dei banchetti
-(compresi i volontari) non deve usare abbigliamento/divise/costumi
-sessualizzati, o comunque creare un ambiente sessualizzato.
+Even the exhibitors in the exhibition hall, in banquets for sponsors or suppliers,
+or similar activities are subject to standard anti harassment.
+In particular, the exhibitors must not use sexualized images or other material.
+The staff of the banquets (including volunteers) should not use
+sexualized clothing / uniforms / costumes, or otherwise create a
+sexualized environment.
 
-Se un partecipante intraprende un comportamento molesto, gli
-organizzatori della conferenza possono prendere qualsiasi misura
-ritengano opportuna, compreso diffidare il trasgressore o l’espulsione
-dalla conferenza senza alcun rimborso.
+If a participant undertakes a harassing behavior, the conference organizers
+may take any measures they find appropriate, including
+the expulsion from the conference without any reimbursement.
 
-Se vieni molestata/o, noti che qualcun altra/o viene molestata/o, o
-hai qualsiasi altra preoccupazione, contatta immediatamente un membro
-del personale della conferenza, identificato dalla maglietta blu
-acceso.
+If you get harassed, or you see someone else being harassed,
+or you have any other concern,
+please contact immediately a member of the Conference staff,
+identified by blue shirt on.
 
-Il personale della conferenza sarà lieto di aiutare i partecipanti a
-contattare la sicurezza della sede o le locali forze dell’ordine, fare
-da scorta, o assistere in altro modo coloro che subiscono molestie.
+The conference staff will help participants to contact the Safety
+team of the location or the local law enforcement,
+to escort, or assist in other ways those experiencing harassment.
 
-Queste regole si estendono anche agli eventi sociali collegati alla
-conferenza.
+These rules also extend to social events linked to the conference.
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
