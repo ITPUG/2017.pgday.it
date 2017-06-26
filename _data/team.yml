@@ -68,52 +68,48 @@
     - {name: "linkedin", link: "https://it.linkedin.com/in/gbroccolo7"}
 - 
   id: 0
-  name: "_________________"
-  surname: "________________"
-  title: "_______________________________"
+  name: "Gabriele"
+  surname: "Bartolini"
   thumbnailUrl: ___________________.jpg
   subTeam: true
   ribbon: 
     - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "twitter", link: "https://twitter.com/_GBartolini_"}
     - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gbartolini/"}
 - 
   id: 1
-  name: "_________________"
-  surname: "________________"
-  title: "_______________________________"
+  name: "Denis"
+  surname: "Gasparin"
   thumbnailUrl: ___________________.jpg
   subTeam: true
   ribbon: 
     - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "twitter", link: "https://twitter.com/rtshome"}
     - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/denis-gasparin-19395817/"}
 - 
   id: 2
-  name: "_________________"
-  surname: "________________"
-  title: "_______________________________"
+  name: "Torello"
+  surname: "Querci"
   thumbnailUrl: ___________________.jpg
   subTeam: true
   ribbon: 
     - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "twitter", link: "https://twitter.com/TorelloQuerci"}
     - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/torello-querci-7375394/"}
     - {name: "facebook", link: "https://_____________________"}
 - 
   id: 3
-  name: "_________________"
-  surname: "________________"
-  title: "_______________________________"
+  name: "Emanuele"
+  surname: "Zamprogno"
   thumbnailUrl: ___________________.jpg
   subTeam: true
   ribbon: 
@@ -122,22 +118,7 @@
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
     - {name: "twitter", link: "https://twitter.com/_______________"}
     - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-- 
-  id: 4
-  name: "_________________"
-  surname: "________________"
-  title: "_______________________________"
-  thumbnailUrl: ___________________.jpg
-  subTeam: true
-  ribbon: 
-    - {abbr: "______", title: "_________________"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ezamprogno/"}
     
 - 
   id: 0
