@@ -71,7 +71,7 @@
         en: "GRUSP"
       description:
         it: "Nata nel 2003 come associazione dedicata al solo mondo del PHP il GrUSP è diventata il punto di riferimento in Italia per le buone pratiche nel mondo dello sviluppo web."
-        en: "Nata nel 2003 come associazione dedicata al solo mondo del PHP il GrUSP è diventata il punto di riferimento in Italia per le buone pratiche nel mondo dello sviluppo web."
+        en: "Founded in 2003 as a dedicated PHP-only association, GrUSP has become the landmark for good practices in the web development world in Italy."
       link: "http://www.grusp.org/it/"
       imageUrl: "grusp-logo.svg"
     -
@@ -79,7 +79,7 @@
         it: "Python Italia APS"
         en: "Python Italia APS"
       description:
-        it: "Python Italia APS è una associazione a livello nazionale che si propone di aiutare e supportare la diffusione e l'utilizzo del linguaggio di programmazione Python sul territorio italiano. L'attività della associazione si dirama in iniziative più o meno locali di varia dimensione e natura: dai Meetup dei gruppi di utenti ai workshop tenuti da iscritti alla associazione e supportati dalla associazione stessa, all'evento di punta: PyCon Italia, la conferenza ufficiale italia, ormai appuntamento fisso di centinaia e centinaia di sviluppatori python da tutto il mondo"
-        en: "Python Italia APS è una associazione a livello nazionale che si propone di aiutare e supportare la diffusione e l'utilizzo del linguaggio di programmazione Python sul territorio italiano. L'attività della associazione si dirama in iniziative più o meno locali di varia dimensione e natura: dai Meetup dei gruppi di utenti ai workshop tenuti da iscritti alla associazione e supportati dalla associazione stessa, all'evento di punta: PyCon Italia, la conferenza ufficiale italia, ormai appuntamento fisso di centinaia e centinaia di sviluppatori python da tutto il mondo"
+        it: "Python Italia APS è una associazione a livello nazionale che si propone di aiutare e supportare la diffusione e l'utilizzo del linguaggio di programmazione Python sul territorio italiano. L'attività della associazione si dirama in iniziative più o meno locali di varia dimensione e natura. Evento di punta: PyCon Italia, la conferenza ufficiale italia, ormai appuntamento fisso di centinaia e centinaia di sviluppatori python da tutto il mondo."
+        en: "Python Italia APS is a national association that aims to help and support the diffusion and use of the Python programming language on Italian territory. The association's activities run in more or less local initiatives of varying size and nature. Key event: PyCon Italia, the official Italian conference, now fixed appointment of hundreds and hundreds of python developers from all over the world."
       link: "https://www.pycon.it/it/"
       imageUrl: "pycon_otto.svg"
