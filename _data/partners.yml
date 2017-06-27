@@ -1,25 +1,76 @@
-- 
+-
   group: "Diamond Partners"
-#  elements: 
-#    - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"} 
-- 
+#  elements:
+#    -
+#      name:
+#        it: "___________"
+#        en: "___________"
+#      description:
+#        it: "___________"
+#        en: "___________"
+#      link: "https://www.____________"
+#      imageUrl: "_________.svg"
+-
   group: "Platinum Partners"
-#  elements: 
-#    - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"}
-- 
+  elements:
+#  elements:
+#    -
+#      name:
+#        it: "___________"
+#        en: "___________"
+#      description:
+#        it: "___________"
+#        en: "___________"
+#      link: "https://www.____________"
+#      imageUrl: "_________.svg"
+-
   group: "Gold Partners"
-#  elements: 
-#    - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"} 
-- 
+  elements:
+#  elements:
+#    -
+#      name:
+#        it: "___________"
+#        en: "___________"
+#      description:
+#        it: "___________"
+#        en: "___________"
+#      link: "https://www.____________"
+#      imageUrl: "_________.svg"
+-
   group: "Silver Partners"
-#  elements: 
-#    - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"}    
-- 
+  elements:
+#  elements:
+#    -
+#      name:
+#        it: "___________"
+#        en: "___________"
+#      description:
+#        it: "___________"
+#        en: "___________"
+#      link: "https://www.____________"
+#      imageUrl: "_________.svg"
+-
   group: "Bronze Partners"
-#  elements: 
-#    - {name: "___________", description: "___________", link: "https://www.____________", imageUrl: "_________.svg"}  
--   
+  elements:
+#  elements:
+#    -
+#      name:
+#        it: "___________"
+#        en: "___________"
+#      description:
+#        it: "___________"
+#        en: "___________"
+#      link: "https://www.____________"
+#      imageUrl: "_________.svg"
+-
   group: "Media Partners"
-  elements: 
-    - {name: "GRUSP", description: "Nata nel 2003 come associazione dedicata al solo mondo del PHP il GrUSP è diventata il punto di riferimento in Italia per le buone pratiche nel mondo dello sviluppo web.", link: "http://www.grusp.org/it/", imageUrl: "grusp-logo.svg"}      
-#   - {name: "Python Italia APS", description: "Python Italia APS è una associazione a livello nazionale che si propone di aiutare e supportare la diffusione e l'utilizzo del linguaggio di programmazione "Python" sul territorio italiano. L'attività della associazione si dirama in iniziative più o meno locali di varia dimensione e natura: dai Meetup dei gruppi di utenti ai workshop tenuti da iscritti alla associazione e supportati dalla associazione stessa, all'evento di punta: PyCon Italia, la conferenza ufficiale italia, ormai appuntamento fisso di centinaia e centinaia di sviluppatori python da tutto il mondo.", link: "https://www.pycon.it/it/", imageUrl: "pycon_otto_logo.svg"}      
+  elements:
+    -
+      name:
+        it: "GRUSP"
+        en: "GRUSP"
+      description:
+        it: "Nata nel 2003 come associazione dedicata al solo mondo del PHP il GrUSP è diventata il punto di riferimento in Italia per le buone pratiche nel mondo dello sviluppo web."
+        en: "Nata nel 2003 come associazione dedicata al solo mondo del PHP il GrUSP è diventata il punto di riferimento in Italia per le buone pratiche nel mondo dello sviluppo web."
+      link: "http://www.grusp.org/it/"
+      imageUrl: "grusp-logo.svg"
