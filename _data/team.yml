@@ -72,7 +72,7 @@
   id: 0
   name: "Gabriele"
   surname: "Bartolini"
-  thumbnailUrl: ___________________.jpg
+  thumbnailUrl: gabriele.jpg
   subTeam: true
   ribbon: 
     - {abbr: "______", title: "_________________"}
@@ -85,7 +85,7 @@
   id: 1
   name: "Denis"
   surname: "Gasparin"
-  thumbnailUrl: ___________________.jpg
+  thumbnailUrl: denis.jpg
   subTeam: true
   ribbon: 
     - {abbr: "______", title: "_________________"}
@@ -112,7 +112,7 @@
   id: 3
   name: "Emanuele"
   surname: "Zamprogno"
-  thumbnailUrl: ___________________.jpg
+  thumbnailUrl: emanuele.jpg
   subTeam: true
   ribbon: 
     - {abbr: "______", title: "_________________"}
