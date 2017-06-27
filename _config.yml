@@ -196,6 +196,9 @@ organizersTitle:
 partnersTitle:
     it: "Partner"
     en: "Partner"
+partnersInfo:
+    it: "PGDay.IT non sarebbe possibile senza il supporto dei nostri generosi partner. Grazie mille a tutti!"
+    en: "PGDay.IT wouldn't be possible without support from our generous partners. Thank you all very much!"
 partnersC4sponsorsButton:
     it: "Diventa Partner"
     en: "Become Partner"
