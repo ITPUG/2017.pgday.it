@@ -54,7 +54,6 @@
   thumbnailUrl: giuseppe.jpg
   team: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/________________________"}
     - {name: "twitter", link: "https://twitter.com/giubro"}
     - {name: "github", link: "https://github.com/gbroccolo"}
     - {name: "linkedin", link: "https://it.linkedin.com/in/gbroccolo7"}
@@ -76,7 +75,6 @@
   thumbnailUrl: denis.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/________________________"}
     - {name: "twitter", link: "https://twitter.com/rtshome"}
     - {name: "github", link: "https://github.com/rtshome"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/denis-gasparin-19395817/"}
@@ -99,8 +97,6 @@
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/105710421639258466519"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/ezamprogno/"}
     
 - 
@@ -134,9 +130,7 @@
   exTeam: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+PaoloDina"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
     - {name: "github", link: "https://github.com/paolodina"}
-    - {name: "linkedin", link: "https://_______________"}
 - 
   id: 3
   name: "Barbara"
