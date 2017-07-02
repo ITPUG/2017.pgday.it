@@ -103,11 +103,10 @@
   ribbon: 
     - {abbr: "______", title: "_________________"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/102238164874818911077"}
     - {name: "twitter", link: "https://twitter.com/TorelloQuerci"}
-    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "github", link: "https://github.com/mk8"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/torello-querci-7375394/"}
-    - {name: "facebook", link: "https://_____________________"}
 - 
   id: 3
   name: "Emanuele"
