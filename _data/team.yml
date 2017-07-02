@@ -5,8 +5,6 @@
   title: "Presidente Associazione ITPUG"
   thumbnailUrl: marco.jpg
   team: true
-  ribbon: 
-    - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+MarcoNenciarini"}
     - {name: "google-plus", link: "https://plus.google.com/100108801641983928567"}
@@ -20,8 +18,6 @@
   title: "Vice-Presidente Associazione ITPUG"
   thumbnailUrl: matteo.jpg
   team: true
-  ribbon: 
-    - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/107891917634409052504"}
     - {name: "twitter", link: "https://twitter.com/mbeccati"}
@@ -34,8 +30,6 @@
   title: "Tesoriere Associazione ITPUG"
   thumbnailUrl: patri.jpg
   team: true
-  ribbon: 
-    - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/106081143924147812423"}
     - {name: "twitter", link: "https://twitter.com/DabizziPatrizia"}
@@ -47,8 +41,6 @@
   title: "Segretario Associazione ITPUG"
   thumbnailUrl: bam965.jpg
   team: true
-  ribbon: 
-    - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/109223912225983995311"}
     - {name: "twitter", link: "https://twitter.com/bam965"}
@@ -61,8 +53,6 @@
   title: "Consigliere Associazione ITPUG"
   thumbnailUrl: giuseppe.jpg
   team: true
-  ribbon: 
-    - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
     - {name: "twitter", link: "https://twitter.com/giubro"}
@@ -74,8 +64,6 @@
   surname: "Bartolini"
   thumbnailUrl: gabriele.jpg
   subTeam: true
-  ribbon: 
-    - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/107466780372045620897"}
     - {name: "twitter", link: "https://twitter.com/_GBartolini_"}
@@ -87,8 +75,6 @@
   surname: "Gasparin"
   thumbnailUrl: denis.jpg
   subTeam: true
-  ribbon: 
-    - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/________________________"}
     - {name: "twitter", link: "https://twitter.com/rtshome"}
@@ -100,8 +86,6 @@
   surname: "Querci"
   thumbnailUrl: ___________________.jpg
   subTeam: true
-  ribbon: 
-    - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/102238164874818911077"}
     - {name: "twitter", link: "https://twitter.com/TorelloQuerci"}
@@ -113,8 +97,6 @@
   surname: "Zamprogno"
   thumbnailUrl: emanuele.jpg
   subTeam: true
-  ribbon: 
-    - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/105710421639258466519"}
     - {name: "twitter", link: "https://twitter.com/_______________"}
@@ -127,8 +109,6 @@
   surname: "Nenciarini"
   thumbnailUrl: marco.jpg
   exTeam: true
-  ribbon: 
-    - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+MarcoNenciarini"}
     - {name: "google-plus", link: "https://plus.google.com/100108801641983928567"}
@@ -141,8 +121,6 @@
   surname: "Pasquini" 
   thumbnailUrl: mpasquini.jpg
   exTeam: true
-  ribbon: 
-    - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+MatteoPasquini_77"}
     - {name: "twitter", link: "https://twitter.com/LittleEaster_0"}
@@ -154,8 +132,6 @@
   surname: "Dina" 
   thumbnailUrl: paolo.jpg
   exTeam: true
-  ribbon: 
-    - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+PaoloDina"}
     - {name: "twitter", link: "https://twitter.com/_______________"}
@@ -167,8 +143,6 @@
   surname: "Milani"  
   thumbnailUrl: bam965.jpg
   exTeam: true
-  ribbon: 
-    - {abbr: "______", title: "_________________"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/109223912225983995311"}
     - {name: "twitter", link: "https://twitter.com/bam965"}
