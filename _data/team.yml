@@ -82,7 +82,7 @@
   id: 2
   name: "Torello"
   surname: "Querci"
-  thumbnailUrl: ___________________.jpg
+  thumbnailUrl: torello.jpg
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/102238164874818911077"}
