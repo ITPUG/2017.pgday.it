@@ -19,8 +19,6 @@ exclude:
   - 'schedule.en.html'
   - 'speakers.it.html'
   - 'speakers.en.html'
-  - 'team.it.html'
-  - 'team.en.html'
 
 # Site Settings
 title: "PGDay.IT 2017"
