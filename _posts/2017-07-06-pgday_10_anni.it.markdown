@@ -12,13 +12,13 @@ redirect-from:
 
 Il **PGDay.IT** è l'evento nazionale dedicato alla promozione del più avanzato database open source al mondo. L'edizione italiana è una delle più longeve di tutta la comunità di Postgres ed è il risultato dell'attività dell’associazione consolidata no profit **ITPUG (Italian PostgreSQL Users Group)**.
  
-Il primo PGDay si è svolto il 6 e il 7 luglio 2007 presso la Monash University a Prato (Italia).
+Il primo PGDay[^footnote] si è svolto il 6 e il 7 luglio 2007 presso la Monash University a Prato (Italia).
  
 **Dieci anni fa!**
  
 L'evento è stato promosso ed organizzato dagli utenti e sviluppatori italiani di PostgreSQL in collaborazione con Prato Linux User Group.
  
-La prima edizione del PGDay è stata molto importante, non solo perché è stato il primo a livello Europeo, ma ha anche permesso di porre le basi per la creazione dell'associazione "PostgreSQL Europe". Infatti, alcuni membri fondatori di ITPUG hanno partecipato alla creazione della Comunità Europea che organizza ogni anno il PGConf, una conferenza europea focalizzata su PostgreSQL, che vanta oltre 400 partecipanti ad ogni sua edizione.
+La prima edizione del PGDay[^footnote] è stata molto importante, non solo perché è stato il primo a livello Europeo, ma ha anche permesso di porre le basi per la creazione dell'associazione "PostgreSQL Europe". Infatti, alcuni membri fondatori di ITPUG hanno partecipato alla creazione della Comunità Europea che organizza ogni anno il PGConf, una conferenza europea focalizzata su PostgreSQL, che vanta oltre 400 partecipanti ad ogni sua edizione.
  
 Nell’ottobre 2008, il 17 e 18, ebbe luogo a Prato l’European PGDay che includeva sia un programma italiano che un programma Europeo (lingua inglese) in parallelo. Il programma Italiano  fu definito e gestito dai membri ITPUG e PLUG (Prato Linux User Group), mentre il programma europeo fu definito e gestito da membri del gruppo PostgreSQL Europe, sempre con il supporto di ITPUG e PLUG.
  
@@ -51,3 +51,7 @@ Ricordando quello che successe 10 anni fa, abbiamo fatto una piccola ricerca e a
 * [Luglio 2007: Chiuso il PGDay 2007 tra la grande soddisfazione di organizzatori e partecipanti](http://www.bricoliamo.com/rotocalco/eventi-e-fiere/chiuso-il-pgday-2007-tra-la-grande-soddisfazione-di-organizzatori-e-partecipanti/#.WV43rhPyhTY)
 * [Giugno 2008: Secondo convegno italiano dedicato a PostgreSQL - PGDay 2008](http://www.psql.it/?q=node/152)
 * [Ottobre 2008: Il Comune di Prato capitale d'Europa per l'open source](http://comunicati.comune.prato.it/generali/?action=dettaglio&comunicato=14200800001006)
+
+Buona lettura a tutti!
+
+[^footnote]: <small>PGDAy ha dato vita al PGDay.IT e alla PGConf.Eu</small>
