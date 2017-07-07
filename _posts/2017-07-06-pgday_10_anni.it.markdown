@@ -54,4 +54,4 @@ Ricordando quello che successe 10 anni fa, abbiamo fatto una piccola ricerca e a
 
 Buona lettura a tutti!
 
-[^footnote]: <small>PGDAy ha dato vita al PGDay.IT e alla PGConf.Eu</small>
+[^footnote]: <small>PGDAy ha dato vita al PGDay.IT e alla PGConf.EU</small>
