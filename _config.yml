@@ -3,6 +3,7 @@ gems:
 - jekyll-sitemap
 - jekyll-redirect-from
 safe: false
+future: false
 
 # Build Settings
 markdown: kramdown
