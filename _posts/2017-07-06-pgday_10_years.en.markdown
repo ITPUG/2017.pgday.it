@@ -12,7 +12,7 @@ ref: pgday
  
 The first PGDay[^footnote] took place on July 6th and 7th, 2007, at the Monash University located in Prato (Italy).
  
-**Ten years ago**
+**Ten years ago!**
  
 The event has been promoted and organised by Italian PostgreSQL users and developers in collaboration with the Prato Linux User Group.
  
