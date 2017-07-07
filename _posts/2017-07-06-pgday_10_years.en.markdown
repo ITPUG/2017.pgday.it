@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "PGDay: 10 years of activity"
+date:   2017-07-06 10:00:00
+isStaticPost: false
+permalink: /en/blog/pgday_10_anni
+lang: en
+ref: pgday
+---
+
+**PGDay.IT**  is the Italian national event dedicated to the promotion of PostgreSQL. The Italian edition is one of the most enduring in the whole Postgres community and it is the result of the work that has been promoted by the consolidated non-profit organisation **ITPUG (Italian PostgreSQL Users Group)**.
+ 
+The first PGDay[^footnote] took place on July 6th and 7th, 2007, at the Monash University located in Prato (Italy).
+ 
+**Ten years ago**
+ 
+The event has been promoted and organised by Italian PostgreSQL users and developers in collaboration with the Prato Linux User Group.
+ 
+The first edition of the PGDay[^footnote] has been very important, not only because it was the first in Europe, but also for allowing to lay the foundations for the establishment of the "PostgreSQL Europe" association. In fact, some of the founding members of ITPUG have participated in the creation of the European Community that organises every year the PGConf.EU, the European conference focused on PostgreSQL, which boasts over 400 attendees per edition.
+ 
+On October 17th and 18th, 2008, took place in Prato the European PGDay which included both an Italian and an European program (presented in English) running in parallel. The Italian program was developed and organized by ITPUG and PLUG (Prato Linux User's Group) members, whilst the European program was managed by members of the PostgreSQL Europe group, with the support of ITPUG and PLUG. 
+
+Since 2007 the work of the Italian Community has never stopped. Every year we are happy in making this event alive and sharing the news about content inside each release of PostgreSQL.
+
+PGDay.IT target group is quite broad. It extends from the academic world to industry experts who want to know about a free, effective and reliable alternative to proprietary database solutions.
+ 
+Unfortunately, PostgreSQL’s potential is still significantly underestimated in Italy. The main promotion channel is and remains its community. That's why PGDay.IT is so important for Italy.
+ 
+The main "actors" of PGDay.IT are:
+* Volunteers: who work hard to organise the event,
+* Partners: without them, the event would not be possible,
+* Speakers: who share their know-how and bring new ideas
+* Attendees: who share experiences and enthusiasm
+ 
+**Looking forward to meet all of you in Milan next October 13th, we have a gift for all of you.**
+ 
+To remember what happened 10 years ago, we did some research and have found some amazing articles that can take you back in time:
+
+* [Year 2007: PostgreSQL.org](http://web.archive.org/web/20070609171626/http://www.postgresql.org:80/)
+* [January 2007: Cos'è il PGDay ?](http://web.archive.org/web/20070601184007/http://www.pgday.it:80/)
+* [February 2007: About PGDay](http://web.archive.org/web/20070617204140/http://www.pgday.it:80/en)
+* [March 2007: Aderisci a Road to PGDay 2007 !](http://www.psql.it/?q=node/42)
+* [March 2007: Plug Road To PGDay](http://web.archive.org/web/20070706024853/http://www.prato.linux.it/node/29)
+* [May 2007: European open source community meets at Prato](http://adm.monash.edu/records-archives/archives/memo-archive/2004-2007/stories/20070509/prato.html)
+* [May 2007: Interview with the organisers of PostgreSQL Day 2007](http://web.archive.org/web/20080704145429/http://www.freesoftwaremagazine.com/columns/pgday_2007)
+* [May 2007: Interview with the organisers of PostgreSQL Day 2007](http://web.archive.org/web/20070826195418/http://www.freesoftwaremagazine.com:80/blogs/pgday_2007)
+* [June 2007: Comunicato stampa](http://dev.enricopirozzi.info/psqlit/files/comunicato_stampa_070607.pdf)
+* [July 2007: Chiuso il PGDay 2007 tra la grande soddisfazione di organizzatori e partecipanti](http://www.bricoliamo.com/rotocalco/eventi-e-fiere/chiuso-il-pgday-2007-tra-la-grande-soddisfazione-di-organizzatori-e-partecipanti/#.WV43rhPyhTY)
+* [Year 2008: About European PGDay 2008](https://www.postgresql.org/about/event/698/)
+* [June 2008: Secondo convegno italiano dedicato a PostgreSQL - PGDay 2008](http://www.psql.it/?q=node/152)
+* [October 2008: Il Comune di Prato capitale d'Europa per l'open source](http://comunicati.comune.prato.it/generali/?action=dettaglio&comunicato=14200800001006)
+
+Happy reading!
+
+<small>PGDAy gave birth to PGDay.IT and PGConf.EU</small>
