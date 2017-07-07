@@ -10,13 +10,13 @@ ref: pgday
 
 **PGDay.IT**  is the Italian national event dedicated to the promotion of PostgreSQL. The Italian edition is one of the most enduring in the whole Postgres community and it is the result of the work that has been promoted by the consolidated non-profit organisation **ITPUG (Italian PostgreSQL Users Group)**.
  
-The first PGDay[^footnote] took place on July 6th and 7th, 2007, at the Monash University located in Prato (Italy).
+The first PGDay took place on July 6th and 7th, 2007, at the Monash University located in Prato (Italy).
  
 **Ten years ago**
  
 The event has been promoted and organised by Italian PostgreSQL users and developers in collaboration with the Prato Linux User Group.
  
-The first edition of the PGDay[^footnote] has been very important, not only because it was the first in Europe, but also for allowing to lay the foundations for the establishment of the "PostgreSQL Europe" association. In fact, some of the founding members of ITPUG have participated in the creation of the European Community that organises every year the PGConf.EU, the European conference focused on PostgreSQL, which boasts over 400 attendees per edition.
+The first edition of the PGDay has been very important, not only because it was the first in Europe, but also for allowing to lay the foundations for the establishment of the "PostgreSQL Europe" association. In fact, some of the founding members of ITPUG have participated in the creation of the European Community that organises every year the PGConf.EU, the European conference focused on PostgreSQL, which boasts over 400 attendees per edition.
  
 On October 17th and 18th, 2008, took place in Prato the European PGDay which included both an Italian and an European program (presented in English) running in parallel. The Italian program was developed and organized by ITPUG and PLUG (Prato Linux User's Group) members, whilst the European program was managed by members of the PostgreSQL Europe group, with the support of ITPUG and PLUG. 
 
