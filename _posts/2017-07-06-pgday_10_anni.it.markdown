@@ -29,10 +29,10 @@ Il target a cui si rivolge il PGDay.IT è abbastanza ampio. Si estende dal mondo
 Purtroppo, il potenziale di PostgreSQL è ancora molto sottovalutato in Italia. Il principale canale di promozione è e resta la Community. Ecco perché il PGDay.IT è così importante per il nostro Paese.
  
 I principali attori del PGDay.IT sono:
-* i Volontari che lavorano assiduamente all’organizzazione della manifestazione,
-* i Partner, senza i quali l’evento non sarebbe realizzabile,
-* gli Speaker, portatori di know-how e di nuove idee
-* i Partecipanti, che condividono esperienze ed entusiasmo
+* i Volontari: che lavorano assiduamente all’organizzazione della manifestazione,
+* i Partner: senza i quali l’evento non sarebbe realizzabile,
+* gli Speaker: portatori di know-how e di nuove idee
+* i Partecipanti: che condividono esperienze ed entusiasmo
  
 **In attesa di incontrarvi tutti a Milano il prossimo 13 ottobre, abbiamo un regalo per tutti voi.**
  
