@@ -74,82 +74,87 @@
   video: "//www.youtube.com/________________"
 -
   id: 011
-  title: "Talk2"
-  description: "______________________"
+  title: "Dai dati alla visualizzazione: la mia prima data pipeline"
+  description: "Costruire una data pipeline non deve essere per forza complicato e per farlo possiamo usare strumenti familiari come Python e PostgreSQL. Nel talk vedremo come si può realizzare una semplice data pipeline usando Luigi per consumare dati da una API e prepararli per fare esplorazione e visualizzazione con Superset."
   subtype: Talk
-  speakers: [4]
-  language: en - it
-  complexity: "______________" 
+  speakers: [6]
+  language: it
+  complexity: "Beginner" 
   presentation: "https://____________________"
   video: "//www.youtube.com/________________"
 -
   id: 012
-  title: "Talk3"
-  description: "______________________"
+  title: "PostgreSQL upgrade best practices"
+  description: "Are you running a PostgreSQL version prior to 9.2? Even a version before that? Time to upgrade. Each PostgreSQL major version is supported for five years which means (currently) the last supported version is 9.2 which will go out of support this September. For a smooth and save upgrade there are some things to prepare. We will look at the most common pain points and do some demos for upgrading single instances as well as master -> replica configurations."
   subtype: Talk
-  speakers: [5]
-  language: en - it
-  complexity: "______________" 
+  speakers: [7]
+  language: en
+  complexity: "Intermediate" 
   presentation: "https://____________________"
   video: "//www.youtube.com/________________"
 -
   id: 013
-  title: "Talk4"
-  description: "______________________"
+  title: "PostgreSQL and the IoT: a marriage made in heaven"
+  description: "The Internet of Things is taking the world by storm and PostgreSQL is there ready to take the burden of supporting it. In this talk I will describe how our IoT italian startup managed to optimally use PostgreSQL features to our advantage with a node.js API based architecture on Heroku to minimize database maintenance costs and get unmatched performance while at the same time minimizing development costs"
   subtype: Talk
-  speakers: [6]
+  speakers: [8]
   language: en - it
-  complexity: "______________" 
+  complexity: "Intermediate" 
   presentation: "https://____________________"
   video: "//www.youtube.com/________________"
 -
   id: 014
-  title: "Talk5"
-  description: "______________________"
+  title: "Disaster Recovery: una serie di sfortunati eventi"
+  description: "Scambio di storie, esperienze, domande e risposte riguardo a piccoli/medi/grandi disastri quotidiani (forse) realmente accaduti.
+
+Durante l’esposizione il pubblico sarà legittimato a interrompere (nei limiti del sensato) la narrazione dei relatori, al fine di sapere tutto cioè che avrebbero sempre voluto sulla disaster recovery (su PostgreSQL) e non hanno mai osato chiedere."
   subtype: Talk
-  speakers: [7, 8]
-  language: en - it
-  complexity: "______________" 
+  speakers: [4, 5]
+  language: it
+  complexity: "Beginner" 
   presentation: "https://____________________"
   video: "//www.youtube.com/________________"  
 -
   id: 015
-  title: "Talk6"
-  description: "______________________"
+  title: "Azure Database for PostgreSQL"
+  description: "Azure Database for PostgreSQL is a managed database service built for developers using the community PostgreSQL database technology you love. Learn how you can leverage the managed service and the key capabilities that the service offers which enables you as a developer to focus on developing apps. Using customer stories and experiences including live demos, we will walk through best practices and demonstrate how this service integrates with the other Azure services."
   subtype: Talk
   speakers: [9]
   language: en - it
-  complexity: "______________" 
+  complexity: "Intermediate" 
   presentation: "https://____________________"
   video: "//www.youtube.com/________________"  
 -
   id: 016
-  title: "Talk7"
-  description: "______________________"
+  title: "An Elephant in the Door: Data integration solution."
+  description: "A practical use of FDW with different data sources, (pdf, text, access,
+ldap, mongodb, Sqlserve, Oracle, PostgreSQL etc). Where the Oracle
+solution implemented for its malfunction had to be replicated by a
+solution based on RC From CubaPostgreSQL."
   subtype: Talk
   speakers: [10]
-  language: en - it
-  complexity: "______________" 
+  language: en
+  complexity: "Intermediate" 
   presentation: "https://____________________"
   video: "//www.youtube.com/________________"
 -
   id: 017
-  title: "Talk8"
-  description: "______________________"
+  title: "PostgreSQL Realtime Queries at Scale"
+  description: "How deepstreamHub uses PostgreSQL functions to create streaming resultsets that update as entries match or unmatch a query."
   subtype: Talk
   speakers: [11]
-  language: en - it
-  complexity: "______________" 
+  language: en
+  complexity: "Intermediate" 
   presentation: "https://____________________"
   video: "//www.youtube.com/________________"
 -
   id: 018
-  title: "Talk9"
-  description: "______________________"
+  title: "Patroni: PostgreSQL HA nel cloud"
+  description: "Patroni e' un demone scritto in Python ed e' utilizzato per realizzare soluzioni distribuite di Postgresql  HA ed utilizzando servizi di configurazione distribuiti quali Etcd, Zookeeper o Consul. E' una soluzione per il deploy di istanze Postgresql su diversi datacenter. Si analizzeranno pregi e difetti dello strumento"
   subtype: Talk
   speakers: [12]
-  language: en - it
-  complexity: "______________" 
+  language: it
+  complexity: "Intermediate" 
   presentation: "https://____________________"
   video: "//www.youtube.com/________________"
 -
