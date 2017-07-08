@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Call for Papers"
+title:  "Call for Paper"
 date:   2017-05-29 12:00:00
 isStaticPost: false
 permalink: /it/blog/call-for-papers
