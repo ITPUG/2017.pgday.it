@@ -60,24 +60,28 @@
     - {name: "facebook", link: "https://_____________________"}
 - 
   id: 4
-  name: "Pluto"
-  surname: "________________"
-  company: "____________________"
-  title: "_______________________________"
-  bio: "_________________________________________________________________________________"
-  thumbnailUrl: ___________________.jpg
+  name: "Giulio"
+  surname: "Calacoci"
+  company: "2ndQuadrant"
+  title: "Developer"
+  bio: "Appassionato fin da piccolo di tecnologia e curioso per natura, si affaccia sul mondo dell'informatica da autodidatta, ma la sua carriera di programmatore subisce una svolta quando finito il liceo si iscrive alla facoltà di informatica presso l'università di Firenze.
+
+Entra così in contatto con Linux e con il mondo dell'Open Source. Con il progredire degli studi incrementa la conoscenza della programmazione, cominciando a studiare i primi framework web scritti in Java e scegliendo, quando possibile, PostgreSQL come database.
+
+Entra nel mondo del lavoro prima di aver terminato gli studi, inizialmente come web designer/programmatore PHP, e in seguito come sviluppatore Java sia Frontend che Backend.
+
+Inizia a lavorare per 2ndQuadrant italia sviluppando in Python applicazioni a supporto di PostgreSQL."
+  thumbnailUrl: giulio-calacoci.jpg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
+    - {name: "twitter", link: "https://twitter.com/asdmaster"}
+    - {name: "github", link: "https://github.com/gcalacoci"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gcalacoci/"}
 - 
   id: 5
-  name: "Paperino"
-  surname: "________________"
-  company: "____________________"
+  name: "Francesco"
+  surname: "Canovai"
+  company: "2ndQuadrant"
   title: "_______________________________"
   bio: "_________________________________________________________________________________"
   thumbnailUrl: ___________________.jpg
@@ -90,109 +94,92 @@
     - {name: "facebook", link: "https://_____________________"}
 - 
   id: 6
-  name: "Minni"
-  surname: "________________"
-  company: "____________________"
-  title: "_______________________________"
-  bio: "_________________________________________________________________________________"
-  thumbnailUrl: ___________________.jpg
+  name: "Riccardo"
+  surname: "Magliocchetti"
+  company: "Maieutical Labs"
+  title: "Software developer"
+  bio: "Scrive software e software libero perlopiù in Python. Organizza Torino Hacknight e Torino Open Source Saturday."
+  thumbnailUrl: riccardo_magliocchetti.jpeg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
+    - {name: "twitter", link: "https://twitter.com/rmistaken"}
+    - {name: "github", link: "https://github.com/xrmx/"}
 - 
   id: 7
-  name: "Francesco"
-  surname: "Canovai"
-  company: "____________________"
-  title: "_______________________________"
-  bio: "_________________________________________________________________________________"
-  thumbnailUrl: ___________________.jpg
+  name: "Daniel"
+  surname: "Westermann"
+  company: "dbi services"
+  title: "Senior Consultant & Open Infrastructure Technology Leader"
+  bio: "Daniel Westermann has more than 10 years of experience in management, engineering and optimization of databases and infrastructures. He is specialized in Oracle Technologies as Performance Optimization and Tuning, Standardization, Backup & Recovery, in High Avaibility solutions as Oracle Real Application Clusters (RAC), Oracle Data Guard, Oracle Grid Infrastructure, as well as in storage technologies as Oracle Automatic Storage Management (ASM). Daniel Westermann is Oracle Certified Professional 10g/11g/12c. He is also a PostgreSQL Plus 9.0 Professional and a Postgres Advanced Server 9.4 Professional.
+
+Prior to dbi services, Daniel Westermann was Management System Engineer at LC SYSTEMS-Engineering AG in Basel. Before that, he worked as Oracle Developper & Project Manager at Delta Energy Solutions AG in Basel (today Powel AG).
+
+Daniel Westermann holds a diploma in Business Informatics (DHBW, Germany).
+His branch-related experience mainly covers the pharma industry, the financial sector, energy, lottery, telecommunications."
+  thumbnailUrl: daniel-westermann.jpg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
+    - {name: "twitter", link: "https://twitter.com/westermanndanie"}
 - 
   id: 8
-  name: "Giulio"
-  surname: "Calacoci"
-  company: "____________________"
-  title: "_______________________________"
-  bio: "_________________________________________________________________________________"
-  thumbnailUrl: ___________________.jpg
+  name: "Luca"
+  surname: "Veronese"
+  company: "Lapsy srl"
+  title: "Socio e responsabile Cloud API"
+  bio: "Mi occupo di database, strumenti di sviluppo ed architetture software da oltre 30 anni. Ho lavorato nella ricerca e sviluppo di aziende come Infocamere Scpa e ho fondato alcune startup in Italia tra le quali recentemente Lapsy srl che si occupa di IoT. Ho diverse certificazioni, recentemente in Machine Learning e amo essere competente e imparare nuove tecnologie. Nel (poco) tempo libero suono la chitarra elettrica e gioco con mia figlia."
+  thumbnailUrl: luca_veronese.jpg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
+    - {name: "google-plus", link: "http://google.com/+LucaVeronese"}
+    - {name: "twitter", link: "https://twitter.com/lveronese65"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luca-veronese-b39b2115"}
 - 
   id: 9
-  name: "Bianco"
-  surname: "________________"
-  company: "____________________"
-  title: "_______________________________"
-  bio: "_________________________________________________________________________________"
-  thumbnailUrl: ___________________.jpg
+  name: "Silvano"
+  surname: "Coriani"
+  company: "Microsoft"
+  title: "Principal PM"
+  bio: "Silvano works as Principal Program Manager in Azure Engineering at Microsoft Corporation. He has 20+ years experience on distributed solutions and relational database systems, including building global scale data services."
+  thumbnailUrl: silvano_coriani.jpg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
+    - {name: "twitter", link: "https://twitter.com/scoriani"}
 - 
   id: 10
-  name: "Verde"
-  surname: "________________"
-  company: "____________________"
-  title: "_______________________________"
-  bio: "_________________________________________________________________________________"
-  thumbnailUrl: ___________________.jpg
+  name: "Charles"
+  surname: "Finley"
+  company: "Transformix Computer Corporation"
+  title: "President"
+  bio: "Charles Finley is President of Transformix which specializes in legacy application migration and modernization. He has over 40 years experience working in a number of different computing environments. Systems range from legacy COBOL and green screen based applications to cloud, web and mobile applications."
+  thumbnailUrl: charles_finley.jpg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cfinleyxformix/"}
 - 
   id: 11
-  name: "Rosso"
-  surname: "________________"
-  company: "____________________"
-  title: "_______________________________"
-  bio: "_________________________________________________________________________________"
-  thumbnailUrl: ___________________.jpg
+  name: "Wolfram"
+  surname: "Hempel"
+  company: "DeepstreamHub"
+  title: "CEO"
+  bio: "From AAA-gaming at multiplayer giant Crytek to the plumbing that connects the world’s exchanges and market makers; Wolfram's list of jobs and titles is long enough to get boring, so to name a few: Vice President of trading technology at JP Morgan London, Tech Lead at Caplin systems or FX trading consultant for HSBC. He worked on low latency realtime in the United States, South Africa, Denmark, Germany, Switzerland, Australia and more. He also once was a soldier and holds degrees in art history and archaeology, but that’s a story for another time."
+  thumbnailUrl: wolfram_hempel.jpg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
+    - {name: "twitter", link: "https://twitter.com/wolframhempel"}
+    - {name: "github", link: "https://github.com/wolframhempel"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/wolframhempel/?ppe=1"}
 - 
   id: 12
-  name: "Blu"
-  surname: "________________"
-  company: "____________________"
-  title: "_______________________________"
-  bio: "_________________________________________________________________________________"
-  thumbnailUrl: ___________________.jpg
+  name: "Lucio"
+  surname: "Grenzi"
+  company: "Freelance"
+  title: "Freelance"
+  bio: "Currently working as software developer and consultant,
+mostly as Front-end Developer, during the the years I had the opportunity to build software across all layers, from frontend, to the backend and database systems"
+  thumbnailUrl: lucio_grenzi.jpg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
+    - {name: "linkedin", link: "https://it.linkedin.com/pub/lucio-grenzi/27/2bb/2a"}
 - 
   id: 13
   name: "Arancio"
