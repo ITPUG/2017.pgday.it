@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Posticipata la deadline della Call for Paper"
-date:   2017-07-10 07:45:00
+date:   2017-07-10 00:45:00
 isStaticPost: false
 permalink: /it/blog/cfp_postponed
 lang: it
