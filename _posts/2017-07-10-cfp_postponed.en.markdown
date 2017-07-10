@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for Papers Deadline Postponed"
-date:   2017-07-10 07:45:00
+date:   2017-07-10 00:45:00
 isStaticPost: false
 permalink: /en/blog/cfp_postponed
 lang: en
