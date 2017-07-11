@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Opportunities must be taken and never missed."
-date:   2017-07-11 18:00:00
+date:   2017-07-11 18:10:00
 isStaticPost: false
 permalink: /en/blog/opportunities
 lang: en
