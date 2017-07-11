@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Le occasioni vanno prese, e non perse"
-date:   2017-07-11 18:00:00
+date:   2017-07-11 18:10:00
 isStaticPost: false
 permalink: /it/blog/opportunities
 lang: it
