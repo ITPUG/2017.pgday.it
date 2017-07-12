@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Partner, because ..."
+date:   2017-07-12 16:00:00
+isStaticPost: false
+permalink: /en/blog/call_for_partners
+lang: en
+ref: call_for_partners
+---
+
+Organising PGDay.It requires dedication and hard work by volunteers who are part of the non-profit association [ITPUG](http://www.itpug.org/index.it.html).
+
+Like every conference, there are many things to organise and prepare in order to run the event and exceed expectations.
+
+But the hard work and commitment of volunteers is not enough to make PGDay.It great for its participants, 
+like any other community event, PGDay.IT also has its Partners. Companies that have supported the event from the beginning and new companies 
+that today recognise a viable alternative in PostgreSQL to commercial DBMSs.
+
+Without this ecosystem, not only would it not be possible to organise PGDay.IT and any other event in the world dedicated to PostgreSQL, 
+but even the project itself probably wouldn’t be the same as it is today.
+
+But what are the benefits for the Partners who support PGDay.IT?
+
+* Visibility within the Open Source world, which is, nowadays, more and more appealing to companies looking for solutions that make 
+them more competitive in their market.
+
+* Increasing their PostgreSQL skills. PGDay.IT is not a commercial event but a technical one. It also allows Partners to have the 
+right knowledge that enables them to set up a medium to long term strategy based on PostgreSQL's technical novelties.
+
+* Your company is already part of the PostgreSQL ecosystem and you support it through the delivery of services, 
+members of your team are also PostgreSQL core developers that also develop PostgreSQL 
+satellite projects or offer a commercial fork with features not in PostgreSQL.
+
+Are you and your company willing to miss this opportunity? More details are [available here](http://2017.pgday.it/assets/Be_Partner_EN_PGDay_2017.pdf).
+
+In addition to all that, the 2017 edition is twice as important for the Italian community, with the number 10 marking two very important occasions:
+
+* Release of version 10 of PostgreSQL
+* ITPUG is celebrating its 10 year anniversary
+
+So we have a lot to celebrate and the participants, partners and speakers will be greeted with the enthusiasm of the ITPUG volunteers to celebrate 
+the no. 10 together!
+
+See you on October 13th in Milan at Fondazione Stelline.
+
+

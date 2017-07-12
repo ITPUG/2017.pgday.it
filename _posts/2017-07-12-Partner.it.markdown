@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Partner, perché ..."
+date:   2017-07-12 16:00:00
+isStaticPost: false
+permalink: /it/blog/call_for_partners
+lang: it
+ref: call_for_partners
+redirect-from:
+ - /blog/call_for_partners
+---
+
+Organizzare il PGDay.It richiede dedizione e duro lavoro da parte dei volontari che fanno parte dell’associazione no profit [ITPUG](http://www.itpug.org/index.it.html).
+
+Come ogni conferenza, ci sono molte cose da organizzare e predisporre per far si che la manifestazione si svolga senza che le aspettative vengano disattese.
+
+Ma il duro lavoro e l’impegno dei volontari non può essere sufficiente a rendere il PGDay.It grande, in grado di accogliere così tanti partecipanti interessati a PostgreSQL.
+
+Come ogni evento comunitario, anche il PGDay.IT ha i suoi Partner. Aziende che supportano la manifestazione fin dall’inizio e nuove aziende che oggi riconoscono in PostgreSQL la valida alternativa ai DBMS commerciali.
+
+Senza questo Ecosistema, non solo non sarebbe possibile organizzare il PGDay.IT ed ogni altra manifestazione nel mondo dedicata a PostgreSQL, ma lo stesso progetto probabilmente non sarebbe quello che è oggi.
+
+Ma quali sono i benefici per i Partner che supportano il PGDay.IT?
+
+* Visibilità all’interno del mondo Open Source, oggi sempre più attrattivo per le aziende che ricercano soluzioni che le rendano più competitivi nel loro mercato.
+
+* Accrescimento delle loro competenze su PostgreSQL. Il PGDay.IT non è una manifestazione commerciale, bensì tecnica. Permette anche ai Partner di avere la giusta conoscenza che permette loro di predisporre una strategia programmata a medio lungo termine sulla base di quelle che sono le novità tecniche di PostgreSQL.
+
+* Sei un'azienda che fa già parte dell'ecosistema di PostgreSQL, che lo supporta attraverso l'erogazione dei propri servizi, che ha all'interno del suo team sviluppatori del core di PostgreSQL, che sviluppa progetti satelliti di PostgreSQL o che grazie a PostgreSQL propone un fork commerciale con funzionalità non presenti in PostgreSQL.
+
+E tu e la tua azienda sareste disposti a perdere questa occasione? Maggiori dettagli sono [disponibili qui](http://2017.pgday.it/assets/Diventa_Partner_IT_PGDay_2017.pdf).
+
+Inoltre, l’edizione 2017 è doppiamente importante per la Comunità Italiana, con il numero 10 che ricorre in ben due occasioni:
+
+* Rilascio della release 10 di PostgreSQL
+* ITPUG festeggia 10 anni di attività
+
+Quindi abbiamo molto da festeggiare ed i partecipanti, i partner e gli speaker saranno accolti con il dovuto entusiasmo dai volontari dell’ITPUG, per festeggiare insieme il nr. 10!
+
+Ci vediamo il 13 ottobre a Milano, Fondazione Stelline.
