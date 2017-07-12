@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Partner, perché ..."
-date:   2017-07-12 15:00:00
+date:   2017-07-12 11:00:00
 isStaticPost: false
 permalink: /it/blog/call_for_partners
 lang: it
