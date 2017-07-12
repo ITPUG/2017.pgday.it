@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Partner, because ..."
-date:   2017-07-12 16:00:00
+date:   2017-07-12 15:00:00
 isStaticPost: false
 permalink: /en/blog/call_for_partners
 lang: en
