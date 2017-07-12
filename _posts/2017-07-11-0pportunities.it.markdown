@@ -24,3 +24,5 @@ Sarà riuscito il nostro eroe ad attirare l’attenzione dei 1.500 pythonisti pr
 Vedremo! Quello che è certo è che, grazie al posticipo della deadline della [Call for Paper del PGDay.IT](http://2017.pgday.it/it/blog/cfp_postponed), sono arrivate nuove proposte di talk da membri della Comunità Python presenti all’EuroPython. Corriamo forse il rischio di dover schedulare 3 track?
 
 E bravo il nostro Presidente!
+
+[Qui le slide del lightning talk: PostgreSQL needs you!](https://prezi.com/ou20z645n61j/postgresql-needs-you/)
