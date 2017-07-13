@@ -1,15 +1,15 @@
 -
   group: "Diamond Partners"
-#  elements:
-#    -
-#      name:
-#        it: "___________"
-#        en: "___________"
-#      description:
-#        it: "___________"
-#        en: "___________"
-#      link: "https://www.____________"
-#      imageUrl: "_________.svg"
+  elements:
+    -
+      name:
+        it: "2ndQuadrant"
+        en: "2ndQuadrant"
+      description:
+        it: "2ndQuadrant è stata fondato nel 2001 da Simon Riggs, major developer e committer del progetto PostgreSQL. Il team di esperti è in continua crescita ed è composto da alcuni dei più noti e attivi sviluppatori di PostgreSQL al mondo, con lo scopo di creare il più grande team di esperti PostgreSQL a livello globale. I membri di 2ndQuadrant contribuiscono attivamente allo sviluppo di PostgreSQL."
+        en: "2ndQuadrant was founded in 2001 by Simon Riggs, a major developer and committer of the PostgreSQL project. The team of experts has since continued to grow, bringing relevant industry expertise in a wide range of areas to form the largest single collective organization of PostgreSQL experts of any company globally. Comprised of some of the best known developers from around the globe, all members still actively contribute to the development of PostgreSQL."
+      link: "https://www.2ndquadrant.com/"
+      imageUrl: "2ndQ_logo_color-2.jpg"
 -
   group: "Platinum Partners"
   elements:
