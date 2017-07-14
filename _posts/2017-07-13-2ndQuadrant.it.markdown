@@ -12,13 +12,13 @@ redirect-from:
 
 <h5>2ndQuadrant: uno dei Partner storici del PGDay.It</h5>
 
-Siamo molto orgogliosi di annunciare che abbiamo il primo Partner del PGDay.IT: 2ndQuadrant
+Siamo molto orgogliosi di annunciare che abbiamo il primo Partner del PGDay.IT: [2ndQuadrant](https://www.2ndquadrant.com)
 
 Azienda storica, che da molti anni accompagna il PGDay.IT nel suo percorso di divulgazione di PostgreSQL.
 
 Grazie per essere ancora una volta con noi!
 
-Abbiamo chiesto a Umair Shaid, Head of Marketing and Products di 2ndQuadrant, perché ha ritenuto 
+Abbiamo chiesto a [Umair Shaid](https://www.linkedin.com/in/umair-shahid-9458b327/), Head of Marketing and Products di 2ndQuadrant, perché ha ritenuto 
 opportuno per 2ndQuadrant essere Partner del PGDay.It edizione 2017. Questo è ciò che ci ha detto:
 
 _"2ndQuadrant è sempre stato un forte sostenitore della comunità PostgreSQL in tutto il mondo._
@@ -30,7 +30,7 @@ _Ci aspettiamo grandi cose da ITPUG per il futuro e siamo felici di collaborare 
 
 **Chi è 2ndQuadrant**
 
-2ndQuadrant è stata fondato nel 2001 da Simon Riggs, major developer e committer del progetto PostgreSQL. 
+[2ndQuadrant](https://www.2ndquadrant.com/en/about/about-2ndquadrant/) è stata fondato nel 2001 da Simon Riggs, major developer e committer del progetto PostgreSQL. 
 
 Il team di esperti è in continua crescita ed è composto da alcuni dei più noti e attivi sviluppatori di PostgreSQL al mondo,
 con lo scopo di creare il più grande team di esperti PostgreSQL a livello globale.
