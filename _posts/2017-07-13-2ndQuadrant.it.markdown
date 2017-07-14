@@ -21,10 +21,10 @@ Grazie per essere ancora una volta con noi!
 Abbiamo chiesto a [Umair Shaid](https://www.linkedin.com/in/umair-shahid-9458b327/), Head of Marketing and Products di 2ndQuadrant, perché ha ritenuto 
 opportuno per 2ndQuadrant essere Partner del PGDay.It edizione 2017. Questo è ciò che ci ha detto:
 
-_"2ndQuadrant è sempre stato un forte sostenitore della comunità PostgreSQL in tutto il mondo._
+_"2ndQuadrant è sempre stata una forte sostenitrice della comunità PostgreSQL in tutto il mondo._
 
-_Mi sembra molto emozionante che l'ITPUG ha avuto l'idea di ospitare l'evento in una città diversa ogni anno, 
-dando l'opportunità di partecipare a molte persone._
+_Mi sembra molto interessante che l'ITPUG abbia programmato di portare l'evento in una città diversa ogni anno, 
+dando l'opportunità di partecipare a molte più persone._
 
 _Ci aspettiamo grandi cose da ITPUG per il futuro e siamo felici di collaborare con loro "._
 
