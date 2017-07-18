@@ -7,6 +7,9 @@ permalink: /en/blog/call-for-papers
 lang: en
 ref: cfp
 ---
+
+###### [New deadline](http://2017.pgday.it/en/blog/cfp_postponed): July 23th, 2017
+
 [PGDay.IT 2017](http://2017.pgday.it/en/) will be held on October 13th in Milan. If you want to be part of this event as a speaker ... please, knock and the door will be opened!
 
 ###### Who should apply as speaker for PGDay.IT 2017?
@@ -56,7 +59,7 @@ Our team has identified a number of interesting topics to talk about. If you hav
 
 ###### Please submit your proposal [here](https://goo.gl/forms/oT0q0UEXcedu1pbt1).
 
-__Deadline:__ July 9th, 2017.
+__Deadline:__ July 9th, 2017, [postponed to July 23th](http://2017.pgday.it/en/blog/cfp_postponed) 
 
 __Important:__ There is no guarantee that your proposal will be included in the event schedule.
 
