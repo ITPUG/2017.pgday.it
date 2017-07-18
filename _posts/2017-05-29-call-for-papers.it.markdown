@@ -10,6 +10,8 @@ redirect-from:
  - /blog/call-for-papers
 ---
 
+###### [Nuova deadline](http://2017.pgday.it/it/blog/cfp_postponed): 23 luglio 2017
+
 PGDay.IT 2017 si terrà il 13 ottobre a Milano. Se vuoi essere parte di questa fantastica manifestazione come speaker … bussa e ti sarà aperto.
 
 ###### Chi dovrebbe candidarsi come speaker al PGDay.IT 2017?
@@ -60,7 +62,7 @@ Il nostro team ha selezionato una serie di topic interessanti, ma se hai un’id
 
 ###### Per favore, inserisci la tua proposta [qui](https://goo.gl/forms/oT0q0UEXcedu1pbt1).
 
-__Deadline__ il 9 luglio 2017.
+__Deadline__ il 9 luglio 2017, [posticipata al 23 luglio](http://2017.pgday.it/it/blog/cfp_postponed).
 
 __Importante:__ Non c'è alcuna garanzia che la tua proposta verrà inserita nello schedule della manifestazione.<br/>
 
