@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "PostgreSQL 10!"
+date:   2017-07-20 10:00:00
+isStaticPost: false
+permalink: /en/blog/postgresql-10
+lang: en
+ref: postgresql-10
+---
+
+<h5>PostgreSQL 10 Beta Released!</h5>
+
+Most of you already know that PostgreSQL Global Development Group announced that the beta release of 
+PostgreSQL 10 is available for download (first on [2017-05-18](https://www.postgresql.org/about/news/1749/) 
+and the second on [2017-07-13](https://www.postgresql.org/about/news/1763/)). This release 
+contains previews of all of the features which will be available in the final release of version 10. 
+Users are encouraged to begin testing their applications against 10 beta2.
+
+For the few of you that did not read yet about it, we have done a little recap. 
+
+**What does ['Beta' release](https://www.postgresql.org/developer/beta/) mean?**
+
+PostgreSQL beta and release candidate releases are pre-release testing versions, not meant for production use. 
+They are feature-frozen, and we release these to the public for testing before our final release.
+
+The PostgreSQL Global Development Group strongly advises against using beta versions of PostgreSQL in production 
+installations or active development projects. While the PostgreSQL code is continuously subject to a number of 
+automated and manual tests, beta releases might have serious bugs. Features are subject to changes that are 
+backwards incompatible at any time during the development of the betas, and could possibly be removed altogether.
+
+Betas and release candidates are meant for everyone who uses PostgreSQL to test before the full release. 
+The process of testing these betas will help the community to identify and fix bugs prior to release. 
+They are especially useful for developers of platforms, drivers, tools, and utilities which depend upon PostgreSQL 
+in order to prepare for changes in the new version.
+
+The current test release is PostgreSQL 10 Beta 2.
+
+**Major Features of 10:**
+
+The new version contains multiple features that will allow users to both scale out and scale up their PostgreSQL 
+infrastructure:
+
+* Logical Replication: built-in option for replicating specific tables or using replication to upgrade
+* Native Table Partitioning: range and list partitioning as native database objects
+* Additional Query Parallelism: including index scans, bitmap scans, and merge joins
+* Quorum Commit for Synchronous Replication: ensure against loss of multiple nodes
+
+We have also made three improvements to PostgreSQL connections, which we are calling on driver authors to support, 
+and users to test:
+
+* SCRAM Authentication, for more secure password-based access
+* Multi-host "failover", connecting to the first available in a list of hosts
+* target_session_attrs parameter, so a client can request a read/write host
+
+**Additional Features**
+
+Many other new features and improvements have been added to PostgreSQL 10, some of which may be as important, or more important, to specific users than the above. Certainly all of them require testing. Among them are:
+
+* Crash-safe and replicable Hash Indexes
+* Multi-column Correlation Statistics
+* New "monitoring" roles for permission grants
+* Latch Wait times in pg_stat_activity
+* XMLTABLE query expression
+* Restrictive Policies for Row Level Security
+* Full Text Search support for JSON and JSONB
+* Compression support for pg_receivewal
+* ICU collation support
+* Push Down Aggregates to foreign servers
+* Transition Tables in trigger execution
+* Further, developers have contributed performance improvements in the SUM() function, character encoding conversion, expression evaluation, grouping sets, and joins against unique columns. Analytics queries against large numbers of rows should be up to 40% faster. Please test if these are faster for you and report back.
+
+See the [Release Notes](https://www.postgresql.org/docs/devel/static/release-10.html) for a complete list of new and changed features.
+
+**Links**
+
+* [Downloads Page](https://www.postgresql.org/download/)
+* [10 Beta Release Notes](https://www.postgresql.org/docs/devel/static/release-10.html)
+* [What's New in 10](https://wiki.postgresql.org/wiki/New_in_postgres_10)
+* [10 Open Items](https://wiki.postgresql.org/wiki/PostgreSQL_10_Open_Items)

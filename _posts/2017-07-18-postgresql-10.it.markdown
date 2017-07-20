@@ -1,0 +1,90 @@
+---
+layout: post
+title:  "PostgreSQL 10!"
+date:   2017-07-20 10:00:00
+isStaticPost: false
+permalink: /it/blog/postgresql-10
+lang: it
+ref: postgresql-10
+redirect-from:
+ - /blog/postgresql-10
+---
+
+<h5>PostgreSQL 10 Beta Release!</h5>
+
+La maggior parte di voi già sa che il PostgreSQL Global Development Group ha annunciato che la **versione beta di
+PostgreSQL 10** è disponibile per il download (la prima il [18/05/2017](https://www.postgresql.org/about/news/1749/) 
+e la seconda il [13/07/2017](https://www.postgresql.org/about/news/1763/)). Questa release
+contiene in anteprima tutte le funzionalità che saranno disponibili nel rilascio finale.
+Gli utenti sono incoraggiati a testare le loro applicazioni con la 10 beta2.
+
+Per coloro che non avessero ancora letto cosa prevede la 10, abbiamo fatto un piccolo recap.
+
+**Che cosa significa [release 'Beta'](https://www.postgresql.org/developer/beta/)?**
+
+Le versioni beta e le versioni "candidate" al rilascio di PostgreSQL, sono versioni di prova pre-release, 
+non destinate all'utilizzo della produzione.
+Si tratta di feature-frozen rilasciate pubblicamente per il solo scopo di essere testate prima della release finale.
+
+Il PostgreSQL Global Development Group **sconsiglia** fortemente di utilizzare le versioni beta di PostgreSQL in 
+installazioni già in produzione o in progetti di sviluppo attivi. 
+Mentre il codice PostgreSQL è continuamente sottoposto a un certo numero di test automatici e manuali, le versioni 
+beta potrebbero contenere gravi bug. Le feature sono soggette, in qualsiasi momento, a modifiche retroattive, incompatibili, 
+durante lo sviluppo delle beta e potrebbero essere addirittura rimosse del tutto.
+
+Le versioni beta e le versioni "candidate" al rilascio di PostgreSQL sono destinate a tutti coloro che usano PostgreSQL, 
+per testarle prima del rilascio finale.
+La fase di testing delle beta permetterà alla comunità di identificare e correggere i bug prima della release effettiva.
+Sono particolarmente utili per gli sviluppatori di platform, driver, tool ed utility che dipendono da PostgreSQL al fine 
+di prepararsi ai cambiamenti previsti nella nuova release.
+
+La versione corrente è PostgreSQL 10 Beta 2.
+
+**Le Major Feature della 10:**
+
+La nuova versione contiene molteplici funzionalità che consentiranno agli utenti di ridimensionare e scalare 
+l'infrastruttura di PostgreSQL:
+
+* Replica logica: opzione incorporata per replicare solo alcune tabelle o per utilizzare la replicazione per effettuare aggiornamenti di versione
+* Partizionamento nativo delle tabelle: supporto integrato al partizionamento per intervallo o elenchi
+* Migliorie nel parallelismo delle singole query: aggiunto supporto ad index scan, bitmap scan e merge join
+* Commit basato su quorum per la replica sincrona: assicura contro la perdita di nodi multipli
+
+Inoltre sono stati fatti tre miglioramenti alle connessioni PostgreSQL, 
+per i quali gli autori del driver sono invitati a supportarli e gli utenti a testarli:
+
+* Autenticazione SCRAM, per un accesso sicuro tramite password
+* Failover Multi-host, che permette di collegarsi al primo server disponibile in un elenco di host
+* Parametro target_session_attrs, che permette ad un client di richiedere un host di lettura / scrittura
+
+**Feature aggiuntive**
+
+Molte altre nuove funzionalità e miglioramenti sono stati aggiunti a PostgreSQL 10, alcuni dei quali possono 
+essere importanti o più importanti per utenti specifici rispetto a quanto segnalato precedentemente. 
+Certamente tutte richiedono di essere testate. Tra queste segnaliamo:
+
+* Indici Hash crash-safe e replicabili
+* Statistiche di correlazione multi-colonna
+* Nuovi ruoli di "monitoraggio" assegnabili tramite GRANT
+* Aggiunta dell'informazione sul comportamento dei Latch interni in pg_stat_activity
+* Supporto per query XMLTABLE
+* Politiche restrittive per la sicurezza di livello di riga
+* Supporto per la ricerca full-text per JSON e JSONB
+* Supporto per la compressione in pg_receivewal
+* Supporto opzionale per ICU come libreria di collation
+* Trasferimento (Push Down) degli Aggregati tramite FDW
+* Tabelle di transizione nell'esecuzione di trigger
+* Sono state inoltre introdotti miglioramenti nelle performance della funzione SUM(), della conversione tra codifiche 
+dei caratteri, della valutazione dell'espressioni, dei set di raggruppamenti e join di colonne univoche. Le operazioni
+OLAP su grandi moli di dati possono risultare essere fino al 40% più veloci rispetto al passato. Vi invitiamo a
+verificare che risultino più veloci anche a voi ed a riportarci i vostri feedback.
+
+Siete invitati a leggere le [Release Notes](https://www.postgresql.org/docs/devel/static/release-10.html) 
+per un elenco completo delle nuove funzionalità nuove e di quelle modificate.
+
+**Link utili**
+
+* [Pagina Download (EN)](https://www.postgresql.org/download/)
+* [Note di Rilascio della 10 Beta (EN)](https://www.postgresql.org/docs/devel/static/release-10.html)
+* [Cosa c'è di nuovo nella 10 (EN)](https://wiki.postgresql.org/wiki/New_in_postgres_10)
+* [10 Item aperti (EN)](https://wiki.postgresql.org/wiki/PostgreSQL_10_Open_Items)
