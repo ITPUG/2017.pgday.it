@@ -35,7 +35,7 @@ Are you and your company willing to miss this opportunity? More details are [ava
 
 In addition to all that, the 2017 edition is twice as important for the Italian community, with the number 10 marking two very important occasions:
 
-* Release of version 10 of PostgreSQL
+* Release 10 of PostgreSQL
 * ITPUG is celebrating its 10 year anniversary
 
 So we have a lot to celebrate and the participants, partners and speakers will be greeted with the enthusiasm of the ITPUG volunteers to celebrate 
