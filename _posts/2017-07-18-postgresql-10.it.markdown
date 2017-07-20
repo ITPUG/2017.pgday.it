@@ -35,7 +35,7 @@ durante lo sviluppo delle beta e potrebbero essere addirittura rimosse del tutto
 Le versioni beta e le versioni "candidate" al rilascio di PostgreSQL sono destinate a tutti coloro che usano PostgreSQL, 
 per testarle prima del rilascio finale.
 La fase di testing delle beta permetterà alla comunità di identificare e correggere i bug prima della release effettiva.
-Sono particolarmente utili per gli sviluppatori di platform, driver, tool ed utility che dipendono da PostgreSQL al fine 
+Sono particolarmente utili per gli sviluppatori di piattaforme, driver, tool ed utility che dipendono da PostgreSQL al fine 
 di prepararsi ai cambiamenti previsti nella nuova release.
 
 La versione corrente è PostgreSQL 10 Beta 2.
