@@ -143,9 +143,6 @@ rockstarSpeakersCount: 4
 rockstarSpeakersTitle:
     it: "Speaker"
     en: "Speakers"
-#rockstarSpeakersButtonText:
-    it: "Guarda tutti gli speaker"
-    en: "All Speakers here"
 
 # Location Block
 locationBlockTitle: "Location"
