@@ -143,7 +143,7 @@ rockstarSpeakersCount: 4
 rockstarSpeakersTitle:
     it: "Speaker"
     en: "Speakers"
-rockstarSpeakersButtonText:
+#rockstarSpeakersButtonText:
     it: "Guarda tutti gli speaker"
     en: "All Speakers here"
 
