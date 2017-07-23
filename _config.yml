@@ -16,8 +16,6 @@ exclude:
   # Temporary disabled pages
   - 'hackathon.it.html'
   - 'hackathon.en.html'
-  - 'schedule.it.html'
-  - 'schedule.en.html'
   - 'speakers.it.html'
   - 'speakers.en.html'
 
@@ -65,7 +63,7 @@ c4sponsorsUrl: "/assets/Diventa_Partner_IT_PGDay_2017.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
-# - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speaker"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistica", lang: "it"}
@@ -139,13 +137,12 @@ latestNewsTitle:
   it: "Notizie dell'ultima ora"
   en: "Latest News"
 
-# TODO: risulta vuota, può essere lasciata
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle:
-    it: "Rockstar speaker"
-    en: "Rockstar speaker"
+    it: "Speaker"
+    en: "Speakers"
 rockstarSpeakersButtonText:
     it: "Guarda tutti gli speaker"
     en: "All Speakers here"
