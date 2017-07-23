@@ -62,10 +62,8 @@ c4sponsorsUrl: "/assets/Diventa_Partner_IT_PGDay_2017.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speaker"}
- - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistica", lang: "it"}
  - {permalink: "/logistics/", text: "Logistics", lang: "en"}
  - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
@@ -74,6 +72,8 @@ navigationLinks:
  - {link: "/assets/Be_Partner_EN_PGDay_2017.pdf", text: "Become Partner", lang: "en"}
  - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Acquista il tuo biglietto", lang: "it"}
  - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Buy your ticket", lang: "en"}
+ - {permalink: "/team/", text: "Team"}
+ - {permalink: "/blog/", text: "Blog"}
 #bottomNavigationLinks:
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
