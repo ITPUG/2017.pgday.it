@@ -19,7 +19,7 @@ mezzanotte del 23 luglio 2017.
 Ringraziamo tutti coloro che hanno inviato la loro proposta di talk e sono davvero 
 tanti. 
 
-Giusto per dare qualche informazione in più, vi possiamo dire che le proposte pervenute sono state 38, sia in 
+Giusto per dare qualche informazione in più, vi possiamo dire che le proposte pervenute sono state 40, sia in 
 lingua italiana che in lingua inglese.
 
 Ovviamente tutti argomenti di forte interesse e con alto contenuto tecnico.
