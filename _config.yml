@@ -56,7 +56,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://goo.gl/forms/0JUVQUM0YPUt7UF53"
+#c4pUrl: "https://goo.gl/forms/0JUVQUM0YPUt7UF53"
 c4sponsorsUrl: "/assets/Diventa_Partner_IT_PGDay_2017.pdf"
 
 # Navigation
@@ -66,8 +66,8 @@ navigationLinks:
 # - {permalink: "/speakers/", text: "Speaker"}
  - {permalink: "/logistics/", text: "Logistica", lang: "it"}
  - {permalink: "/logistics/", text: "Logistics", lang: "en"}
- - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
- - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
+# - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
+# - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
  - {link: "/assets/Diventa_Partner_IT_PGDay_2017.pdf", text: "Diventa Partner", lang: "it"}
  - {link: "/assets/Be_Partner_EN_PGDay_2017.pdf", text: "Become Partner", lang: "en"}
  - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Acquista il tuo biglietto", lang: "it"}
@@ -100,8 +100,8 @@ typeoutFallback:
   it: "Milano, 13 ottobre 2017"
   en: "Milan, October 13th, 2017"
 heroButtons:
- - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
- - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
+# - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
+# - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
  - {link: "/assets/Diventa_Partner_IT_PGDay_2017.pdf", text: "Diventa Partner", lang: "it"}
  - {link: "/assets/Be_Partner_EN_PGDay_2017.pdf", text: "Become Partner", lang: "en"}
  - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Acquista il tuo biglietto", lang: "it"}
