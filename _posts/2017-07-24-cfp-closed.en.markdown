@@ -14,7 +14,7 @@ Call for Papers for [PGDay.IT 2017](http://2017.pgday.it/en/) losed at midnight 
 
 We thank all those who have submitted their talk proposals, there are so many.
 
-Just to give you some more information, we can say that we received 38 proposals, in Italian and in English languages.
+Just to give you some more information, we can say that we received 40 proposals, in Italian and in English languages.
 
 And all proposals are very interesting, with high technical contents.
 
