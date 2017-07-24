@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for Papers is closed!"
-date:   2017-07-24 00:10:00
+date:   2017-07-24 00:01:00
 isStaticPost: false
 permalink: /en/blog/cfp-closed
 lang: en
