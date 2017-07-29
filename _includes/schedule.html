@@ -37,10 +37,10 @@
                         {% if slot != 404 %}
                             {% for session in site.data.sessions %}
                                 {% if slot == session.id and session.service == null %}
-                                <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+                                <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title[page.lang] }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
                                     <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
                                     <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
-                                        <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
+                                        <h5 class="slot-title" itemprop="name">{{ session.title[page.lang] }}</h5>
                                         <span class="slot-language">{{session.language | upcase}}</span>
                                         <span class="slot-complexity">{{session.complexity | upcase}}</span>
                                         <ul class="slot-speakers">
@@ -62,9 +62,9 @@
                                 <div class="slot col-md-{{ slotColWidth }} col-xs-12 service-slot flexbox-item-height" data-slot-detail="{{ session.place }}">
                                     <div class="color-line"></div>
                                     <div class="slot-content">
-                                        <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
-                                        {% if session.description != null %}
-                                        <p class="service-description">{{ session.description }}</p>
+                                        <h5 class="slot-title" itemprop="name">{{ session.title[page.lang] }}</h5>
+                                        {% if session.description[page.lang] != null %}
+                                        <p class="service-description">{{ session.description[page.lang] }}</p>
                                         {% endif %}
                                     </div>
                                 </div>

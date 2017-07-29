@@ -1,41 +1,65 @@
 -
   id: 000
-  title: "Registration"
+  title:
+    en: "Registration"
+    it: "Registrazione"
   place: "Hall"
   service: true
-  description: ""
+  description:
+    en: ""
+    it: ""
 -
   id: 307
-  title: "Coffee break"
+  title:
+    en: "Coffee break"
+    it: "Coffee break"
   place: "Hall"
   service: true
-  description: "'"
+  description:
+    en: "'"
+    it: "'"
 -
   id: 503
-  title: "Lunch"
+  title:
+    en: "Lunch"
+    it: "Pranzo"
   place: "Hall"
   service: true
-  description: "'"
+  description:
+    en: "'"
+    it: "'"
 -
   id: 002
-  title: "Lightning talk"
+  title:
+    en: "Lightning talk"
+    it: "Lightning talk"
   service: true
-  description: ""
+  description:
+    en: ""
+    it: ""
   subtype: Lightning talk
   language: en - it
   video: ""
 -
   id: 005
-  title: "Recruiting session"
+  title:
+    en: "Recruiting session"
+    it: "Recruiting session"
   service: true
-  description: ""
+  description:
+    en: ""
+    it: ""
   subtype: Recruiting session
   language: en - it
   video: ""
 -
   id: 001
-  title: "Keynote"
-  description: ""
+  title:
+    en: "Keynote"
+    it: "Keynote"
+  description:
+    en: ""
+    it: ""
   subtype: Keynote
   speakers: [0]
   language: en
@@ -44,151 +68,211 @@
   video: ""
 -
   id: 003
-  title: ""
-  description: ""
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
   subtype: Talk
   speakers: [1]
   language: en - it
-  complexity: "" 
+  complexity: ""
   presentation: ""
   video: ""
 -
   id: 004
-  title: ""
-  description: ""
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
   subtype: Talk
   speakers: [2]
   language: en - it
-  complexity: "" 
+  complexity: ""
   presentation: ""
   video: ""
 -
   id: 010
-  title: ""
-  description: ""
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
   subtype: Talk
   speakers: [3]
   language: en - it
-  complexity: "" 
+  complexity: ""
   presentation: ""
   video: ""
 -
   id: 011
-  title: ""
-  description: ""
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
   subtype: Talk
   speakers: [6]
   language: en - it
-  complexity: "" 
+  complexity: ""
   presentation: ""
   video: ""
 -
   id: 012
-  title: ""
-  description: ""
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
   subtype: Talk
   speakers: [7]
   language: en - it
-  complexity: "" 
+  complexity: ""
   presentation: ""
   video: ""
 -
   id: 013
-  title: ""
-  description: ""
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
   subtype: Talk
   speakers: [8]
   language: en - it
-  complexity: "" 
+  complexity: ""
   presentation: ""
   video: ""
 -
   id: 014
-  title: ""
-  description: ""
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
   subtype: Talk
   speakers: [4, 5]
   language: en - it
-  complexity: "" 
+  complexity: ""
   presentation: ""
-  video: "" 
+  video: ""
 -
   id: 015
-  title: ""
-  description: ""
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
   subtype: Talk
   speakers: [9]
   language: en - it
-  complexity: "" 
+  complexity: ""
   presentation: ""
-  video: "" 
+  video: ""
 -
   id: 016
-  title: ""
-  description: ""
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
   subtype: Talk
   speakers: [10]
   language: en - it
-  complexity: "" 
+  complexity: ""
   presentation: ""
   video: ""
 -
   id: 017
-  title: ""
-  description: ""
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
   subtype: Talk
   speakers: [11]
   language: en - it
-  complexity: "" 
+  complexity: ""
   presentation: ""
   video: ""
 -
   id: 018
-  title: ""
-  description: ""
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
   subtype: Talk
   speakers: [12]
   language: en - it
-  complexity: "" 
+  complexity: ""
   presentation: ""
   video: ""
 -
   id: 019
-  title: ""
-  description: ""
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
   subtype: Talk
   speakers: [13]
   language: en - it
-  complexity: "" 
+  complexity: ""
   presentation: ""
   video: ""
 -
   id: 020
-  title: ""
-  description: ""
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
   subtype: Talk
   speakers: [14]
   language: en - it
-  complexity: "" 
+  complexity: ""
   presentation: ""
   video: ""
 -
   id: 021
-  title: ""
-  description: ""
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
   subtype: Talk
   speakers: [15]
   language: en - it
-  complexity: "" 
+  complexity: ""
   presentation: ""
   video: ""
 -
   id: 022
-  title: ""
-  description: ""
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
   subtype: Talk
   speakers: [16]
   language: en - it
-  complexity: "" 
+  complexity: ""
   presentation: ""
   video: ""
