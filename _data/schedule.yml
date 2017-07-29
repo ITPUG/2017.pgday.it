@@ -1,7 +1,9 @@
-- 
+-
   date: "2017-10-13"
-  dateReadable: "13 ottobre"
-  tracks: 
+  dateReadable:
+    it: "13 ottobre"
+    en: "October 13"
+  tracks:
     - {title: "Sala_1", color: "#90be4e"}
     - {title: "Sala_2", color: "#03a9f4"}
   timeslots:
