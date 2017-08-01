@@ -320,3 +320,17 @@
     - {name: "twitter", link: ""}
     - {name: "github", link: ""}
     - {name: "linkedin", link: ""}
+- 
+  id: 23
+  name: "Marco"
+  surname: "Nenciarini"
+  company: "ITPUG - ITalian PostgreSQL Users Group"
+  title: "Presidente"
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "linkedin", link: ""}
