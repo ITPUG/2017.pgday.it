@@ -276,3 +276,17 @@
   complexity: ""
   presentation: ""
   video: ""
+-
+  id: 090
+  title:
+    en: "Welcome"
+    it: "Benvenuti"
+  description:
+    en: ""
+    it: ""
+  subtype: Talk
+  speakers: [23]
+  language: en - it
+  complexity: ""
+  presentation: ""
+  video: ""
