@@ -16,8 +16,6 @@ exclude:
   # Temporary disabled pages
   - 'hackathon.it.html'
   - 'hackathon.en.html'
-  - 'speakers.it.html'
-  - 'speakers.en.html'
 
 # Site Settings
 title: "PGDay.IT 2017"
@@ -63,7 +61,7 @@ c4sponsorsUrl: "/assets/Diventa_Partner_IT_PGDay_2017.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
-# - {permalink: "/speakers/", text: "Speaker"}
+ - {permalink: "/speakers/", text: "Speaker"}
  - {permalink: "/logistics/", text: "Logistica", lang: "it"}
  - {permalink: "/logistics/", text: "Logistics", lang: "en"}
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
