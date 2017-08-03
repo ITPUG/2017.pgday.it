@@ -8,7 +8,7 @@ lang: en
 ref: cfp-technical-commission
 ---
 
-<H6> A big thanks to our Technical Commission: Thank you for your great work! </ H6>
+<H6> A big thanks to our Technical Commission: Thank you for your great work! </H6>
 
 
 It will seems silly to thank the [Technical Commission](http://2017.pgday.it/it/team/) of [PGDay.IT 2017](http://2017.pgday.it/en/) for the work done, but we are sure it's necessary because we are aware we gave them a very difficult task.
