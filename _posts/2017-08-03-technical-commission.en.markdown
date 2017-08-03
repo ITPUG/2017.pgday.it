@@ -13,7 +13,7 @@ ref: cfp-technical-commission
 It will seems silly to thank the [Technical Commission](http://2017.pgday.it/it/team/) of [PGDay.IT 2017](http://2017.pgday.it/en/) 
 for the work done, but we are sure it's necessary because we are aware we gave them a very difficult task.
 
-[As you know](http://2017.pgday.it/en/blog/cfp-closed), 41 talk proposals were sent for PGDay.IT 2017](http://2017.pgday.it/en/) and all have interesting technical content.
+[As you know](http://2017.pgday.it/en/blog/cfp-closed), 41 talk proposals were sent for [PGDay.IT 2017](http://2017.pgday.it/en/) and all have interesting technical content.
 
 As organisers, we have decided to offer the best to the participants of [PGDay.IT 2017](http://2017.pgday.it/en/), so we decided to sacrifice the Recruiting Session. It was a tough decision to make, but the talks received deserved this sacrifice.
 
