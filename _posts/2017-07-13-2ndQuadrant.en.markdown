@@ -2,7 +2,7 @@
 layout: post
 title:  "PGDay.It Partnership: 2ndQuadrant"
 date:   2017-07-13 09:00:00
-image:  2ndQ_logo_color.png
+image:  2ndQ_logo_color.jpg
 isStaticPost: false
 permalink: /en/blog/2ndquadrant
 lang: en
