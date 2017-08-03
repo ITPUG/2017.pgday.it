@@ -1,11 +1,11 @@
 - 
   id: 0
-  name: ""
+  name: "Keynote"
   surname: ""
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: ""}
