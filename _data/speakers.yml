@@ -330,7 +330,8 @@
   thumbnailUrl: marco-nenciarini.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
+    - {name: "google-plus", link: "https://plus.google.com/+MarcoNenciarini"}
+    - {name: "google-plus", link: "https://plus.google.com/100108801641983928567"}
+    - {name: "twitter", link: "https://twitter.com/mnencia"}
+    - {name: "github", link: "https://github.com/mnencia"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/mnencia"}
