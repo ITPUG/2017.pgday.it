@@ -5,7 +5,7 @@ date:   2017-08-03 08:00:00
 isStaticPost: false
 permalink: /en/blog/technical-commission
 lang: en
-ref: cfp-technical-commission
+ref: technical-commission
 ---
 
 <h6>A big thanks to our Technical Commission: Thank you for your great work!</h6>
