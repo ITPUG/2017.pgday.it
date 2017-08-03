@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Il lavoro della nostra Commissione Tecnica"
+title:  "Il fantastico lavoro della nostra Commissione Tecnica"
 date:   2017-08-03 08:00:00
 isStaticPost: false
 permalink: /it/blog/technical-commission
@@ -24,7 +24,7 @@ questo sacrificio.
 Il risultato ottenuto è che avremo 16 Speaker fantastici che presenteranno 8 talk in Italiano ed 8 talk in Inglese. 
 Non potevamo auspicarci niente di meglio!
 
-Ma chi ha visto o sta guardando lo schema dello schedule già on line, si starà domandando: ma il Keynote?
+Ma chi ha visto o sta guardando lo schema dello [Schedule](http://2017.pgday.it/it/schedule/) già on line, si starà domandando: ma il Keynote?
 
 Su questo spazio stiamo lavorando noi del comitato organizzativo e siamo certi che sarà una bella sorpresa!
 
