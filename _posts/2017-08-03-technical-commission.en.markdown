@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The great job of our Technical Commission"
-date:   2017-08-03 10:00:00
+date:   2017-08-03 08:00:00
 isStaticPost: false
 permalink: /en/blog/technical-commission
 lang: en
