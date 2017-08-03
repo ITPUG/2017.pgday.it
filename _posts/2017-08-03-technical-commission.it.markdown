@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Il lavoro della nostra Commissione Tecnica"
-date:   2017-08-03 10:00:00
+date:   2017-08-03 08:00:00
 isStaticPost: false
 permalink: /it/blog/technical-commission
 lang: it
