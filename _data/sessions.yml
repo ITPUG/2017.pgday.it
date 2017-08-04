@@ -292,8 +292,34 @@
   video: ""
 -
   id: 033
-  title: "Parallel queries with PostgreSQL"
-  description: "This talk is an overview on Parallel Queries, introduced in the latest release of PostgreSQL. This feature is still being developed, and new capabilities will be added in the next releases. Nevertheless, the current implementation is already rather useful, and we will show realistic examples running on PostgreSQL 10 (which will probably be already released by the time of PGDay). We will also describe the architecture of Parallel Queries, the new node types introduced, and how parallel aggregates work. This will lead to a discussion on which kinds of queries can benefit more from this feature."
+  title: 
+    it: "Parallel queries with PostgreSQL"
+    en: "Parallel queries with PostgreSQL"
+  description: 
+    it: "This talk is an overview on Parallel Queries, introduced in the latest
+release of PostgreSQL.
+
+This feature is still being developed, and new capabilities will be
+added in the next releases. Nevertheless, the current implementation
+is already rather useful, and we will show realistic examples running
+on PostgreSQL 10 (which will probably be already released by the time of PGDay).
+
+We will also describe the architecture of Parallel Queries, the new
+node types introduced, and how parallel aggregates work. This will
+lead to a discussion on which kinds of queries can benefit more from
+this feature."
+    en: "This talk is an overview on Parallel Queries, introduced in the latest
+release of PostgreSQL.
+
+This feature is still being developed, and new capabilities will be
+added in the next releases. Nevertheless, the current implementation
+is already rather useful, and we will show realistic examples running
+on PostgreSQL 10 (which will probably be already released by the time of PGDay).
+
+We will also describe the architecture of Parallel Queries, the new
+node types introduced, and how parallel aggregates work. This will
+lead to a discussion on which kinds of queries can benefit more from
+this feature."
   subtype: Talk
   speakers: [1]
   language: en
@@ -302,8 +328,16 @@
   #video: "//www.youtube.com/________________"
 -
   id: 034
-  title: "(Re)writing SQL queries to be fast"
-  description: "SQL is a declarative language. Just write down what you want and the RDBMS will figure out how to return a correct result in the 
+  title: 
+    it: "(Re)writing SQL queries to be fast"
+    en: "(Re)writing SQL queries to be fast"
+  description: 
+    it: "SQL is a declarative language. Just write down what you want and the RDBMS will figure out how to return a correct result in the 
+  fastest way. Well, not always. Sometimes it will need your help. Even with a perfectly indexed database and up-to-date statistics the optimizer 
+  can fail to figure out the best plan in some cases. Sometimes to get the best performance SQL must be rewritten more for the optimizer than humans. 
+  In this talk I will show the general problem and approaches to its solution through the illustration of a real world use case from an ERP 
+  implementation. In this case a 150 times improvement has been obtained just by rephrasing the statement."
+    en: "SQL is a declarative language. Just write down what you want and the RDBMS will figure out how to return a correct result in the 
   fastest way. Well, not always. Sometimes it will need your help. Even with a perfectly indexed database and up-to-date statistics the optimizer 
   can fail to figure out the best plan in some cases. Sometimes to get the best performance SQL must be rewritten more for the optimizer than humans. 
   In this talk I will show the general problem and approaches to its solution through the illustration of a real world use case from an ERP 
