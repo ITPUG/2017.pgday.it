@@ -290,3 +290,24 @@
   complexity: ""
   presentation: ""
   video: ""
+-
+  id: 033
+  title: "Parallel queries with PostgreSQL"
+  description: "This talk is an overview on Parallel Queries, introduced in the latest
+release of PostgreSQL.
+
+This feature is still being developed, and new capabilities will be
+added in the next releases. Nevertheless, the current implementation
+is already rather useful, and we will show realistic examples running
+on PostgreSQL 10 (which will probably be already released by the time of PGDay).
+
+We will also describe the architecture of Parallel Queries, the new
+node types introduced, and how parallel aggregates work. This will
+lead to a discussion on which kinds of queries can benefit more from
+this feature."
+  subtype: Talk
+  speakers: [21]
+  language: en - it
+  complexity: "Intermediate" 
+  #presentation: "https://____________________"
+  #video: "//www.youtube.com/________________"
