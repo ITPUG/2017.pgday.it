@@ -306,7 +306,7 @@ node types introduced, and how parallel aggregates work. This will
 lead to a discussion on which kinds of queries can benefit more from
 this feature."
   subtype: Talk
-  speakers: [21]
+  speakers: [1]
   language: en - it
   complexity: "Intermediate" 
   #presentation: "https://____________________"
