@@ -142,8 +142,8 @@ rockstarSpeakersTitle:
     it: "Speaker"
     en: "Speakers"
 rockstarSpeakersButtonText:
-  - {link: "http://2017.pgday.it/it/speakers/", text: "Guarda tutti gli speaker", lang: "it"}
-  - {link: "http://2017.pgday.it/en/speakers/", text: "All Speakers here", lang: "en"}
+  it: "Guarda tutti gli speaker"
+  en: "All Speakers here"
 
 # Location Block
 locationBlockTitle: "Location"
