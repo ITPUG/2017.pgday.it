@@ -311,3 +311,17 @@ this feature."
   complexity: "Intermediate" 
   #presentation: "https://____________________"
   #video: "//www.youtube.com/________________"
+-
+  id: 034
+  title: "(Re)writing SQL queries to be fast"
+  description: "SQL is a declarative language. Just write down what you want and the RDBMS will figure out how to return a correct result in the 
+  fastest way. Well, not always. Sometimes it will need your help. Even with a perfectly indexed database and up-to-date statistics the optimizer 
+  can fail to figure out the best plan in some cases. Sometimes to get the best performance SQL must be rewritten more for the optimizer than humans. 
+  In this talk I will show the general problem and approaches to its solution through the illustration of a real world use case from an ERP 
+  implementation. In this case a 150 times improvement has been obtained just by rephrasing the statement."
+  subtype: Talk
+  speakers: [2]
+  language: en - it
+  complexity: "Intermediate" 
+  #presentation: "https://____________________"
+  #video: "//www.youtube.com/________________"
