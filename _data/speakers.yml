@@ -14,18 +14,21 @@
     - {name: "linkedin", link: ""}
 - 
   id: 1
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  name: "Gianni"
+  surname: "Ciolli"
+  company: "2ndQuadrant"
+  title: "Head of Professional Services"
+  bio: "Gianni Ciolli is Head of Professional Services at 2ndQuadrant, and is a PostgreSQL consultant, trainer, and speaker at various IT conferences 
+  worldwide, including the European PostgreSQL conferences and PGDay Italy and UK.
+He started working with Free and Open Source Software 20 years ago, and has been active in the community (Prato Linux User Group, Italian PostgreSQL 
+Users Group).
+Previously he worked as a researcher and teacher at the Department of
+Mathematics of the University of Florence. He is an author of the last two editions of the PostgreSQL Administration Cookbook, from Packt Publishing 
+(Birmingham, 2015-16)."
+  thumbnailUrl: gianni_ciolli.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
+    - {name: "twitter", link: "https://twitter.com/GianniCiolli"}
 - 
   id: 2
   name: ""
@@ -294,23 +297,18 @@
     - {name: "linkedin", link: ""}
 - 
   id: 21
-  name: "Gianni"
-  surname: "Ciolli"
-  company: "2ndQuadrant"
-  title: "Head of Professional Services"
-  bio: "Gianni Ciolli is Head of Professional Services at 2ndQuadrant, and is a PostgreSQL consultant, trainer, and speaker at various IT conferences 
-  worldwide, including the European PostgreSQL conferences and PGDay Italy and UK.
-
-He started working with Free and Open Source Software 20 years ago, and has been active in the community (Prato Linux User Group, Italian PostgreSQL 
-Users Group).
-
-Previously he worked as a researcher and teacher at the Department of
-Mathematics of the University of Florence. He is an author of the last two editions of the PostgreSQL Administration Cookbook, from Packt Publishing 
-(Birmingham, 2015-16)."
-  thumbnailUrl: gianni_ciolli.jpg
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/GianniCiolli"}
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "linkedin", link: ""}
 - 
   id: 22
   name: ""
