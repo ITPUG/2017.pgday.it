@@ -313,7 +313,7 @@ this feature."
   #video: "//www.youtube.com/________________"
 -
   id: 034
-  title: "(Re)writing SQL queries to be fast"
+  title: "Re-writing SQL queries to be fast"
   description: "SQL is a declarative language. Just write down what you want and the RDBMS will figure out how to return a correct result in the 
   fastest way. Well, not always. Sometimes it will need your help. Even with a perfectly indexed database and up-to-date statistics the optimizer 
   can fail to figure out the best plan in some cases. Sometimes to get the best performance SQL must be rewritten more for the optimizer than humans. 
