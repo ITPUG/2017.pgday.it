@@ -3,6 +3,9 @@
   dateReadable:
     it: "13 ottobre"
     en: "October 13"
+  message:
+    it: "Il programma non è ancora definitivo e potrebbe subire variazioni"
+    en: "The schedule is not yet definitive, there may be some variations"
   tracks:
     - {title: "Sala_1", color: "#90be4e"}
     - {title: "Sala_2", color: "#03a9f4"}
@@ -51,7 +54,7 @@
         startTime: "13:30",
     	endTime: "14:15",
         sessionIds: [021, 010]
-    }        
+    }
     - {
     	startTime: "14:15",
     	endTime: "15:00",
@@ -82,4 +85,3 @@
     	endTime: "18:15",
         sessionIds: [002]
     }
-
