@@ -31,18 +31,17 @@ Mathematics of the University of Florence. He is an author of the last two editi
     - {name: "twitter", link: "https://twitter.com/GianniCiolli"}
 - 
   id: 2
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  name: "Luca"
+  surname: "Veronese"
+  company: "Lapsy srl"
+  title: "Socio e responsabile Cloud API"
+  bio: "Mi occupo di database, strumenti di sviluppo ed architetture software da oltre 30 anni. Ho lavorato nella ricerca e sviluppo di aziende come Infocamere Scpa e ho fondato alcune startup in Italia tra le quali recentemente Lapsy srl che si occupa di IoT. Ho diverse certificazioni, recentemente in Machine Learning e amo essere competente e imparare nuove tecnologie. Nel (poco) tempo libero suono la chitarra elettrica e gioco con mia figlia."
+  thumbnailUrl: luca_veronese.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
+    - {name: "google-plus", link: "http://google.com/+LucaVeronese"}
+    - {name: "twitter", link: "https://twitter.com/lveronese65"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luca-veronese-b39b2115"}
 - 
   id: 3
   name: ""
