@@ -39,7 +39,7 @@
     it: ""
   subtype: Lightning talk
   language: en - it
-  video: ""
+  #video: ""
 -
   id: 005
   title:
@@ -51,7 +51,7 @@
     it: ""
   subtype: Recruiting session
   language: en - it
-  video: ""
+  #video: ""
 -
   id: 001
   title:
@@ -64,8 +64,8 @@
   speakers: [0]
   language: en
   complexity: ""
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 003
   title:
@@ -78,8 +78,8 @@
   speakers: [23]
   language: en - it
   complexity: ""
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 004
   title:
@@ -92,8 +92,8 @@
   speakers: [23]
   language: en - it
   complexity: ""
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 010
   title:
@@ -106,8 +106,8 @@
   speakers: [3]
   language: en - it
   complexity: ""
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 011
   title:
@@ -120,8 +120,8 @@
   speakers: [6]
   language: en - it
   complexity: ""
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 012
   title:
@@ -134,8 +134,8 @@
   speakers: [7]
   language: en - it
   complexity: ""
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 013
   title:
@@ -148,8 +148,8 @@
   speakers: [8]
   language: en - it
   complexity: ""
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 014
   title:
@@ -162,8 +162,8 @@
   speakers: [4, 5]
   language: en - it
   complexity: ""
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 015
   title:
@@ -176,8 +176,8 @@
   speakers: [9]
   language: en - it
   complexity: ""
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 016
   title:
@@ -190,8 +190,8 @@
   speakers: [10]
   language: en - it
   complexity: ""
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 017
   title:
@@ -204,8 +204,8 @@
   speakers: [11]
   language: en - it
   complexity: ""
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 018
   title:
@@ -218,8 +218,8 @@
   speakers: [12]
   language: en - it
   complexity: ""
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 019
   title:
@@ -232,8 +232,8 @@
   speakers: [13]
   language: en - it
   complexity: ""
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 020
   title:
@@ -246,8 +246,8 @@
   speakers: [14]
   language: en - it
   complexity: ""
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 021
   title:
@@ -260,8 +260,8 @@
   speakers: [15]
   language: en - it
   complexity: ""
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 022
   title:
@@ -274,8 +274,8 @@
   speakers: [16]
   language: en - it
   complexity: ""
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 090
   title:
@@ -288,8 +288,8 @@
   speakers: [23]
   language: en - it
   complexity: ""
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 033
   title: 
