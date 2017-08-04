@@ -307,7 +307,7 @@ lead to a discussion on which kinds of queries can benefit more from
 this feature."
   subtype: Talk
   speakers: [1]
-  language: en - it
+  language: en
   complexity: "Intermediate" 
   #presentation: "https://____________________"
   #video: "//www.youtube.com/________________"
@@ -321,7 +321,7 @@ this feature."
   implementation. In this case a 150 times improvement has been obtained just by rephrasing the statement."
   subtype: Talk
   speakers: [2]
-  language: en - it
+  language: en
   complexity: "Intermediate" 
   #presentation: "https://____________________"
   #video: "//www.youtube.com/________________"
