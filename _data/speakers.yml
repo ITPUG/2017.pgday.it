@@ -1,4 +1,4 @@
-- 
+-
   id: 0
   name: "Keynote"
   surname: ""
@@ -7,29 +7,31 @@
   bio: ""
   thumbnailUrl: anonimo.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
     - {name: "github", link: ""}
     - {name: "linkedin", link: ""}
-- 
+-
   id: 1
   name: "Gianni"
   surname: "Ciolli"
   company: "2ndQuadrant"
   title: "Head of Professional Services"
-  bio: "Gianni Ciolli is Head of Professional Services at 2ndQuadrant, and is a PostgreSQL consultant, trainer, and speaker at various IT conferences 
+  bio: "Gianni Ciolli is Head of Professional Services at 2ndQuadrant, and is a PostgreSQL consultant, trainer, and speaker at various IT conferences
   worldwide, including the European PostgreSQL conferences and PGDay Italy and UK.
-He started working with Free and Open Source Software 20 years ago, and has been active in the community (Prato Linux User Group, Italian PostgreSQL 
+
+He started working with Free and Open Source Software 20 years ago, and has been active in the community (Prato Linux User Group, Italian PostgreSQL
 Users Group).
+
 Previously he worked as a researcher and teacher at the Department of
-Mathematics of the University of Florence. He is an author of the last two editions of the PostgreSQL Administration Cookbook, from Packt Publishing 
+Mathematics of the University of Florence. He is an author of the last two editions of the PostgreSQL Administration Cookbook, from Packt Publishing
 (Birmingham, 2015-16)."
   thumbnailUrl: gianni_ciolli.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/GianniCiolli"}
-- 
+-
   id: 2
   name: "Luca"
   surname: "Veronese"
@@ -38,300 +40,252 @@ Mathematics of the University of Florence. He is an author of the last two editi
   bio: "Mi occupo di database, strumenti di sviluppo ed architetture software da oltre 30 anni. Ho lavorato nella ricerca e sviluppo di aziende come Infocamere Scpa e ho fondato alcune startup in Italia tra le quali recentemente Lapsy srl che si occupa di IoT. Ho diverse certificazioni, recentemente in Machine Learning e amo essere competente e imparare nuove tecnologie. Nel (poco) tempo libero suono la chitarra elettrica e gioco con mia figlia."
   thumbnailUrl: luca_veronese.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "google-plus", link: "http://google.com/+LucaVeronese"}
     - {name: "twitter", link: "https://twitter.com/lveronese65"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/luca-veronese-b39b2115"}
-- 
+-
   id: 3
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  name: "Mladen"
+  surname: "Marinović"
+  company: "Praćenje vozila d.o.o. aka Smartivo"
+  title: "CTO"
+  bio: "Working as the CTO of Smartivo on fleet management solutions. I have several years of experience running PostgreSQL in production
+  for various clients, private and consultancy projects. I am also a part time PostgreSQL admin, and I do some Python and Go development
+  for fun and/or profit."
+  thumbnailUrl: mladen_marinovic.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
-- 
+  social:
+    - {name: "twitter", link: "https://twitter.com/mladenmarinovic"}
+-
   id: 4
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  name: "Giuseppe"
+  surname: "Broccolo"
+  company: "Viralize"
+  title: "Data Engineer"
+  bio: "Giuseppe started his computer technician career as C/C++ developer in Linux/Unix systems, he applied them to computing & Montecarlo
+  simulations in particle physics for many years in his research activity. During this time, he discovered his interest in machine learning
+  techniques used for particle identification grew, and had first approaches with data analysis.
+
+In addition to research, he enhanced his computer skills working on GIS application development for GPS tracking and LiDAR surveying, commencing
+work with databases, in particular PostgreSQL and its spatial extension, PostGIS. After this experience, he started to work exclusively as data
+engineer (both data administration and mining) principally based on PostgreSQL.
+
+Giuseppe holds a PhD in Physics and won a fellowship at “Scuola Normale Superiore” in Pisa, Tuscany. He worked with CERN in Geneva during his
+research activities.
+
+Currently, he lives in Prato and away from his desktop, he loves to lift weights and race with his superbike."
+  thumbnailUrl: giuseppe_broccolo.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
-- 
+  social:
+    - {name: "twitter", link: "https://twitter.com/giubro"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gbroccolo7"}
+-
   id: 5
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  name: "Gabriele"
+  surname: "Bartolini"
+  company: "2ndQuadrant"
+  title: "Head of Global Support at 2ndQuadrant"
+  bio: "A long time open-source programmer and entrepreneur, Gabriele has a degree in Statistics from the University of Florence.
+
+Gabriele is the Head of Global Support at 2ndQuadrant and managing director of the Italian office as well as an active member of the
+international PostgreSQL community and local ITPUG. His commitment is to consistently contribute to the growth of 2ndQuadrant and it’s
+members through nurturing a lean and devops culture.
+
+Gabriele lives in Prato, a small but vibrant city located in the northern part of Tuscany, Italy. His second home is Melbourne, Australia,
+where he studied at Monash University and worked in the ICT sector.
+
+His hobbies include “calcio” (football or soccer, depending on which part of the world you come from) and playing his Fender Stratocaster
+electric guitar. But his major passion is called: Elisabeth - his sweet 1-year old daughter!"
+  thumbnailUrl: gabriele_bartolini.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
-- 
+  social:
+    - {name: "twitter", link: "https://twitter.com/_GBartolini_"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gbartolini/"}
+-
   id: 6
-  name: ""
-  surname: ""
-  company: ""
+  name: "Paolo"
+  surname: "Melchiorre"
+  company: "20tab"
   title: ""
-  bio: ""
-  thumbnailUrl: 
+  bio: "Remote worker. Python developer. Web Programmer. Free Software contributor. GNU/Linux user."
+  thumbnailUrl: paolo_melchiorre.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
-- 
+  social:
+    - {name: "twitter", link: "https://twitter.com/pauloxnet/"}
+    - {name: "github", link: "https://github.com/pauloxnet/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/paolomelchiorre/"}
+-
   id: 7
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  name: "Denis"
+  surname: "Gasparin"
+  company: "Smart Solutions"
+  title: "Owner"
+  bio: "Ingegnere Informatico dal 2001 con vasta esperienza su PostgreSQL sia lato sistemistico che di programmazione e lo sviluppo web
+  (PHP e Javascript in particolare).
+Appassionato del mondo opensource, ha contribuito negli anni a sviluppare alcune parti del driver PHP/PDO per PostgreSQL ed avviato il
+progetto PgRepUp per la replica ed upgrade di PostgreSQL usando PgLogical."
+  thumbnailUrl: denis_gasparin.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
-- 
+  social:
+    - {name: "twitter", link: "https://twitter.com/rtshome"}
+    - {name: "github", link: "https://github.com/rtshome"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/denis-gasparin-19395817/"}
+-
   id: 8
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  name: "Simon"
+  surname: "Riggs"
+  company: "2ndQuadrant"
+  title: "Founder and CTO"
+  bio: "Simon Riggs is the Founder and Chief Technology Officer of 2ndQuadrant. He is also a major developer and committer of the PostgreSQL project.
+  Simon has contributed major features in each of the last 6 versions of PostgreSQL.His work includes recovery and replication performance and
+  monitoring as well as designs for many other features. Simon has worked as a Database Architect for 20 years with high-end solutions experience
+  and certifications on Oracle Teradata and DB2."
+  thumbnailUrl: simon_riggs.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
-- 
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/________________________"}
+    - {name: "twitter", link: "https://twitter.com/_______________"}
+    - {name: "github", link: "https://github.com/_____________________"}
+    - {name: "linkedin", link: "https://_______________"}
+-
   id: 9
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  name: "Wolfram"
+  surname: "Hempel"
+  company: "DeepstreamHub"
+  title: "CEO"
+  bio: "From AAA-gaming at multiplayer giant Crytek to the plumbing that connects the world’s exchanges and market makers; Wolfram's list of jobs and titles is long enough to get boring, so to name a few: Vice President of trading technology at JP Morgan London, Tech Lead at Caplin systems or FX trading consultant for HSBC. He worked on low latency realtime in the United States, South Africa, Denmark, Germany, Switzerland, Australia and more. He also once was a soldier and holds degrees in art history and archaeology, but that’s a story for another time."
+  thumbnailUrl: wolfram_hempel.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
-- 
-  id: 10
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
-- 
-  id: 11
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
-- 
-  id: 12
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
-- 
-  id: 13
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
-- 
-  id: 14
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
-- 
-  id: 15
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
-- 
-  id: 16
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
-- 
-  id: 17
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
-- 
+  social:
+    - {name: "twitter", link: "https://twitter.com/wolframhempel"}
+    - {name: "github", link: "https://github.com/wolframhempel"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/wolframhempel/?ppe=1"}
+-
   id: 18
-  name: ""
-  surname: ""
-  company: ""
+  name: "Leonardo"
+  surname: "Cecchi"
+  company: "2ndQuadrant"
+  title: "PostgreSQL Consultant"
+  bio: "In poche parole posso dire che io e l'informatica siamo cresciuti insieme. La programmazione è sempre stata la mia fissazione.
+  Una passione che iniziò all'età di 6 anni stando a fianco di mio padre, programmatore, che mi ha insegnato i rudimenti della programmazione in C.
+  In prima elementare sapevo scrivere sulla tastiera ma non su carta! Sono sempre stato curioso e ancora non mi sono saziato di imparare nuove
+  tecnologie e nuovi ambienti di programmazione. Tra questi: Python, Java, Go, C, Haskell. Oggi faccio parte del team di 2ndQuadrant Italia perché
+  mi dà la possibilità di lavorare su PostgreSQL, il DBMS che affronta problemi innovativi con un linguaggio 'classico'."
+  thumbnailUrl: leonardo_cecchi.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/leonardo_cecchi/"}
+    - {name: "github", link: "https://github.com/leonardoce/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/leonardo-cecchi-54b0a396/"}
+-
+  id: 11
+  name: "Lucio"
+  surname: "Grenzi"
+  company: "Freelance"
+  title: "Freelance"
+  bio: "Currently working as software developer and consultant,
+mostly as Front-end Developer, during the the years I had the opportunity to build software across all layers, from frontend, to the backend and database systems"
+  thumbnailUrl: lucio_grenzi.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://it.linkedin.com/pub/lucio-grenzi/27/2bb/2a"}
+-
+  id: 12
+  name: "Jonathan"
+  surname: "Battiato"
+  company: "2ndQuadrant"
+  title: ""
+  bio: "Linux User dal 2007, quando ha scoperto il Prato Linux User Group.
+Si scopre SysAdmin per passione e nel 2016 entra in 2ndQuadrant.
+Consegue il diploma di Linux System Administrator di RHEL nell'agosto 2016."
+  thumbnailUrl: jonathan_battiato.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/Jonny_Lee_84"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jonathanbattiato/"}
+-
+  id: 13
+  name: "Giulio"
+  surname: "Calacoci"
+  company: "2ndQuadrant"
+  title: "Developer"
+  bio: "Appassionato fin da piccolo di tecnologia e curioso per natura, si affaccia sul mondo dell'informatica da autodidatta, ma la sua carriera di programmatore subisce una svolta quando finito il liceo si iscrive alla facoltà di informatica presso l'università di Firenze.
+
+Entra così in contatto con Linux e con il mondo dell'Open Source. Con il progredire degli studi incrementa la conoscenza della programmazione, cominciando a studiare i primi framework web scritti in Java e scegliendo, quando possibile, PostgreSQL come database.
+
+Entra nel mondo del lavoro prima di aver terminato gli studi, inizialmente come web designer/programmatore PHP, e in seguito come sviluppatore Java sia Frontend che Backend.
+
+Inizia a lavorare per 2ndQuadrant italia sviluppando in Python applicazioni a supporto di PostgreSQL."
+  thumbnailUrl: giulio-calacoci.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/asdmaster"}
+    - {name: "github", link: "https://github.com/gcalacoci"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gcalacoci/"}
+-
+  id: 14
+  name: "Francesco"
+  surname: "Canovai"
+  company: "2ndQuadrant"
   title: ""
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: francesco_canovai.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/"}
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "github", link: "https://github.com/"}
     - {name: "linkedin", link: ""}
-- 
-  id: 19
-  name: ""
-  surname: ""
-  company: ""
+-
+  id: 15
+  name: "Alessandro"
+  surname: "Grassi"
+  company: "2ndQuadrant"
+  title: "SRE presso 2ndQuadrant"
+  bio: "Alessandro e' un appassionato di informatica, con un forte amore per l'automazione e la sicurezza.
+Si e' occupato finora di amministrazione di sistemi, sviluppando un fanatismo per gli strumenti di IaC.
+Da pochi mesi lavora in 2ndQuadrant come SRE e ingegnere di supporto."
+  thumbnailUrl: alessandro_grassi.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/xstasi"}
+-
+  id: 16
+  name: "Silvano"
+  surname: "Coriani"
+  company: "Microsoft"
+  title: "Principal PM"
+  bio: "Silvano works as Principal Program Manager in Azure Engineering at Microsoft Corporation. He has 20+ years experience on distributed solutions and relational database systems, including building global scale data services."
+  thumbnailUrl: silvano_coriani.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/scoriani"}
+-
+  id: 17
+  name: "Erik"
+  surname: "Tiengo"
+  company: "GisUp"
   title: ""
-  bio: ""
-  thumbnailUrl: 
+  bio: "Graduated in environmental and land-based engineering (University of Pavia in the beautiful seat of Mantua) for the Italian state
+  and engineer for the rest of Europe thanks to the Master of Science in Environmental Engineering at the University of Pavia Aalborg (DK)
+  during the period 1999-2002.
+Honestly, I prefer to call myself a happy and enthusiastic GIS Developer. GIS knowledge and passion for computer science dates to the Master's
+Degree in Denmark. Since 2003 I am a freelancer."
+  thumbnailUrl: erik_tiengo.JPG
   rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
-- 
-  id: 20
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
-- 
-  id: 21
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
-- 
-  id: 22
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
-- 
-  id: 23
+  social:
+    - {name: "linkedin", link: "https://it.linkedin.com/in/erik-tiengo-7849582b"}
+-
+  id: 30
   name: "Marco"
   surname: "Nenciarini"
-  company: "ITPUG - ITalian PostgreSQL Users Group"
-  title: "Presidente"
+  company: "Presidente ITPUG"
+  title: "PostgreSQL Consultant"
   bio: ""
   thumbnailUrl: marco-nenciarini.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+MarcoNenciarini"}
     - {name: "google-plus", link: "https://plus.google.com/100108801641983928567"}
     - {name: "twitter", link: "https://twitter.com/mnencia"}
