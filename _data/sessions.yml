@@ -1,65 +1,41 @@
 -
   id: 000
-  title:
-    en: "Registration"
-    it: "Registrazione"
+  title: "Registrazione partecipanti"
   place: "Hall"
   service: true
-  description:
-    en: ""
-    it: ""
+  description: "Corridoio 'Chiosco della Magnolia': i partecipanti sono invitati ad avere a portata di mano il biglietto in modo da accelerare la procedura di registrazione"
 -
   id: 307
-  title:
-    en: "Coffee break"
-    it: "Coffee break"
+  title: "Coffee break"
   place: "Hall"
   service: true
-  description:
-    en: "'"
-    it: "'"
+  description: "Corridoio 'Chiosco della Magnolia'"
 -
   id: 503
-  title:
-    en: "Lunch"
-    it: "Pranzo"
+  title: "Lunch"
   place: "Hall"
   service: true
-  description:
-    en: "'"
-    it: "'"
+  description: "Corridoio 'Chiosco della Magnolia'"
 -
   id: 002
-  title:
-    en: "Lightning talk"
-    it: "Lightning talk"
+  title: "Lightning talk"
   service: true
-  description:
-    en: ""
-    it: ""
+  description: "Sessione libera: 5 minuti a disposizione di tutti i partecipanti. Per iscriversi, basterà segnalare il proprio Nome, Cognome e Titolo dello speach sulla board presente accanto al desk ITPUG"
   subtype: Lightning talk
   language: en - it
   #video: ""
 -
   id: 005
-  title:
-    en: "Recruiting session"
-    it: "Recruiting session"
+  title: "Recruiting session"
   service: true
-  description:
-    en: ""
-    it: ""
+  description: "Sessione a disposizione di Aziende che sono alla ricerca di personale specializzato per ampliare il proprio team."
   subtype: Recruiting session
   language: en - it
   #video: ""
 -
   id: 001
-  title:
-    en: "Keynote"
-    it: "Keynote"
-  description:
-    en: ""
-    it: ""
+  title: "Keynote"
+  description: ""
   subtype: Keynote
   speakers: [0]
   language: en
@@ -67,265 +43,161 @@
   #presentation: ""
   #video: ""
 -
-  id: 003
-  title:
-    en: ""
-    it: ""
-  description:
-    en: ""
-    it: ""
-  subtype: Talk
-  speakers: [23]
-  language: en - it
-  complexity: ""
-  #presentation: ""
-  #video: ""
--
-  id: 004
-  title:
-    en: ""
-    it: ""
-  description:
-    en: ""
-    it: ""
-  subtype: Talk
-  speakers: [23]
-  language: en - it
-  complexity: ""
-  #presentation: ""
-  #video: ""
--
-  id: 010
-  title:
-    en: ""
-    it: ""
-  description:
-    en: ""
-    it: ""
-  subtype: Talk
-  speakers: [3]
-  language: en - it
-  complexity: ""
-  #presentation: ""
-  #video: ""
--
-  id: 011
-  title:
-    en: ""
-    it: ""
-  description:
-    en: ""
-    it: ""
-  subtype: Talk
-  speakers: [6]
-  language: en - it
-  complexity: ""
-  #presentation: ""
-  #video: ""
--
-  id: 012
-  title:
-    en: ""
-    it: ""
-  description:
-    en: ""
-    it: ""
-  subtype: Talk
-  speakers: [7]
-  language: en - it
-  complexity: ""
-  #presentation: ""
-  #video: ""
--
   id: 013
-  title:
-    en: ""
-    it: ""
-  description:
-    en: ""
-    it: ""
-  subtype: Talk
-  speakers: [8]
-  language: en - it
-  complexity: ""
-  #presentation: ""
-  #video: ""
--
-  id: 014
-  title:
-    en: ""
-    it: ""
-  description:
-    en: ""
-    it: ""
+  title: "Disaster Recovery: una serie di sfortunati eventi"
+  description: "Scambio di storie, esperienze, domande e risposte riguardo a piccoli/medi/grandi disastri quotidiani (forse) realmente accaduti.
+
+Durante l’esposizione il pubblico sarà legittimato a interrompere (nei limiti del sensato) la narrazione dei relatori, al fine di sapere tutto cioè che avrebbero sempre voluto sulla disaster recovery (su PostgreSQL) e non hanno mai osato chiedere."
   subtype: Talk
   speakers: [4, 5]
-  language: en - it
-  complexity: ""
+  language: it
+  complexity: "Beginner" 
   #presentation: ""
-  #video: ""
+  #video: ""  
 -
-  id: 015
-  title:
-    en: ""
-    it: ""
-  description:
-    en: ""
-    it: ""
-  subtype: Talk
-  speakers: [9]
-  language: en - it
-  complexity: ""
-  #presentation: ""
-  #video: ""
--
-  id: 016
-  title:
-    en: ""
-    it: ""
-  description:
-    en: ""
-    it: ""
-  subtype: Talk
-  speakers: [10]
-  language: en - it
-  complexity: ""
-  #presentation: ""
-  #video: ""
--
-  id: 017
-  title:
-    en: ""
-    it: ""
-  description:
-    en: ""
-    it: ""
-  subtype: Talk
-  speakers: [11]
-  language: en - it
-  complexity: ""
-  #presentation: ""
-  #video: ""
--
-  id: 018
-  title:
-    en: ""
-    it: ""
-  description:
-    en: ""
-    it: ""
-  subtype: Talk
-  speakers: [12]
-  language: en - it
-  complexity: ""
-  #presentation: ""
-  #video: ""
--
-  id: 019
-  title:
-    en: ""
-    it: ""
-  description:
-    en: ""
-    it: ""
-  subtype: Talk
-  speakers: [13]
-  language: en - it
-  complexity: ""
-  #presentation: ""
-  #video: ""
--
-  id: 020
-  title:
-    en: ""
-    it: ""
-  description:
-    en: ""
-    it: ""
-  subtype: Talk
-  speakers: [14]
-  language: en - it
-  complexity: ""
-  #presentation: ""
-  #video: ""
--
-  id: 021
-  title:
-    en: ""
-    it: ""
-  description:
-    en: ""
-    it: ""
-  subtype: Talk
-  speakers: [15]
-  language: en - it
-  complexity: ""
-  #presentation: ""
-  #video: ""
--
-  id: 022
-  title:
-    en: ""
-    it: ""
-  description:
-    en: ""
-    it: ""
+  id: 014
+  title: "Azure Database for PostgreSQL"
+  description: "Azure Database for PostgreSQL is a managed database service built for developers using the community PostgreSQL database technology you love. Learn how you can leverage the managed service and the key capabilities that the service offers which enables you as a developer to focus on developing apps. Using customer stories and experiences including live demos, we will walk through best practices and demonstrate how this service integrates with the other Azure services."
   subtype: Talk
   speakers: [16]
-  language: en - it
-  complexity: ""
-  #presentation: ""
-  #video: ""
--
-  id: 090
-  title:
-    en: "Welcome"
-    it: "Benvenuti"
-  description:
-    en: ""
-    it: ""
-  subtype: Talk
-  speakers: [23]
-  language: en - it
-  complexity: ""
-  #presentation: ""
-  #video: ""
--
-  id: 033
-  title: 
-    it: "Parallel queries with PostgreSQL"
-    en: "Parallel queries with PostgreSQL"
-  description: 
-    it: "This talk is an overview on Parallel Queries, introduced in the latest
-release of PostgreSQL.
-
-This feature is still being developed, and new capabilities will be
-added in the next releases. Nevertheless, the current implementation
-is already rather useful, and we will show realistic examples running
-on PostgreSQL 10 (which will probably be already released by the time of PGDay).
-
-We will also describe the architecture of Parallel Queries, the new
-node types introduced, and how parallel aggregates work. This will
-lead to a discussion on which kinds of queries can benefit more from
-this feature."
-    en: "This talk is an overview on Parallel Queries, introduced in the latest
-release of PostgreSQL.
-
-This feature is still being developed, and new capabilities will be
-added in the next releases. Nevertheless, the current implementation
-is already rather useful, and we will show realistic examples running
-on PostgreSQL 10 (which will probably be already released by the time of PGDay).
-
-We will also describe the architecture of Parallel Queries, the new
-node types introduced, and how parallel aggregates work. This will
-lead to a discussion on which kinds of queries can benefit more from
-this feature."
-  subtype: Talk
-  speakers: [1]
   language: en
   complexity: "Intermediate" 
-  #presentation: "https://____________________"
-  #video: "//www.youtube.com/________________"
+  #presentation: ""
+  #video: ""  
+-
+  id: 016
+  title: "PostgreSQL Realtime Queries at Scale"
+  description: "How deepstreamHub uses PostgreSQL functions to create streaming resultsets that update as entries match or unmatch a query."
+  subtype: Talk
+  speakers: [11]
+  language: en
+  complexity: "Intermediate" 
+  #presentation: ""
+  #video: "" 
+-
+  id: 017
+  title: "Patroni: PostgreSQL HA nel cloud"
+  description: "Patroni e' un demone scritto in Python ed e' utilizzato per realizzare soluzioni distribuite di Postgresql  HA ed utilizzando servizi di configurazione distribuiti quali Etcd, Zookeeper o Consul. E' una soluzione per il deploy di istanze Postgresql su diversi datacenter. Si analizzeranno pregi e difetti dello strumento"
+  subtype: Talk
+  speakers: [12]
+  language: it
+  complexity: "Intermediate" 
+  #presentation: ""
+  #video: "" 
+-
+  id: 022
+  title: "pg-gis-interoperability"
+  description: "Nel mondo della pubblica amministrazione, PostgreSQL si sta affermando come esempio di vera interoperabilità GIS grazie alla 
+  coesistenza di soluzioni Open Source (PostGIS e Python fra tutte) con quelle commerciali quali ESRI e Oracle. Tutto senza perdersi nessuna 
+  delle meravigliose features che PostgreSQL regala sia al mondo degli amministratori del dato che agli sviluppatori. Due casi reali che 
+  denunciano quanto sia ormai possibile adottare PostgreSQL senza intaccare la solidità di un'infrastruttura complessa ed eterogenea come 
+  quella della PA italiana"
+  subtype: Talk
+  speakers: [17]
+  language: en - it
+  complexity: "Intermediate" 
+  #presentation: ""
+  #video: "" 
+-
+  id: 023
+  title: "Keep calm and install Postgresql (using Ansible)"
+  description: "Installare e configurare un qualsiasi software può essere alle volte un processo lungo e complesso.
+PostgreSQL è semplice da installare e la configurazione predefinita è già una buona e solida base di partenza.
+Ma se si dovesse installarlo e configurarlo non su 1 ma su 100 server? Oppure  applicare una patch di sicurezza? 
+La metodologia DevOps ci aiuta in questo ed, in particolare, Ansible semplifica ulteriormente l'installazione e la configurazione di PgSQL.
+Il talk si occuperà di introdurre il movimento DevOps con un focus particolare su Ansible e PostgreSQL mostrando come installare e configurare PostgreSQL usando i moduli Ansible di base ed alcuni ruoli messi a disposizione della comunità. Verranno inoltre presentati alcuni ruoli specifici su PostgreSQL con alcune funzionalità non presenti in Ansible:
+- pgsql-table: si assicura che una tabella sia presente (o non) in un db
+- pgsql-row: si assicura che una riga sia presente (o non) in una tabella
+- pgsql-command: esegue un comando verso il database
+- pgsql-query: esegue una query (select) verso il database e ne ritorna il risultato."
+  subtype: Talk
+  speakers: [7]
+  language: it
+  complexity: "Intermediate" 
+  #presentation: ""
+  #video: "" 
+-
+  id: 024
+  title: "General Data Protection Regulation and PostgreSQL"
+  description: "From the official EU site (http://www.eugdpr.org/) everybody can see that “GDPR is the most important change in data privacy 
+  regulation in 20 years”. But what is it? Shortly, from a technical perspective, it is a legal document with 100+ pages of unreadable text 
+  describing what personal data is, how you should treat it, protect it and how the end user, being the owner of it, can make you delete it 
+  on request.
+We can say that the GDPR consists of the following parts:
+•Definitions of personal data
+•Consent and withdrawal
+•Breach notification
+•Right to erasure
+•Controllers, processors and data protection officers
+Depending on the type of business you have, you may encounter problems in every one of these parts. After extended research, we can only say 
+that there are many unanswered questions about the GDPR, and answers may vary from expert to expert and country to country. In this presentation, 
+we will briefly present the GDPR, list the problems that arise and see what can be done in PostgreSQL to address the specific problem."
+  subtype: Talk
+  speakers: [3]
+  language: en
+  complexity: "Intermediate" 
+  #presentation: ""
+  #video: "" 
+-
+  id: 030
+  title: "Replication In PostgreSQL 9.6, 10 and Beyond"
+  description: "Various changes and improvements in physical and logical replication in 9.6, 10, with in-depth discussion of logical replication 
+  and a live demo of PostgreSQL 10 features for replication monitoring and logical replication in action as well as a look into the future of 
+  logical replication in PostgreSQL 11."
+  subtype: Talk
+  speakers: [18]
+  language: en
+  complexity: "Intermediate" 
+  #presentation: ""
+  #video: "" 
+-
+  id: 031
+  title: "Estendere PostgreSQL con Go"
+  description: "Avete mai pensato di estendere PostgreSQL con Go? Basta creare una libreria dinamica! In questo talk creeremo una estensione, 
+  mostrando le primitive che possiamo sfruttare e come utilizzarle al meglio in Go.
+
+Avremo modo di parlare di cgo, di buildmode, vedremo come creare delle
+librerie dinamiche e creeremo una funzione in Go richiamabile da PostgreSQL."
+  subtype: Talk
+  speakers: [10]
+  language: it
+  complexity: "Intermediate" 
+  #presentation: ""
+  #video: "" 
+-
+  id: 032
+  title: "Ricerca full text in Django con PostgreSQL"
+  description: "Dalla versione 1.10 di Django è presente il modulo che facilita l’utilizzo del motore di ricerca full text di PostgreSQL. 
+  Dal momento che PostgreSQL è utilizzato in molti progetti Django, sfruttare il suo motore di ricerca full text permette di avere questa 
+  funzionalità molto facilmente, senza dover configurare prodotti esterni e senza doversi preoccupare di mantenere sincronizzati i dati tra 
+  differenti sistemi. Vedremo come abbiamo sfruttato questa funzionalità di ricerca full text in un progetto reale."
+  subtype: Talk
+  speakers: [20]
+  language: it
+  complexity: "Beginner" 
+  #presentation: ""
+  #video: "" 
+-
+  id: 033
+  title: "Parallel queries with PostgreSQL"
+  description: "This talk is an overview on Parallel Queries, introduced in the latest
+release of PostgreSQL.
+
+This feature is still being developed, and new capabilities will be
+added in the next releases. Nevertheless, the current implementation
+is already rather useful, and we will show realistic examples running
+on PostgreSQL 10 (which will probably be already released by the time of PGDay).
+
+We will also describe the architecture of Parallel Queries, the new
+node types introduced, and how parallel aggregates work. This will
+lead to a discussion on which kinds of queries can benefit more from
+this feature."
+  subtype: Talk
+  speakers: [21]
+  language: en - it
+  complexity: "Intermediate" 
+  #presentation: ""
+  #video: "" 
 -
   id: 034
   title: 
@@ -344,7 +216,63 @@ this feature."
   implementation. In this case a 150 times improvement has been obtained just by rephrasing the statement."
   subtype: Talk
   speakers: [2]
+  language: it
+  complexity: "Intermediate" 
+  #presentation: ""
+  #video: "" 
+-
+  id: 036
+  title: "PostgreSQL & Benchmark"
+  description: "Questo è un talk sull'importanza delle performance dei server
+che ospiteranno i vostri database.
+Vi racconterò la mia esperienza nello spremere fino all'ultimo
+ciclo di clock le configurazioni più disparate (e disperate).
+Scopriremo come anche le macchine più performanti possano
+avere pessime prestazioni se mal configurate."
+  subtype: Talk
+  speakers: [12]
+  language: it
+  complexity: "Intermediate" 
+  #presentation: ""
+  #video: "" 
+-
+  id: 038
+  title: "Indexes in PostgreSQL 10"
+  description: "PostgreSQL 10 provides many interesting new features: declarative partitioning and logical replication are surely the most 
+  famous, but there are few interesting new features regarding indexings, specially in Big Data contexts. One of them is parallelism that 
+  now includes index scans. But also hash indexes - useful for denormalised data - have been improved, and new supports have been added 
+  for unbalanced indexes (SP-GiST). In this talk I'd like to present simple examples to show how these features can help Data Analysts."
+  subtype: Talk
+  speakers: [4]
   language: en
   complexity: "Intermediate" 
-  #presentation: "https://____________________"
-  #video: "//www.youtube.com/________________"
+  #presentation: ""
+  #video: "" 
+-
+  id: 040
+  title: "PostgreSQL and the Raspberry Pi"
+  description: "Being one of the most well known single-board computers (SBC), the Raspberry Pi is the perfect target for many interesting projects, 
+  which brings the question: how PostgreSQL would work on the Raspberry Pi?
+
+In this talk we will learn how to compile and install PostgreSQL for the ARM architecture, compare benchmarks of the lastest two Raspberry Pi 
+versions against more powerful computers, and also discuss why installing a professional and robust database system on a tiny computer meets 
+the main educational purpose of the Raspberry Pi on becoming a tool that facilitates the teaching and learning of Computer Science for the masses. 
+As an example, we will present the pgbramble project (PostgreSQL Educational Bramble), which is composed by a cluster of 4 Raspberrys: 1 PostgreSQL 
+master, 1 PostgreSQL standby (streaming replication), 1 backup server (Barman), and 1 webserver."
+  subtype: Talk
+  speakers: [27]
+  language: en - it
+  complexity: "Beginner" 
+  #presentation: ""
+  #video: "" 
+-
+  id: 043
+  title: "Continuità operativa con PostgreSQL da 0 a 100"
+  description: "Un viaggio tra le infinite combinazioni di processi e architetture che PostgreSQL ed il suo ecosistema open source mettono 
+  a disposizione in ambito disaster recovery e alta disponibilità per raggiungere la pace dei sensi. Partendo da zero."
+  subtype: Talk
+  speakers: [30]
+  language: it
+  complexity: "Intermediate" 
+  #presentation: ""
+  #video: "" 
