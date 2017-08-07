@@ -233,8 +233,8 @@ this feature."
   speakers: [1]
   language: en
   complexity: "Intermediate"
-  #presentation: "https://____________________"
-  #video: "//www.youtube.com/________________"
+  #presentation: ""
+  #video: ""
 -
   id: 009
   title:
@@ -296,7 +296,8 @@ librerie dinamiche e creeremo una funzione in Go richiamabile da PostgreSQL."
   subtype: Talk
   speakers: [18]
   language: it
-  complexity: "Intermediate"   #presentation: ""
+  complexity: "Intermediate"   
+  #presentation: ""
   #video: ""
 -
   id: 012
@@ -335,8 +336,8 @@ librerie dinamiche e creeremo una funzione in Go richiamabile da PostgreSQL."
 -
   id: 014
   title:
-    it: "Keep calm and install Postgresql (using Ansible)"
-    en: "Keep calm and install Postgresql (using Ansible)"
+    it: "Keep calm and install PostgreSQL (using Ansible)"
+    en: "Keep calm and install PostgreSQL (using Ansible)"
   description:
     it: "Installare e configurare un qualsiasi software può essere alle volte un processo lungo e complesso.
 PostgreSQL è semplice da installare e la configurazione predefinita è già una buona e solida base di partenza.
