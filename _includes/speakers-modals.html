@@ -53,7 +53,7 @@
 			                            {% endfor %}
 			                        </div>
 			                        {% endif %}
-									<p class="about">{{ speaker.bio }}</p>
+									<p class="about">{{ speaker.bio[page.lang] }}</p>
 									<ul class="social">
 										{% for social in speaker.social %}
 											<li>
