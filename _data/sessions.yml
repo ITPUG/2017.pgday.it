@@ -258,14 +258,16 @@ this feature."
 -
   id: 010
   title:
-    it: "(Re)writing SQL queries to be fast"
+    it: "(Ri)scrivere le query SQL per essere più veloci"
     en: "(Re)writing SQL queries to be fast"
   description:
-    it: "SQL is a declarative language. Just write down what you want and the RDBMS will figure out how to return a correct result in the
-  fastest way. Well, not always. Sometimes it will need your help. Even with a perfectly indexed database and up-to-date statistics the optimizer
-  can fail to figure out the best plan in some cases. Sometimes to get the best performance SQL must be rewritten more for the optimizer than humans.
-  In this talk I will show the general problem and approaches to its solution through the illustration of a real world use case from an ERP
-  implementation. In this case a 150 times improvement has been obtained just by rephrasing the statement."
+    it: "SQL è un linguaggio dichiarativo. Basta scrivere quello che desideri ottenere e il RDBMS scoprirà come 
+    restituire un risultato corretto nel modo più veloce. Beh, non sempre. A volte avrà bisogno del tuo aiuto. 
+    Anche con un database perfettamente indicizzato e con statistiche aggiornate, l'ottimizzatore a volte non 
+    riesce a trovare la soluzione più performante. A volte per ottenere le migliori prestazioni, l’SQL deve essere 
+    riscritto in modo da renderlo più facilmente ottimizzabile. In questo talk verrà mostrato il problema generale 
+    e gli approcci alla sua soluzione attraverso l'illustrazione di un caso reale di utilizzo in un'implementazione ERP. 
+    In questo caso è stato ottenuto un miglioramento di 150 volte solo riscrivendo l’SQL in modo differente."
     en: "SQL is a declarative language. Just write down what you want and the RDBMS will figure out how to return a correct result in the
   fastest way. Well, not always. Sometimes it will need your help. Even with a perfectly indexed database and up-to-date statistics the optimizer
   can fail to figure out the best plan in some cases. Sometimes to get the best performance SQL must be rewritten more for the optimizer than humans.
@@ -281,18 +283,16 @@ this feature."
   id: 011
   title:
     it: "Estendere PostgreSQL con Go"
-    en: "Estendere PostgreSQL con Go"
+    en: "Extending PostgreSQL with Go"
   description:
-    it: "Avete mai pensato di estendere PostgreSQL con Go? Basta creare una libreria dinamica! In questo talk creeremo una estensione,
-  mostrando le primitive che possiamo sfruttare e come utilizzarle al meglio in Go.
-
-Avremo modo di parlare di cgo, di buildmode, vedremo come creare delle
-librerie dinamiche e creeremo una funzione in Go richiamabile da PostgreSQL."
-    en: "Avete mai pensato di estendere PostgreSQL con Go? Basta creare una libreria dinamica! In questo talk creeremo una estensione,
-  mostrando le primitive che possiamo sfruttare e come utilizzarle al meglio in Go.
-
-Avremo modo di parlare di cgo, di buildmode, vedremo come creare delle
-librerie dinamiche e creeremo una funzione in Go richiamabile da PostgreSQL."
+    it: "Avete mai pensato di estendere PostgreSQL con Go? Basta creare una libreria dinamica! In questo talk 
+    creeremo una estensione, mostrando le primitive che possiamo sfruttare e come utilizzarle al meglio in Go. 
+    Avremo modo di parlare di cgo, di buildmode, vedremo come creare delle librerie dinamiche e creeremo una 
+    funzione in Go richiamabile da PostgreSQL."
+    en: "Have you ever thought about extending PostgreSQL with Go? Just create a dynamic library! 
+    In this talk we will create an extension, showing the primitives that we can exploit and how to use Go 
+    in the best way. We will talk about cgo, buildmode, and we will see how to create dynamic libraries and 
+    we will create a Go function that can be recalled by PostgreSQL."
   subtype: Talk
   speakers: [18]
   language: it
