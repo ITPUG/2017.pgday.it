@@ -144,10 +144,10 @@ progetto PgRepUp per la replica ed upgrade di PostgreSQL usando PgLogical."
   thumbnailUrl: simon_riggs.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "linkedin", link: ""}
 -
   id: 9
   name: "Wolfram"
