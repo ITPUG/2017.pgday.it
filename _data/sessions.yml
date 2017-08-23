@@ -258,7 +258,7 @@ this feature."
 -
   id: 010
   title:
-    it: "(Ri)scrivere le query SQL per essere più veloci"
+    it: "(Ri)scrivere l'SQL per ottenere le massime prestazioni"
     en: "(Re)writing SQL queries to be fast"
   description:
     it: "SQL è un linguaggio dichiarativo. Basta scrivere quello che desideri ottenere e il RDBMS scoprirà come 
