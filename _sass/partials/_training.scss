@@ -1,0 +1,23 @@
+$training-img-width: 250px;
+$small-training-img-width: 110px;
+
+.training {
+	h3 {
+		margin-bottom: 20px;
+	}
+}
+.training {
+	margin-top: 50px;
+	&:nth-child(3) {
+		margin-top: 0;
+	}
+}
+.training-img-wrapper {
+	img {
+		max-width: $training-img-width;
+		margin: 0 auto;
+        @media (max-width: 767px) {
+            max-width: $small-training-img-width;
+        }
+	}
+}

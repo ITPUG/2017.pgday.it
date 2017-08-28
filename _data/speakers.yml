@@ -21,15 +21,11 @@
   company: "2ndQuadrant"
   title: "Head of Professional Services"
   bio:
-    it: "Gianni Ciolli is Head of Professional Services at 2ndQuadrant, and is a PostgreSQL consultant, trainer, and speaker at various IT conferences
-  worldwide, including the European PostgreSQL conferences and PGDay Italy and UK.
-
-He started working with Free and Open Source Software 20 years ago, and has been active in the community (Prato Linux User Group, Italian PostgreSQL
-Users Group).
-
-Previously he worked as a researcher and teacher at the Department of
-Mathematics of the University of Florence. He is an author of the last two editions of the PostgreSQL Administration Cookbook, from Packt Publishing
-(Birmingham, 2015-16)."
+    it: "Gianni Ciolli è responsabile dei servizi professionali in 2ndQuadrant ed è un consulente, trainer e relatore
+    PostgreSQL in varie conferenze IT in tutto il mondo, tra cui le European PostgreSQL conferences ed il PGDay Italia e UK.
+    Ha iniziato a lavorare in ambito Free e Open Source Software 20 anni fa ed è un membro attivo in varie comunità (Prato Linux User Group, Italian PostgreSQL Users Group).
+    In precedenza ha lavorato come ricercatore e docente presso il Dipartimento di Matematica dell'Università di Firenze.
+    È uno degli autori delle ultime due edizioni di PostgreSQL Administration Cookbook, di Packt Publishing (Birmingham, 2015-16)."
     en: "Gianni Ciolli is Head of Professional Services at 2ndQuadrant, and is a PostgreSQL consultant, trainer, and speaker at various IT conferences
   worldwide, including the European PostgreSQL conferences and PGDay Italy and UK.
 
@@ -51,7 +47,7 @@ Mathematics of the University of Florence. He is an author of the last two editi
   title: "Socio e responsabile Cloud API"
   bio:
     it: "Mi occupo di database, strumenti di sviluppo ed architetture software da oltre 30 anni. Ho lavorato nella ricerca e sviluppo di aziende come Infocamere Scpa e ho fondato alcune startup in Italia tra le quali recentemente Lapsy srl che si occupa di IoT. Ho diverse certificazioni, recentemente in Machine Learning e amo essere competente e imparare nuove tecnologie. Nel (poco) tempo libero suono la chitarra elettrica e gioco con mia figlia."
-    en: "Mi occupo di database, strumenti di sviluppo ed architetture software da oltre 30 anni. Ho lavorato nella ricerca e sviluppo di aziende come Infocamere Scpa e ho fondato alcune startup in Italia tra le quali recentemente Lapsy srl che si occupa di IoT. Ho diverse certificazioni, recentemente in Machine Learning e amo essere competente e imparare nuove tecnologie. Nel (poco) tempo libero suono la chitarra elettrica e gioco con mia figlia."
+    en: "Luca Veronese has been in the RDBMS application and framework development business for over thirty years. Over this time Luca has build several code generation, application development frameworks and heterogeneous data replication solutions for various companies. He is the main developer behind NebulaERP an italian ERP software. He is also founder of a IoT startup and is interested in Machine Learning and AI."
   thumbnailUrl: luca_veronese.jpg
   rockstar: true
   social:
@@ -65,9 +61,9 @@ Mathematics of the University of Florence. He is an author of the last two editi
   company: "Praćenje vozila d.o.o. aka Smartivo"
   title: "CTO"
   bio:
-    it: "Working as the CTO of Smartivo on fleet management solutions. I have several years of experience running PostgreSQL in production
-  for various clients, private and consultancy projects. I am also a part time PostgreSQL admin, and I do some Python and Go development
-  for fun and/or profit."
+    it: "Mladen ricopre la carica di CTO in Smartivo per le soluzioni di gestione delle flotte.
+    Ha diversi anni di esperienza nella gestione di PostgreSQL per diversi clienti, progetti privati e di consulenza.
+    Part-time è anche un dba PostgreSQL, e sviluppa in Python e Go per divertimento e / o profitto."
     en: "Working as the CTO of Smartivo on fleet management solutions. I have several years of experience running PostgreSQL in production
   for various clients, private and consultancy projects. I am also a part time PostgreSQL admin, and I do some Python and Go development
   for fun and/or profit."
@@ -82,30 +78,15 @@ Mathematics of the University of Florence. He is an author of the last two editi
   company: "Viralize"
   title: "Data Engineer"
   bio:
-    it: "Giuseppe started his computer technician career as C/C++ developer in Linux/Unix systems, he applied them to computing & Montecarlo
-  simulations in particle physics for many years in his research activity. During this time, he discovered his interest in machine learning
-  techniques used for particle identification grew, and had first approaches with data analysis.
-
-In addition to research, he enhanced his computer skills working on GIS application development for GPS tracking and LiDAR surveying, commencing
-work with databases, in particular PostgreSQL and its spatial extension, PostGIS. After this experience, he started to work exclusively as data
-engineer (both data administration and mining) principally based on PostgreSQL.
-
-Giuseppe holds a PhD in Physics and won a fellowship at “Scuola Normale Superiore” in Pisa, Tuscany. He worked with CERN in Geneva during his
-research activities.
-
-Currently, he lives in Prato and away from his desktop, he loves to lift weights and race with his superbike."
-    en: "Giuseppe started his computer technician career as C/C++ developer in Linux/Unix systems, he applied them to computing & Montecarlo
-  simulations in particle physics for many years in his research activity. During this time, he discovered his interest in machine learning
-  techniques used for particle identification grew, and had first approaches with data analysis.
-
-In addition to research, he enhanced his computer skills working on GIS application development for GPS tracking and LiDAR surveying, commencing
-work with databases, in particular PostgreSQL and its spatial extension, PostGIS. After this experience, he started to work exclusively as data
-engineer (both data administration and mining) principally based on PostgreSQL.
-
-Giuseppe holds a PhD in Physics and won a fellowship at “Scuola Normale Superiore” in Pisa, Tuscany. He worked with CERN in Geneva during his
-research activities.
-
-Currently, he lives in Prato and away from his desktop, he loves to lift weights and race with his superbike."
+    it: "Giuseppe ha iniziato la sua carriera in ambito IT come sviluppatore C/C ++ in sistemi Linux / Unix, applicato al calcolo e simulazioni Montecarlo
+    in fisica delle particelle per diversi anni nella sua attività di ricerca. In quel periodo ha scoperto il suo interesse per tecniche di machine learning
+    applicato alla identificazione delle particelle, e si è approcciato per le prime volte all'analisi dati. Successivamente, ha avuto modo di migliorare le
+    sue competenze informatiche lavorando in ambito GIS su tracciatura GPS e rilevamento LiDAR, iniziando così a lavorare coi database geospaziali ed in
+    particolare con PostgreSQL e la sua estensione PostGIS. Dopo questa esperienza, ha iniziato a lavorare come Data Engineer dapprima in 2ndQuadrant (soprattutto
+    lato amministrazione dati), poi in Viralize (indicizzazione realtime di stream continuo di dati), continuando ad utilizzare PostgreSQL. Giuseppe possiede un
+    dottorato di ricerca in Fisica ed ha vinto anche una borsa di studio presso la Scuola Normale Superiore di Pisa, ed ha lavorato al CERN durante la sua attività
+    di ricerca. Attualmente vive a Prato e lontano dalla scrivania ama passare il tempo in palestra o correndo con la sua moto."
+    en: "Giuseppe started his computer technician career as C/C++ developer in Linux/Unix systems, he applied them to computing & Montecarlo simulations in particle physics for many years in his research activity. During this time, he discovered his interest in machine learning techniques used for particle identification grew, and had first approaches with data analysis. In addition to research, he enhanced his computer skills working on GIS application development for GPS tracking and LiDAR surveying, commencing work with databases, in particular PostgreSQL and its spatial extension, PostGIS. After this experience, he started to work exclusively as data engineer (both data administration and mining) principally based on PostgreSQL. Giuseppe holds a PhD in Physics and won a fellowship at “Scuola Normale Superiore” in Pisa, Tuscany. He worked with CERN in Geneva during his research activities. Currently, he lives in Prato and away from his desktop, he loves to lift weights and race with his superbike."
   thumbnailUrl: giuseppe_broccolo.jpg
   rockstar: true
   social:
@@ -118,28 +99,15 @@ Currently, he lives in Prato and away from his desktop, he loves to lift weights
   company: "2ndQuadrant"
   title: "Head of Global Support at 2ndQuadrant"
   bio:
-    it: "A long time open-source programmer and entrepreneur, Gabriele has a degree in Statistics from the University of Florence.
-
-Gabriele is the Head of Global Support at 2ndQuadrant and managing director of the Italian office as well as an active member of the
-international PostgreSQL community and local ITPUG. His commitment is to consistently contribute to the growth of 2ndQuadrant and it’s
-members through nurturing a lean and devops culture.
-
-Gabriele lives in Prato, a small but vibrant city located in the northern part of Tuscany, Italy. His second home is Melbourne, Australia,
-where he studied at Monash University and worked in the ICT sector.
-
-His hobbies include “calcio” (football or soccer, depending on which part of the world you come from) and playing his Fender Stratocaster
-electric guitar. But his major passion is called: Elisabeth - his sweet 1-year old daughter!"
+    it: "Programmatore ed imprenditore da lungo tempo in ambito open source, Gabriele ha conseguito una laurea in Statistica presso l'Università di Firenze. Gabriele è a capo del Supporto Globale di 2ndQuadrant e Amministratore Delegato della sede italiana, nonché membro attivo sia della comunità internazionale di PostgreSQL che di quella locale all'interno dell'ITPUG. Il suo impegno è quello di contribuire costantemente alla crescita di 2ndQuadrant e dei suoi membri attraverso la cultura lean e devops. Gabriele vive a Prato, una piccola ma vivace città situata nella parte settentrionale della Toscana. La sua seconda casa è Melbourne, Australia, dove ha studiato presso la Monash University oltre ad aver lavorato nel settore ICT. I suoi hobby comprendono calcio (football o soccer, a seconda di quale parte del mondo si proviene) e suonare la sua chitarra elettrica Fender Stratocaster. Ma la sua grande passione è chiamata: Elisabeth - la sua dolce figlia di 1 anno e mezzo!"
     en: "A long time open-source programmer and entrepreneur, Gabriele has a degree in Statistics from the University of Florence.
-
-Gabriele is the Head of Global Support at 2ndQuadrant and managing director of the Italian office as well as an active member of the
-international PostgreSQL community and local ITPUG. His commitment is to consistently contribute to the growth of 2ndQuadrant and it’s
-members through nurturing a lean and devops culture.
-
-Gabriele lives in Prato, a small but vibrant city located in the northern part of Tuscany, Italy. His second home is Melbourne, Australia,
-where he studied at Monash University and worked in the ICT sector.
-
-His hobbies include “calcio” (football or soccer, depending on which part of the world you come from) and playing his Fender Stratocaster
-electric guitar. But his major passion is called: Elisabeth - his sweet 1-year old daughter!"
+    Gabriele is the Head of Global Support at 2ndQuadrant and managing director of the Italian office as well as an active member of the
+    international PostgreSQL community and local ITPUG. His commitment is to consistently contribute to the growth of 2ndQuadrant and it’s
+    members through nurturing a lean and devops culture.
+    Gabriele lives in Prato, a small but vibrant city located in the northern part of Tuscany, Italy. His second home is Melbourne, Australia,
+    where he studied at Monash University and worked in the ICT sector.
+    His hobbies include “calcio” (football or soccer, depending on which part of the world you come from) and playing his Fender Stratocaster
+    electric guitar. But his major passion is called: Elisabeth - his sweet 1-year old daughter!"
   thumbnailUrl: gabriele_bartolini.jpg
   rockstar: true
   social:
@@ -152,7 +120,7 @@ electric guitar. But his major passion is called: Elisabeth - his sweet 1-year o
   company: "20tab"
   title: ""
   bio:
-    it: "Remote worker. Python developer. Web Programmer. Free Software contributor. GNU/Linux user."
+    it: "Operatore da remoto. Sviluppatore Python. Programmatore Web. Contribuente Software Libero. Utente GNU/Linux."
     en: "Remote worker. Python developer. Web Programmer. Free Software contributor. GNU/Linux user."
   thumbnailUrl: paolo_melchiorre.jpg
   rockstar: true
@@ -171,10 +139,9 @@ electric guitar. But his major passion is called: Elisabeth - his sweet 1-year o
   (PHP e Javascript in particolare).
 Appassionato del mondo opensource, ha contribuito negli anni a sviluppare alcune parti del driver PHP/PDO per PostgreSQL ed avviato il
 progetto PgRepUp per la replica ed upgrade di PostgreSQL usando PgLogical."
-    en: "Ingegnere Informatico dal 2001 con vasta esperienza su PostgreSQL sia lato sistemistico che di programmazione e lo sviluppo web
-  (PHP e Javascript in particolare).
-Appassionato del mondo opensource, ha contribuito negli anni a sviluppare alcune parti del driver PHP/PDO per PostgreSQL ed avviato il
-progetto PgRepUp per la replica ed upgrade di PostgreSQL usando PgLogical."
+    en: "Computer Engineer since 2001 with extensive experience in PostgreSQL both systemic and programming and web development
+    (PHP and Javascript in particular). The open source world has contributed over the years to developing parts of the PHP / PDO driver
+    for PostgreSQL and started the PgRepUp project for PostgreSQL replication and upgrade using PgLogical."
   thumbnailUrl: denis_gasparin.jpg
   rockstar: true
   social:
@@ -188,10 +155,10 @@ progetto PgRepUp per la replica ed upgrade di PostgreSQL usando PgLogical."
   company: "2ndQuadrant"
   title: "Founder and CTO"
   bio:
-    it: "Simon Riggs is the Founder and Chief Technology Officer of 2ndQuadrant. He is also a major developer and committer of the PostgreSQL project.
-  Simon has contributed major features in each of the last 6 versions of PostgreSQL.His work includes recovery and replication performance and
-  monitoring as well as designs for many other features. Simon has worked as a Database Architect for 20 years with high-end solutions experience
-  and certifications on Oracle Teradata and DB2."
+    it: "Simon Riggs è il fondatore e Chief Technology Officer di 2ndQuadrant. Major developer e code  committer del progetto PostgreSQL.
+    Simon ha contribuito alle principali caratteristiche delle ultime 6 release di PostgreSQL. Il suo lavoro include Recovery, Replica e
+    Performance e Monitoraggio, nonché designer per molte altre funzionalità. Simon ha lavorato come Database Architect per 20 anni con
+    esperienze in soluzioni di fascia alta e con certificazioni Oracle, Teradata e DB2."
     en: "Simon Riggs is the Founder and Chief Technology Officer of 2ndQuadrant. He is also a major developer and committer of the PostgreSQL project.
   Simon has contributed major features in each of the last 6 versions of PostgreSQL.His work includes recovery and replication performance and
   monitoring as well as designs for many other features. Simon has worked as a Database Architect for 20 years with high-end solutions experience
@@ -210,7 +177,7 @@ progetto PgRepUp per la replica ed upgrade di PostgreSQL usando PgLogical."
   company: "DeepstreamHub"
   title: "CEO"
   bio:
-    it: "From AAA-gaming at multiplayer giant Crytek to the plumbing that connects the world’s exchanges and market makers; Wolfram's list of jobs and titles is long enough to get boring, so to name a few: Vice President of trading technology at JP Morgan London, Tech Lead at Caplin systems or FX trading consultant for HSBC. He worked on low latency realtime in the United States, South Africa, Denmark, Germany, Switzerland, Australia and more. He also once was a soldier and holds degrees in art history and archaeology, but that’s a story for another time."
+    it: "Dall'AA-gaming del gigante multiplayer Crytek all’intreccio di collegamenti e scambi nel mondo dei market maker; L'elenco dei lavori e dei titoli di Wolfram è abbastanza a lungo da diventare noioso, per citarne alcuni: Vice Presidente della tecnologia di negoziazione a JP Morgan London, Tech Lead ai sistemi Caplin o consulente FX per HSBC. Ha lavorato a bassa latenza in tempo reale negli Stati Uniti, Sudafrica, Danimarca, Germania, Svizzera, Australia e altro ancora. Anche lui è stato un soldato e ha conseguito la laurea in storia dell'arte e nell'archeologia, ma è una storia che ci racconterà in un’altra circostanza."
     en: "From AAA-gaming at multiplayer giant Crytek to the plumbing that connects the world’s exchanges and market makers; Wolfram's list of jobs and titles is long enough to get boring, so to name a few: Vice President of trading technology at JP Morgan London, Tech Lead at Caplin systems or FX trading consultant for HSBC. He worked on low latency realtime in the United States, South Africa, Denmark, Germany, Switzerland, Australia and more. He also once was a soldier and holds degrees in art history and archaeology, but that’s a story for another time."
   thumbnailUrl: wolfram_hempel.jpg
   rockstar: true
@@ -230,11 +197,11 @@ progetto PgRepUp per la replica ed upgrade di PostgreSQL usando PgLogical."
   In prima elementare sapevo scrivere sulla tastiera ma non su carta! Sono sempre stato curioso e ancora non mi sono saziato di imparare nuove
   tecnologie e nuovi ambienti di programmazione. Tra questi: Python, Java, Go, C, Haskell. Oggi faccio parte del team di 2ndQuadrant Italia perché
   mi dà la possibilità di lavorare su PostgreSQL, il DBMS che affronta problemi innovativi con un linguaggio 'classico'."
-    en: "In poche parole posso dire che io e l'informatica siamo cresciuti insieme. La programmazione è sempre stata la mia fissazione.
-  Una passione che iniziò all'età di 6 anni stando a fianco di mio padre, programmatore, che mi ha insegnato i rudimenti della programmazione in C.
-  In prima elementare sapevo scrivere sulla tastiera ma non su carta! Sono sempre stato curioso e ancora non mi sono saziato di imparare nuove
-  tecnologie e nuovi ambienti di programmazione. Tra questi: Python, Java, Go, C, Haskell. Oggi faccio parte del team di 2ndQuadrant Italia perché
-  mi dà la possibilità di lavorare su PostgreSQL, il DBMS che affronta problemi innovativi con un linguaggio 'classico'."
+    en: "In few words I can say that I and computer science have grown together. Programming has always been my passion.
+    A passion that began when I was 6, standing next to my father, programmer, who taught me the rudiments of programming in C.
+    At the elementary school I could write on the keyboard but not on paper! I've always been curious and I'm not enough satisfied to
+    learn new technologies and new programming environments. Among them: Python, Java, Go, C, Haskell. Today I am part of the 2ndQuadrant
+    Italia team because it gives me the opportunity to work on PostgreSQL, the DBMS that addresses innovative problems with a 'classic' language."
   thumbnailUrl: leonardo_cecchi.jpg
   rockstar: true
   social:
@@ -248,8 +215,7 @@ progetto PgRepUp per la replica ed upgrade di PostgreSQL usando PgLogical."
   company: "Freelance"
   title: "Freelance"
   bio:
-    it: "Currently working as software developer and consultant,
-mostly as Front-end Developer, during the the years I had the opportunity to build software across all layers, from frontend, to the backend and database systems"
+    it: "Attualmente lavora come sviluppatore di software e consulente, principalmente come Developer Front-End, durante gli anni ha avuto l'opportunità di costruire software in tutti i livelli, dal frontend, al backend e ai sistemi di database"
     en: "Currently working as software developer and consultant,
 mostly as Front-end Developer, during the the years I had the opportunity to build software across all layers, from frontend, to the backend and database systems"
   thumbnailUrl: lucio_grenzi.jpg
@@ -266,9 +232,9 @@ mostly as Front-end Developer, during the the years I had the opportunity to bui
     it: "Linux User dal 2007, quando ha scoperto il Prato Linux User Group.
 Si scopre SysAdmin per passione e nel 2016 entra in 2ndQuadrant.
 Consegue il diploma di Linux System Administrator di RHEL nell'agosto 2016."
-    en: "Linux User dal 2007, quando ha scoperto il Prato Linux User Group.
-Si scopre SysAdmin per passione e nel 2016 entra in 2ndQuadrant.
-Consegue il diploma di Linux System Administrator di RHEL nell'agosto 2016."
+    en: "Linux User since 2007, when he discovered the Prato Linux User Group. SysAdmin discovers
+    passion and in 2016 enters 2ndQuadrant.
+    He obtained a degree in Linux System Administrator from RHEL in August 2016."
   thumbnailUrl: jonathan_battiato.jpg
   rockstar: true
   social:
@@ -308,8 +274,8 @@ Inizia a lavorare per 2ndQuadrant italia sviluppando in Python applicazioni a su
   company: "2ndQuadrant"
   title: ""
   bio:
-    en: ""
-    it: ""
+    en: "Francesco Canovai works in 2ndQuadrant as PostgreSQL database administrator and system administrator, taking care of support, performance tuning, monitoring, infrastructure automation via Puppet and writing integration tests for the PostgreSQL disaster recovery tool Barman."
+    it: "Francesco Canovai lavora presso 2ndQuadrant come amministratore di database PostgreSQL e sistemista, occupandosi di supporto, performance tuning, monitoraggio, automatizzazione dell'infrastruttura tramite Puppet e scrittura di integration test per Barman, tool di disaster recovery per PostgreSQL."
   thumbnailUrl: francesco_canovai.jpg
   rockstar: true
   social:
@@ -327,9 +293,8 @@ Inizia a lavorare per 2ndQuadrant italia sviluppando in Python applicazioni a su
     it: "Alessandro e' un appassionato di informatica, con un forte amore per l'automazione e la sicurezza.
 Si e' occupato finora di amministrazione di sistemi, sviluppando un fanatismo per gli strumenti di IaC.
 Da pochi mesi lavora in 2ndQuadrant come SRE e ingegnere di supporto."
-    en: "Alessandro e' un appassionato di informatica, con un forte amore per l'automazione e la sicurezza.
-Si e' occupato finora di amministrazione di sistemi, sviluppando un fanatismo per gli strumenti di IaC.
-Da pochi mesi lavora in 2ndQuadrant come SRE e ingegnere di supporto."
+    en: "Alessandro is a geek with a strong love for security and automation. He has worked mostly on system administration,
+    where he developed a fanatical love for IaC tools. A few months ago he joined 2ndQuadrant, where he now works as SRE and Support Engineer."
   thumbnailUrl: alessandro_grassi.jpg
   rockstar: true
   social:
@@ -341,7 +306,7 @@ Da pochi mesi lavora in 2ndQuadrant come SRE e ingegnere di supporto."
   company: "Microsoft"
   title: "Principal PM"
   bio:
-    it: "Silvano works as Principal Program Manager in Azure Engineering at Microsoft Corporation. He has 20+ years experience on distributed solutions and relational database systems, including building global scale data services."
+    it: "Silvano lavora come Principal Program Manager in Azure Engineering presso Microsoft Corporation. Ha 20 anni di esperienza in soluzioni distribuite e sistemi di database relazionali, tra cui costruire servizi di scala globale."
     en: "Silvano works as Principal Program Manager in Azure Engineering at Microsoft Corporation. He has 20+ years experience on distributed solutions and relational database systems, including building global scale data services."
   thumbnailUrl: silvano_coriani.jpg
   rockstar: true
@@ -354,16 +319,8 @@ Da pochi mesi lavora in 2ndQuadrant come SRE e ingegnere di supporto."
   company: "GisUp"
   title: ""
   bio:
-    it: "Graduated in environmental and land-based engineering (University of Pavia in the beautiful seat of Mantua) for the Italian state
-  and engineer for the rest of Europe thanks to the Master of Science in Environmental Engineering at the University of Pavia Aalborg (DK)
-  during the period 1999-2002.
-Honestly, I prefer to call myself a happy and enthusiastic GIS Developer. GIS knowledge and passion for computer science dates to the Master's
-Degree in Denmark. Since 2003 I am a freelancer."
-    en: "Graduated in environmental and land-based engineering (University of Pavia in the beautiful seat of Mantua) for the Italian state
-  and engineer for the rest of Europe thanks to the Master of Science in Environmental Engineering at the University of Pavia Aalborg (DK)
-  during the period 1999-2002.
-Honestly, I prefer to call myself a happy and enthusiastic GIS Developer. GIS knowledge and passion for computer science dates to the Master's
-Degree in Denmark. Since 2003 I am a freelancer."
+    it: "Diplomato in ingegneria dell'Ambiente e delle Risorse (Università di Pavia nella splendida sede di Mantova) per lo stato italiano e ingegnere per il resto d'Europa grazie al Master of Science in Ingegneria Ambientale presso l'Università di Aalborg (DK) nel periodo 1999-2002. Onestamente, preferisco definirmi un felice ed entusiasta sviluppatore GIS. La conoscenza del GIS e la passione per le scienze informatiche risalgono al Master in Danimarca. Dal 2003 sono un libero professionista."
+    en: "Graduated in environmental and land-based engineering (University of Pavia in the beautiful seat of Mantua) for the Italian state and engineer for the rest of Europe thanks to the Master of Science in Environmental Engineering at the University of Aalborg (DK) during the period 1999-2002. Honestly, I prefer to call myself a happy and enthusiastic GIS Developer. GIS knowledge and passion for computer science dates to the Master's Degree in Denmark. Since 2003 I am a freelancer."
   thumbnailUrl: erik_tiengo.JPG
   rockstar: true
   social:

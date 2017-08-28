@@ -1,0 +1,21 @@
+<!-- Begin pgbeer Location Section -->
+<section id="pgbeer-location" class="pgbeer-location">
+    <div id="canvas-map" class="canvas-map"></div>
+    <div class="content-wrapper">
+        <div class="col-lg-3 col-md-4 col-sm-6 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
+            {% if site.pgbeerLocationName %}
+            <h5 class="location-name">{{ site.pgbeerLocationName }}</h5>
+            {% endif %}
+        <p class="location-address">{{ site.pgbeerStreetAddress }}, {{ site.pgbeerAddressLocality }}</p>
+            <div class="pgbeer-time">
+                <span>{{ site.pgbeerTimeTitle }}</span>
+                {% assign startTime = site.pgbeerStartTime | split: "T" %}
+                <time>{{ startTime[1] }}</time> -
+                {% assign endTime = site.pgbeerEndTime | split: "T" %}
+                <time>{{ endTime[1] }}</time>
+            </div>
+            <a href="https://maps.google.com/maps?ll={{ site.pgbeerPlaceCoordinates | replace:' ',''}}&z=17&t=m&hl=en-US&gl=US&mapclient=embed&q={{ site.pgbeerStreetAddress | replace:' ','%20' | replace:',','%2C'}}%2C%20{{ site.pgbeerAddressLocality | replace:' ','%20' | replace:',','%2C'}}" class="view-on-map" target="_blank">{{ site.viewOnMap }}</a>
+        </div>
+    </div>
+</section>
+<!-- End pgbeer Location Section -->

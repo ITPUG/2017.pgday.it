@@ -86,13 +86,11 @@ Non esitare!"
 -
   id: 003
   title:
-    it: "Continuità operativa con PostgreSQL da 0 a 100"
-    en: "Continuità operativa con PostgreSQL da 0 a 100"
+    it: "From 0 to 100: Business Continuity with PostgreSQL"
+    en: "From 0 to 100: Business Continuity with PostgreSQL"
   description:
-    it: "Un viaggio tra le infinite combinazioni di processi e architetture che PostgreSQL ed il suo ecosistema open source mettono
-  a disposizione in ambito disaster recovery e alta disponibilità per raggiungere la pace dei sensi. Partendo da zero."
-    en: "Un viaggio tra le infinite combinazioni di processi e architetture che PostgreSQL ed il suo ecosistema open source mettono
-  a disposizione in ambito disaster recovery e alta disponibilità per raggiungere la pace dei sensi. Partendo da zero."
+    it: "A journey through the infinite combinations of processes and architectures that PostgreSQL and its open source ecosystem provide within disaster recovery and high availability to help you achieve peace of mind. Starting from zero."
+    en: "A journey through the infinite combinations of processes and architectures that PostgreSQL and its open source ecosystem provide within disaster recovery and high availability to help you achieve peace of mind. Starting from zero."
   subtype: Talk
   speakers: [5]
   language: en
@@ -183,16 +181,8 @@ We will cover the main points required to make postgres harder to attack, and ho
     it: "pg-gis-interoperability"
     en: "pg-gis-interoperability"
   description:
-    it: "Nel mondo della pubblica amministrazione, PostgreSQL si sta affermando come esempio di vera interoperabilità GIS grazie alla
-  coesistenza di soluzioni Open Source (PostGIS e Python fra tutte) con quelle commerciali quali ESRI e Oracle. Tutto senza perdersi nessuna
-  delle meravigliose features che PostgreSQL regala sia al mondo degli amministratori del dato che agli sviluppatori. Due casi reali che
-  denunciano quanto sia ormai possibile adottare PostgreSQL senza intaccare la solidità di un'infrastruttura complessa ed eterogenea come
-  quella della PA italiana"
-    en: "Nel mondo della pubblica amministrazione, PostgreSQL si sta affermando come esempio di vera interoperabilità GIS grazie alla
-  coesistenza di soluzioni Open Source (PostGIS e Python fra tutte) con quelle commerciali quali ESRI e Oracle. Tutto senza perdersi nessuna
-  delle meravigliose features che PostgreSQL regala sia al mondo degli amministratori del dato che agli sviluppatori. Due casi reali che
-  denunciano quanto sia ormai possibile adottare PostgreSQL senza intaccare la solidità di un'infrastruttura complessa ed eterogenea come
-  quella della PA italiana"
+    it: "In the public administration sector, PostgreSQL is claiming to be an example of true GIS interoperability thanks to the coexistence of Open Source (PostGIS and Python solutions) with commercial ones such as ESRI and Oracle. Without losing any of the wonderful features that PostgreSQL delivers to both administrators and developers. Two real cases denouncing how far PostgreSQL can be adopted without affecting the solidity of a complex and heterogeneous infrastructure such as that of the Italian Public Admnistration"
+    en: "In the public administration sector, PostgreSQL is claiming to be an example of true GIS interoperability thanks to the coexistence of Open Source (PostGIS and Python solutions) with commercial ones such as ESRI and Oracle. Without losing any of the wonderful features that PostgreSQL delivers to both administrators and developers. Two real cases denouncing how far PostgreSQL can be adopted without affecting the solidity of a complex and heterogeneous infrastructure such as that of the Italian Public Admnistration"
   subtype: Talk
   speakers: [17]
   language: en
@@ -238,17 +228,19 @@ this feature."
 -
   id: 009
   title:
-    it: "Indexes in PostgreSQL 10"
-    en: "Indexes in PostgreSQL 10"
+    it: "Gli indici in PostgreSQL 10"
+    en: "Gli indici in PostgreSQL 10"
   description:
-    it: "PostgreSQL 10 provides many interesting new features: declarative partitioning and logical replication are surely the most
-  famous, but there are few interesting new features regarding indexings, specially in Big Data contexts. One of them is parallelism that
-  now includes index scans. But also hash indexes - useful for denormalised data - have been improved, and new supports have been added
-  for unbalanced indexes (SP-GiST). In this talk I'd like to present simple examples to show how these features can help Data Analysts."
-    en: "PostgreSQL 10 provides many interesting new features: declarative partitioning and logical replication are surely the most
-  famous, but there are few interesting new features regarding indexings, specially in Big Data contexts. One of them is parallelism that
-  now includes index scans. But also hash indexes - useful for denormalised data - have been improved, and new supports have been added
-  for unbalanced indexes (SP-GiST). In this talk I'd like to present simple examples to show how these features can help Data Analysts."
+    it: "PostgreSQL 10 offre diverse nuove funzionalità interessanti: il partizionamento dichiarativo e la replica logica sono sicuramente tra
+    le più attese, ma ci sono anche alcune interessanti novità che riguardano le indicizzazioni dei dati, specialmente in contesti Big Data.
+    Una di queste è il supporto del parallelismo per le letture indicizzate. Ma anche gli indici hash - utili per dati denormalizzati -
+      sono stati potenziati, e nuovi supporti sono stati aggiunti per gli indici non bilanciati (SP-GiST). In questo talk vengono esposti
+      semplici esempi per dimostrare come queste novità possono dare una mano ai data analyst."
+    en: "PostgreSQL 10 offre diverse nuove funzionalità interessanti: il partizionamento dichiarativo e la replica logica sono sicuramente tra
+    le più attese, ma ci sono anche alcune interessanti novità che riguardano le indicizzazioni dei dati, specialmente in contesti Big Data.
+    Una di queste è il supporto del parallelismo per le letture indicizzate. Ma anche gli indici hash - utili per dati denormalizzati -
+      sono stati potenziati, e nuovi supporti sono stati aggiunti per gli indici non bilanciati (SP-GiST). In questo talk vengono esposti
+      semplici esempi per dimostrare come queste novità possono dare una mano ai data analyst."
   subtype: Talk
   speakers: [4]
   language: it
@@ -261,18 +253,20 @@ this feature."
     it: "(Ri)scrivere l'SQL per ottenere le massime prestazioni"
     en: "(Re)writing SQL queries to be fast"
   description:
-    it: "SQL è un linguaggio dichiarativo. Basta scrivere quello che desideri ottenere e il RDBMS scoprirà come 
-    restituire un risultato corretto nel modo più veloce. Beh, non sempre. A volte avrà bisogno del tuo aiuto. 
-    Anche con un database perfettamente indicizzato e con statistiche aggiornate, l'ottimizzatore a volte non 
-    riesce a trovare la soluzione più performante. A volte per ottenere le migliori prestazioni, l’SQL deve essere 
-    riscritto in modo da renderlo più facilmente ottimizzabile. In questo talk verrà mostrato il problema generale 
-    e gli approcci alla sua soluzione attraverso l'illustrazione di un caso reale di utilizzo in un'implementazione ERP. 
+    it: "SQL è un linguaggio dichiarativo. Basta scrivere quello che desideri ottenere e il RDBMS scoprirà come
+    restituire un risultato corretto nel modo più veloce. Beh, non sempre. A volte avrà bisogno del tuo aiuto.
+    Anche con un database perfettamente indicizzato e con statistiche aggiornate, l'ottimizzatore a volte non
+    riesce a trovare la soluzione più performante. A volte per ottenere le migliori prestazioni, l’SQL deve essere
+    riscritto in modo da renderlo più facilmente ottimizzabile. In questo talk verrà mostrato il problema generale
+    e gli approcci alla sua soluzione attraverso l'illustrazione di un caso reale di utilizzo in un'implementazione ERP.
     In questo caso è stato ottenuto un miglioramento di 150 volte solo riscrivendo l’SQL in modo differente."
-    en: "SQL is a declarative language. Just write down what you want and the RDBMS will figure out how to return a correct result in the
-  fastest way. Well, not always. Sometimes it will need your help. Even with a perfectly indexed database and up-to-date statistics the optimizer
-  can fail to figure out the best plan in some cases. Sometimes to get the best performance SQL must be rewritten more for the optimizer than humans.
-  In this talk I will show the general problem and approaches to its solution through the illustration of a real world use case from an ERP
-  implementation. In this case a 150 times improvement has been obtained just by rephrasing the statement."
+    en: "SQL è un linguaggio dichiarativo. Basta scrivere quello che desideri ottenere e il RDBMS scoprirà come
+    restituire un risultato corretto nel modo più veloce. Beh, non sempre. A volte avrà bisogno del tuo aiuto.
+    Anche con un database perfettamente indicizzato e con statistiche aggiornate, l'ottimizzatore a volte non
+    riesce a trovare la soluzione più performante. A volte per ottenere le migliori prestazioni, l’SQL deve essere
+    riscritto in modo da renderlo più facilmente ottimizzabile. In questo talk verrà mostrato il problema generale
+    e gli approcci alla sua soluzione attraverso l'illustrazione di un caso reale di utilizzo in un'implementazione ERP.
+    In questo caso è stato ottenuto un miglioramento di 150 volte solo riscrivendo l’SQL in modo differente."
   subtype: Talk
   speakers: [2]
   language: it
@@ -283,20 +277,20 @@ this feature."
   id: 011
   title:
     it: "Estendere PostgreSQL con Go"
-    en: "Extending PostgreSQL with Go"
+    en: "Estendere PostgreSQL con Go"
   description:
-    it: "Avete mai pensato di estendere PostgreSQL con Go? Basta creare una libreria dinamica! In questo talk 
-    creeremo una estensione, mostrando le primitive che possiamo sfruttare e come utilizzarle al meglio in Go. 
-    Avremo modo di parlare di cgo, di buildmode, vedremo come creare delle librerie dinamiche e creeremo una 
+    it: "Avete mai pensato di estendere PostgreSQL con Go? Basta creare una libreria dinamica! In questo talk
+    creeremo una estensione, mostrando le primitive che possiamo sfruttare e come utilizzarle al meglio in Go.
+    Avremo modo di parlare di cgo, di buildmode, vedremo come creare delle librerie dinamiche e creeremo una
     funzione in Go richiamabile da PostgreSQL."
-    en: "Have you ever thought about extending PostgreSQL with Go? Just create a dynamic library! 
-    In this talk we will create an extension, showing the primitives that we can exploit and how to use Go 
-    in the best way. We will talk about cgo, buildmode, and we will see how to create dynamic libraries and 
-    we will create a Go function that can be recalled by PostgreSQL."
+    en: "Avete mai pensato di estendere PostgreSQL con Go? Basta creare una libreria dinamica! In questo talk
+    creeremo una estensione, mostrando le primitive che possiamo sfruttare e come utilizzarle al meglio in Go.
+    Avremo modo di parlare di cgo, di buildmode, vedremo come creare delle librerie dinamiche e creeremo una
+    funzione in Go richiamabile da PostgreSQL."
   subtype: Talk
   speakers: [18]
   language: it
-  complexity: "Intermediate"   
+  complexity: "Intermediate"
   #presentation: ""
   #video: ""
 -
@@ -336,8 +330,8 @@ this feature."
 -
   id: 014
   title:
-    it: "Keep calm and install PostgreSQL (using Ansible)"
-    en: "Keep calm and install PostgreSQL (using Ansible)"
+    it: "Keep calm e installa PostgreSQL (utilizzando Ansible)"
+    en: "Keep calm e installa PostgreSQL (utilizzando Ansible)"
   description:
     it: "Installare e configurare un qualsiasi software può essere alle volte un processo lungo e complesso.
 PostgreSQL è semplice da installare e la configurazione predefinita è già una buona e solida base di partenza.

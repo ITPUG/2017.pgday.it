@@ -70,6 +70,9 @@ navigationLinks:
  - {link: "/assets/Be_Partner_EN_PGDay_2017.pdf", text: "Become Partner", lang: "en"}
  - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Acquista il tuo biglietto", lang: "it"}
  - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Buy your ticket", lang: "en"}
+ - {permalink: "/pgbeer/", text: "PG_beer"}
+ - {permalink: "/staff/", text: "Staff"}
+ - {permalink: "/training/", text: "Training"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/blog/", text: "Blog"}
 #bottomNavigationLinks:
@@ -112,8 +115,8 @@ aboutTitle:
 aboutBlock:
  - {lang: "it", title: "Conferenza", image: "conference.jpg", text: "PGDay.IT è la conferenza italiana dedicata a PostgreSQL, uno dei progetti open-source di maggior successo. Il primo PGDay.IT si è svolto il 7 luglio 2007 e da allora la manifestazione ha avuto una cadenza annuale. Questa è l'undicesima edizione." }
  - {lang: "en", title: "Conference", image: "conference.jpg", text: "PGDay.IT is the Italian event dedicated to PostgreSQL, one of the most successful open-source projects. The first PGDay.IT took place on July 7, 2007 and since then the event has had an annual cadence. This is the eleventh edition." }
- - {lang: "it", title: "Be social", image: "workshop.jpg", text: "Come nostro costume: l'immancabile PG_beer! Sei disposto a rinunciarci? Ancora non possiamo dirti dove avrà luogo, ma, seguendoci sui nostri canali, lo scoprirai presto." }
- - {lang: "en", title: "Be social", image: "workshop.jpg", text: "Like our costume: the inevitable PG_beer! Are you willing to give up?" }
+ - {lang: "it", title: "Be social", image: "workshop.jpg", text: "Come nostro costume: l'immancabile pg_beer! Sei disposto a rinunciarci? Guarda la pagina dedica alla pg_beer ed iscriviti anche tu. Andiamo, non puoi mancare!" }
+ - {lang: "en", title: "Be social", image: "workshop.jpg", text: "Like our costume: the inevitable pg_beer! Are you willing to give up? Give a look at pg_beer page and subscribe. Come on, you can't miss!" }
 
 # Statistic Block
 statisticBlockTitle:
@@ -309,7 +312,14 @@ blogCommentsEnabled: true
 discusShortName: "PGDay.IT_2017"
 
 # Speakers List Block
+speakersImage: "speaker.jpg"
 showSessions: true
+
+# Staff Block
+staffBlockTitle:
+    it: "Il loro principale interesse: permettervi di seguire il PGDay.IT senza problemi"
+    en: "Their main interest is to allow you to follow PGDay.IT without any problems"
+
 
 # Team Block
 teamBlockTitle:
@@ -394,3 +404,212 @@ directionDetailsWideCards:
      - {link: "http://www.anticalocandaleonardo.com", text: "Antica Locanda Leonardo"}
      - {link: "http://www.hotel-bb.com/it/hotel/milano-sant-ambrogio.htm", text: "B&B Hotel Milano Sant'Ambrogio"}
      - {link: "http://www.hotelpanizza.it/", text: "Hotel Panizza"}
+
+# Pgbeer
+pgbeerDetailsImage: "pgbeer-details.jpg"
+pgbeerTitle:
+    it: "Old Fox Pub: 12 ottobre 2017, ore 20:00"
+    en: "Old Fox Pub: October 12th, 2017, time 20:00"
+pgbeerDescription:
+    it: "L'occasione per stare tutti insieme prima del PGDay.IT. Il menù prevede hamburger e due bevute. Ma non preoccupatevi: la scelta che avrete a disposizione è davvero vasta e potrete farla direttamente al Pub. Se volete farvi un'idea, sotto riportiamo le varie possibilità."
+    en: "The opportunity to be together before PGDay.IT. The menu includes hamburgers and two drinks. But do not worry: you have a lots of choice available and you can do it directly in the Pub. If you want to get an idea, we give you the possible options below."
+enablePgbeer: true
+
+# Pgbeer About Block
+#aboutPgbeerTitle:
+#    it: "Old Fox Pub"
+#    en: "Old Fox Pub"
+#aboutPgbeerDescription:
+#  it: "Il menù prevede hamburger e due bevute. Ma non preoccupatevi: la scelta che avrete a disposizione è davvero vasta e potrete farla direttamente al Pub. Se volete farvi un'idea, sotto riportiamo le varie possibilità"
+#  en: "Il menù prevede hamburger e due bevute. Ma non preoccupatevi: la scelta che avrete a disposizione è davvero vasta e potrete farla direttamente al Pub. Se volete farvi un'idea, sotto riportiamo le varie possibilità"
+
+pgbeerDetailsCards:
+ - {lang: "it", title: "Spicy Burger 150gr", information: 'Salsa bbq, salsa rosa, speck croccante, cetriolini, lattuga, pomodoro.'}
+ - {lang: "en", title: "Spicy Burger 150gr", information: 'Bbq sauce, pink sauce, crunchy speck, gherkins, lettuce, tomato.'}
+
+ - {lang: "it", title: "Bacon Cheese Burger 150gr", information: 'Senape, bacon grigliato, doppio formaggio, lattuga, cipolla.'}
+ - {lang: "en", title: "Bacon Cheese Burger 150gr", information: 'Mustard, grilled bacon, double cheese, lettuce, onion.'}
+
+ - {lang: "it", title: "Eggs Burger 150 gr", information: 'Hamburger, formaggio, uova all’occhio di bue, salsa tartara e cipolla.'}
+ - {lang: "en", title: "Eggs Burger 150 gr", information: 'Hamburger, cheese, fried eggs, onion and tartar sauce.'}
+
+ - {lang: "it", title: "Lu-Rid Burger 150gr", information: 'Salsa bbq, tabasco, lattuga, formaggio, peperoni e cipolle saltate.'}
+ - {lang: "en", title: "Lu-Rid Burger 150gr", information: 'Bbq sauce, tabasco, lettuce, cheese, peppers and salted onions.'}
+
+ - {lang: "it", title: "Hamburger Classico 150 gr", information: 'Formaggio, mayo, ketchup, pomodoro, lattuga, cipolla.'}
+ - {lang: "en", title: "Hamburger Classico 150 gr", information: 'Cheese, mayo, ketchup, tomato, lettuce, onion.'}
+
+ - {lang: "it", title: "Lamb Burger 150 gr", information: 'Carne di agnello, crema di pecorino, peperoni caramellati, rosmarino.'}
+ - {lang: "en", title: "Lamb Burger 150 gr", information: 'Lamb meat, cream cheese, caramel peppers, rosemary.'}
+
+ - {lang: "it", title: "M.O.B. More Onion Burger 150 gr", information: 'Bbq, onion rings, bacon, formaggio e lattuga.'}
+ - {lang: "en", title: "M.O.B. More Onion Burger 150 gr", information: 'Bbq, onion rings, bacon, cheese and lettuce.'}
+
+ - {lang: "it", title: "Veggie Burger", information: 'Hamburger di soia, ketchup, pomodoro, lattuga, cetriolini.'}
+ - {lang: "en", title: "Veggie Burger", information: 'Soy burgers, ketchup, tomato, lettuce, gherkins.'}
+
+# Pgbeer Tickets Block
+pgbeerTicketsTitle:
+    it: "Prezzo pg_beer"
+    en: "pg_beer price"
+pgbeerTicketsInfo:
+    it: "pg_beer: include 1 hamburger e 2 bevute"
+    en: "pg_beer: Pg_beer: includes 1 burger and 2 drinks"
+pgbeerTicketsOffers:
+ -
+  name:
+    it: "Pg_beer"
+    en: "Pg_beer"
+  price: "19,00"
+  priceCurrency: "€"
+  buyButtonLink: "https://www.eventbrite.it/e/biglietti-pg-beer-con-hamburger-37313142614"
+  buyButtonText:
+    it: "Acquistalo adesso"
+    en: "Get it now"
+  pgbeerTicketContentList:
+    it: ["Pg_beer - PGDay.IT 2017", "12 ottobre", "Milano"]
+    en: ["Pg_beer - PGDay.IT 2017", "October 12th", "Milan"]
+  validFrom: "2017-08-28T10:00"
+  validThrough: "2017-10-10T23:59"
+  disabled: false
+
+# Pgbeer Location Block
+pgbeerLocationBlockTitle: "Location"
+pgbeerLocationName: "Old Fox Pub"
+pgbeerLocationLink: "http://www.oldfoxpub.it/"
+pgbeerStreetAddress: "Piazza S. Agostino 1"
+pgbeerAddressLocality: "Milano"
+pgbeerddressLocalityRegion: "(MI)"
+pgbeerPostalCode: "20123"
+pgbeerAddressCountry: "Italy"
+pgbeerStartTime: "2017-10-12T19:45"
+pgbeerDoorTime: "19:30"
+pgbeerEndTime: "2017-10-12T23:59"
+viewOnMap: "View on Google Maps"
+pgbeerPlaceCoordinates: "45.458838, 9.170756"
+pgbeerMapCenterCoordinates: "45.458838, 9.170756"
+pgbeerMapMobileCenterCoordinates: "45.458838, 9.170756"
+
+# Training
+#trainingDetailsImage: "training-details.jpg"
+trainingTitle:
+    it: "PostgreSQL Training: informazioni generali."
+    en: "PostgreSQL Training: general information"
+trainingDescription:
+    it: "
+      <p>
+        I Training si svolgeranno nella stessa sede dove si svolgerà il PGDay.IT 2017
+        (Centro Congressi Stelline, Corso Magenta 61 - 20123 Milano). L'iscrizione può
+        essere effettuata attraverso Eventbrite. Al momento dell'iscrizione verrà richiesto
+        di selezionare la tematica e della lingua di interesse.<br/>
+        La giornata formativa comprende: coffee break e pranzo oltre all'eventuale materiale
+        didattico se e dove previsto. I partecipanti dovranno essere automunioti di portatile.
+      </p>
+
+      <p>
+        <b>IMPORTANTE</b>: I corsi verranno confermati al raggiungimento di 3 iscritti.
+        Nel caso il corso non venga confermato, verranno rimborsate le eventuali sottoscrizioni pervenute.
+      </p>"
+    en: "
+      <p>
+      Training will take place in the same venue of PGDay.IT 2017 (Centro Congressi Stelline, Corso Magenta 61 - 20123 Milano).
+      You can subscribe through Eventbrite. During registration you have to select the training and the language choosen. <br/>
+      The training day includes: coffee breaks and lunch as well as any didactic material if it is foreseen.
+      Attendees has to bring their own computer.
+      </p>
+
+      <p>
+       <b> IMPORTANT </ b>: Courses will be confirmed upon reaching 3 subscription. If the course is not confirmed, any subscriptions will be refunded.
+      </p>"
+enablePgbeer: true
+
+# Training About Block
+#aboutTrainingTitle:
+#    it: "PostgreSQL Training: come iscriversi?"
+#    en: "PostgreSQL Training: come iscriversi?"
+#aboutTrainingDescription:
+#    it: "I Training si svolgeranno nella stessa sede dove si svolgerà il PGDay.IT 2017 (Centro Congressi Stelline,
+#    Corso Magenta 61 - 20123 Milano (MI). L'iscrizione può essere effettuata attraverso Eventbrite.
+#    Al momento dell'iscrizione verrà richiesto di selezionare la tematica di interesse. La giornata formativa comprende:
+#      coffee break e pranzo oltre all'eventuale materiale didattico se previsto. I partecipanti dovranno essere automunioti di portatile.
+#      IMPORTANTE: I CORSI VERRANNO CONFERMATI AL REGGIUNGIMENTO DI 3 ISCRITTI. NEL CASO IL CORSO NON VENGA CONFERMATO VERRANNO
+#      RIMBORSATE LE EVENTUALI SOTTOSCRIZIONI PERVENUTE."
+#    en: "xxxxxxxxxxxxx"
+
+trainingDetailsCards:
+ - {lang: "it", title: "Barman", information: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx by 2ndQuadrant'}
+ - {lang: "en", title: "Barman", information: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx by 2ndQuadrant'}
+
+ - {lang: "it", title: "Primi passi con PostgreSQL", information: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx by 2ndQuadrnt'}
+ - {lang: "en", title: "PostgreSQl for beginner", information: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx by 2ndQuadrant'}
+
+ #- {lang: "it", title: "Training 3", information: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'}
+ #- {lang: "en", title: "Training 3", information: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'}
+
+ #- {lang: "it", title: "Training 4", information: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'}
+ #- {lang: "en", title: "Training 4", information: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'}
+trainingDetailsWideCards:
+  -
+   lang: "it"
+   title: "Come vengono gestiti i training? Quali sono le aziende che li erogano?"
+   subCards:
+    -
+     title: "Il ricavato derivante dalle quote di iscrizione, al netto delle spese per affitto aula e catering, verrà suddivisa
+     tra l'azienda erogante il corso e l'associazione ITPUG - ITalian PostgreSQl Users Group.<br/>
+     <b>Le aziende interessate a proporre PostgreSQL Training sono invitate a contattare gli organizzatori del PGDay.IT scrivendo a info@itpug.org o pgday@itpug.org</b><br/>
+        IMPORTANTE: l'associazione ITPUG - ITalian PostgreSQL Users Group non è responsabile della qualità formativa erogata."
+     links:
+      - {link: "https://www.2ndquadrant.com/it/formazione-postgresql/", text: "2ndQuadrant"}
+#      - {link: "", text: ""}
+  -
+   lang: "en"
+   title: "How are the trainings handled? What are the companies that deliver its?"
+   subCards:
+    -
+     title: "The income coming from subscription, deducted the cost of classroom and catering, will be shared between companies providing the training and ITPUG - ITalian PostgreSQl Users Group.
+     Companies interested in proposing PostgreSQL Training are invited to contact the organizers of PGDay.IT - please send an email to info@itpug.org or pgday@itpug.org
+     <b> IMPORTANT </ b>: ITPUG - ITalian PostgreSQL Users Group is not responsible for the quality of training provided."
+     links:
+      - {link: "https://www.2ndquadrant.com/it/formazione-postgresql/", text: "2ndQuadrant"}
+  #    - {link: "", text: ""}
+
+# Training Tickets Block
+trainingTicketsTitle:
+    it: "Quota iscrizione Training"
+    en: "Training registration fee"
+trainingTicketsInfo:
+    it: "Quota iscrizione Training - PGDay.IT 2017 - 12 ottobre 2017"
+    en: "Training registration fee - PGDay.IT 2017 - October 12, 2017"
+trainingTicketsOffers:
+ -
+  name:
+    it: "PostgreSQL Training"
+    en: "PostgreSQL Training"
+  price: "300,00 + IVA/VAT"
+  priceCurrency: "€"
+  buyButtonLink: "https://www.eventbrite.it/e/biglietti-postgresql-training-37341834432"
+  buyButtonText:
+    it: "Acquistalo adesso"
+    en: "Get it now"
+  trainingTicketContentList:
+    it: ["PostgreSQL Training - PGDay.IT 2017", "12 ottobre", "Milano"]
+    en: ["PostgreSQL Training - PGDay.IT 2017", "October 12th", "Milan"]
+  validFrom: "2017-08-28T10:00"
+  validThrough: "2017-10-10T23:59"
+  disabled: false
+
+  # Training Location Block
+  locationBlockTitle: "Location"
+  trainingLocationName: "Fondazione Stelline"
+  trainingLocationLink: "http://www.stelline.it/it/centro-congressi/home/centro-congressi.html"
+  trainingStreetAddress: "corso Magenta, 61"
+  trainingAddressLocality: "Milano"
+  trainingAddressLocalityRegion: "(MI)"
+  trainingPostalCode: "20123"
+  trainingAddressCountry: "Italy"
+  trainingStartTime: "2017-10-13T9:00"
+  trainingDoorTime: "08:30"
+  trainingEndTime: "2017-10-13T18:00"
+  trainingPlaceCoordinates: "45.4654533, 9.166099"
+  mapCenterCoordinates: "45.4654533, 9.166099"
+  mapMobileCenterCoordinates: "45.4654533, 9.166099"

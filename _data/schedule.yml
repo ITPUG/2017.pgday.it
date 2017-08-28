@@ -7,8 +7,8 @@
     it: "Il programma non è ancora definitivo e potrebbe subire variazioni"
     en: "The schedule is not yet definitive, there may be some variations"
   tracks:
-    - {title: "Sala_1", color: "#90be4e"}
-    - {title: "Sala_2", color: "#03a9f4"}
+    - {title: "Sala Volta", color: "#90be4e"}
+    - {title: "Sala Solari", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "08:30",
@@ -28,7 +28,7 @@
     - {
         startTime: "10:00",
     	endTime: "10:45",
-        sessionIds: [002, 009]
+        sessionIds: [009, 002]
     }
     - {
     	startTime: "10:45",
@@ -53,17 +53,17 @@
     - {
         startTime: "13:30",
     	endTime: "14:15",
-        sessionIds: [004, 012]
+        sessionIds: [012, 004]
     }
     - {
     	startTime: "14:15",
     	endTime: "15:00",
-    	sessionIds: [005, 013]
+    	sessionIds: [013, 005]
     }
     - {
         startTime: "15:00",
     	endTime: "15:45",
-        sessionIds: [006, 014]
+        sessionIds: [014, 006]
     }
     - {
     	startTime: "15:45",

@@ -1,0 +1,99 @@
+-
+  id: 0
+  name: "Patrizia"
+  surname: "Dabizzi"
+  title: "Desk registrazione partecipanti"
+  thumbnailUrl: patri.jpg
+  staff: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/106081143924147812423"}
+    - {name: "twitter", link: "https://twitter.com/DabizziPatrizia"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/patrizia-dabizzi-a1946865"}
+-
+  id: 1
+  name: "Barbara"
+  surname: "Milani"
+  title: "Desk registrazione partecipanti"
+  thumbnailUrl: bam965.jpg
+  staff: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/109223912225983995311"}
+    - {name: "twitter", link: "https://twitter.com/bam965"}
+    - {name: "github", link: "https://github.com/bam965"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/bam965"}
+-
+  id: 2
+  name: ""
+  surname: ""
+  title: ""
+  thumbnailUrl:
+  staff: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: ""}
+-
+  id: 0
+  name: "Rubens"
+  surname: "Souza"
+  title: "Master of Ceremony - English track"
+  thumbnailUrl: rubens.jpg
+  subStaff: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/rubens_ts"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rubensts/"}
+-
+  id: 1
+  name: ""
+  surname: ""
+  title: "Master of Ceremony - Track Italiana"
+  thumbnailUrl:
+  subStaff: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: ""}
+-
+  id: 2
+  name: ""
+  surname: ""
+  title: ""
+  thumbnailUrl:
+  subStaff: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: ""}
+-
+  id: 0
+  name: ""
+  surname: ""
+  title: ""
+  thumbnailUrl:
+  exStaff: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: ""}
+-
+  id: 1
+  name: ""
+  surname: ""
+  title: ""
+  thumbnailUrl:
+  exStaff: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: ""}
+-
+  id: 2
+  name: ""
+  surname: ""
+  title: ""
+  thumbnailUrl:
+  exStaff: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: ""}

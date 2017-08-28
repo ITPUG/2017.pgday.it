@@ -40,31 +40,64 @@
         // },
         "subEvent" : {
             "@type" : "Event",
-            "name" : "{{ site.hackathonTitle }}",
-            "description": "{{ site.hackathonRows[0].details }}",
+            "name" : "{{ site.pgbeerTitle }}",
+            "description": "{{ site.pgbeerRows[0].details }}",
             "image" : "{{ site.socialImageSrcGooglePlus | prepend: site.baseurl | prepend: site.url }}",
-            "url" : "{{ site.url | append: site.baseurl }}/hackathon/",
-            "startDate" : "{{ site.hackathonStartTime }}",
-            "doorTime" : "{{ site.hackathonDoorTime }}",
-            "endDate" : "{{ site.hackathonEndTime }}",
+            "url" : "{{ site.url | append: site.baseurl }}/pgbeer/",
+            "startDate" : "{{ site.pgbeerStartTime }}",
+            "doorTime" : "{{ site.pgbeerDoorTime }}",
+            "endDate" : "{{ site.pgbeerEndTime }}",
             "location" : {
                 "@type" : "Place",
-                "name" : "{{ site.hackathonLocationName }}",
-                "sameAs" : "{{ site.hackathonLocationLink }}",
+                "name" : "{{ site.pgbeerLocationName }}",
+                "sameAs" : "{{ site.pgbeerLocationLink }}",
                 "address" : {
                     "@type" : "PostalAddress",
-                    "streetAddress" : "{{ site.hackathonStreetAddress }}",
-                    "addressLocality" : "{{ site.hackathonAddressLocality }}",
-                    "addressRegion" : "{{ site.hackathonAddressLocalityRegion }}",
-                    "postalCode" : "{{ site.hackathonPostalCode }}",
-                    "addressCountry" : "{{ site.hackathonAddressCountry }}"
+                    "streetAddress" : "{{ site.pgbeerStreetAddress }}",
+                    "addressLocality" : "{{ site.pgbeerAddressLocality }}",
+                    "addressRegion" : "{{ site.pgbeerAddressLocalityRegion }}",
+                    "postalCode" : "{{ site.pgbeerPostalCode }}",
+                    "addressCountry" : "{{ site.pgbeerAddressCountry }}"
                 },
+                "subEvent" : {
+                    "@type" : "Event",
+                    "name" : "{{ site.trainingTitle }}",
+                    "description": "{{ site.trainingRows[0].details }}",
+                    "image" : "{{ site.socialImageSrcGooglePlus | prepend: site.baseurl | prepend: site.url }}",
+                    "url" : "{{ site.url | append: site.baseurl }}/training/",
+                    "startDate" : "{{ site.trainingStartTime }}",
+                    "doorTime" : "{{ site.trainingDoorTime }}",
+                    "endDate" : "{{ site.trainingEndTime }}",
+                    "location" : {
+                        "@type" : "Place",
+                        "name" : "{{ site.trainingLocationName }}",
+                        "sameAs" : "{{ site.trainingLocationLink }}",
+                        "address" : {
+                            "@type" : "PostalAddress",
+                            "streetAddress" : "{{ site.trainingStreetAddress }}",
+                            "addressLocality" : "{{ site.trainingAddressLocality }}",
+                            "addressRegion" : "{{ site.trainingAddressLocalityRegion }}",
+                            "postalCode" : "{{ site.trainingPostalCode }}",
+                            "addressCountry" : "{{ site.trainingAddressCountry }}"
+                        },
                 "geo" : {
                     "@type" : "GeoCoordinates",
-                    {% assign hackathonCoordinates = site.hackathonPlaceCoordinates | split:"," %}
-                    "latitude" : "{{ hackathonCoordinates[0] }}",
-                    "longitude" : "{{ hackathonCoordinates[1] }}"
+                    {% assign pgbeerCoordinates = site.pgbeerPlaceCoordinates | split:"," %}
+                    "latitude" : "{{ pgbeerCoordinates[0] }}",
+                    "longitude" : "{{ pgbeerCoordinates[1] }}"
                 }
+                "offers" : [
+                {% for pgbeerTicketsOffer in site.pgbeerTicketsOffers %}
+                {
+                    "@type" : "Offer",
+                    "name" : "{{ pgbeerTicketsOffer.name }}",
+                    "url" : "{{ pgbeerTicketsOffer.buyButtonLink }}",
+                    "price" : "{{ pgbeerTicketsOffer.price }}",
+                    "priceCurrency" : "{{ pgbeerTicketsOffer.priceCurrency }}",
+                    "validFrom" : "{{ pgbeerTicketsOffer.validFrom }}",
+                    "validThrough" : "{{ pgbeerTicketsOffer.validThrough }}"
+                }{% if forloop.index != forloop.length %},{% endif %}
+                {% endfor %}
             }
         },
         "offers" : [

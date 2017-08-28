@@ -1,0 +1,21 @@
+<!-- Prizes Section -->
+<section id="prizes" class="prizes">
+    <div class="content-wrapper">
+        <div class="col-md-8 col-md-offset-2">
+            <h4>{{ site.trainingTitle[page.lang] }}</h4>
+            <div class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0"><p>{{ site.trainingDescription[page.lang] }}</p></div>
+            {% for training in site.training %}
+            {% assign colWidth = 12 | divided_by: forloop.length %}
+            {% assign check = forloop.index | modulo:2 %}
+            <div class="training col-md-{{ colWidth }} col-xs-{{ colWidth }} animated hiding" data-animation="{% if forloop.index == 1 %}fadeInLeft{% elsif forloop.index == forloop.length %}fadeInRight{% else %}fadeInDown{% endif %}" data-delay="{% if check == 0 %}0{% else %}500{% endif %}">
+                <h4>{{ training.title }}</h4>
+                <div class="training-img-wrapper">
+                    <img class="img-responsive" src="{{ site.baseurl }}/img/training/{{ training.image }}" alt="Pg_beer">
+                </div>
+                <p>{{ training.info }}</p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End Prizes Section -->

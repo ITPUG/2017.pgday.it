@@ -1,0 +1,23 @@
+$pgbeer-img-width: 250px;
+$small-pgbeer-img-width: 110px;
+
+.pgbeer {
+	h3 {
+		margin-bottom: 20px;
+	}
+}
+.pgbeer {
+	margin-top: 50px;
+	&:nth-child(3) {
+		margin-top: 0;
+	}
+}
+.pgbeer-img-wrapper {
+	img {
+		max-width: $pgbeer-img-width;
+		margin: 0 auto;
+        @media (max-width: 767px) {
+            max-width: $small-pgbeer-img-width;
+        }
+	}
+}

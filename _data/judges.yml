@@ -1,65 +1,65 @@
-- 
+-
   id: 0
-  name: "_________________"
-  surname: "________________"
-  company: "____________________"
-  title: "_______________________________"
-  thumbnailUrl: ___________________.jpg
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
-- 
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  thumbnailUrl:
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "linkedin", link: ""}
+    - {name: "facebook", link: ""}
+-
   id: 1
-  name: "_________________"
-  surname: "________________"
-  company: "____________________"
-  title: "_______________________________"
-  thumbnailUrl: ___________________.jpg
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
-- 
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  thumbnailUrl:
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "linkedin", link: ""}
+    - {name: "facebook", link: ""}
+-
   id: 2
-  name: "_________________"
-  surname: "________________"
-  company: "____________________"
-  title: "_______________________________"
-  thumbnailUrl: ___________________.jpg
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
-- 
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  thumbnailUrl:
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "linkedin", link: ""}
+    - {name: "facebook", link: ""}
+-
   id: 3
-  name: "_________________"
-  surname: "________________"
-  company: "____________________"
-  title: "_______________________________"
-  thumbnailUrl: ___________________.jpg
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
-- 
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  thumbnailUrl:
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "linkedin", link: ""}
+    - {name: "facebook", link: ""}
+-
   id: 4
-  name: "_________________"
-  surname: "________________"
-  company: "____________________"
-  title: "_______________________________"
-  thumbnailUrl: ___________________.jpg
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/________________________"}
-    - {name: "twitter", link: "https://twitter.com/_______________"}
-    - {name: "github", link: "https://github.com/_____________________"}
-    - {name: "linkedin", link: "https://_______________"}
-    - {name: "facebook", link: "https://_____________________"}
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  thumbnailUrl:
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "linkedin", link: ""}
+    - {name: "facebook", link: ""}

@@ -1,0 +1,88 @@
+<!-- Begin Staff List-->
+<section id="staff" class="staff">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h4>{{ site.staffBlockTitle[page.lang] }}</h4>
+            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutStaff[page.lang] }}</p>
+        </div>
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h5 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Al desk per la registrazione, per il rinnovo della quota societaria e per accogliere nuovi iscritti</h5>
+            {% for staffMember in site.data.staff %} {% if staffMember.staff != null %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ staffMember.id }}">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: staffMember.thumbnailUrl }})">
+                        <div class="overlay solid-overlay"></div>
+                        <figcaption>
+                            <div class="col-md-8 col-xs-8 text-left">
+                                <h2 class="name">{{ staffMember.name }} <span>{{ staffMember.surname }}</span></h2>
+                                <div class="clearfix"></div>
+                                <span class="position">{{ staffMember.title }}</span>
+                            </div>
+                            {% for social in staffMember.social %}
+                            <a href="{{ social["link"] }}" target="_blank">
+                                <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+                                </svg>
+                            </a>
+                            {% endfor %}
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+            {% endif %} {% endfor %}
+        </div>
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h5 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Presenteranno la track Italiana e la track Inglese</h5>
+            {% for staffMember in site.data.staff %} {% if staffMember.subStaff != null %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ staffMember.id }}">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: staffMember.thumbnailUrl }})">
+                        <div class="overlay solid-overlay"></div>
+                        <figcaption>
+                            <div class="col-md-8 col-xs-8 text-left">
+                                <h2 class="name">{{ staffMember.name }} <span>{{ staffMember.surname }}</span></h2>
+                                <div class="clearfix"></div>
+                                <span class="position">{{ staffMember.title }}</span>
+                            </div>
+                            {% for social in staffMember.social %}
+                            <a href="{{ social["link"] }}" target="_blank">
+                                <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+                                </svg>
+                            </a>
+                            {% endfor %}
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+            {% endif %} {% endfor %}
+        </div>
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h5 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">xxxxxxxx</h5>
+            {% for staffMember in site.data.staff %} {% if staffMember.exStaff != null %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ staffMember.id }}">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: staffMember.thumbnailUrl }})">
+                        <div class="overlay solid-overlay"></div>
+                        <figcaption>
+                            <div class="col-md-8 col-xs-8 text-left">
+                                <h2 class="name">{{ staffMember.name }} <span>{{ staffMember.surname }}</span></h2>
+                                <div class="clearfix"></div>
+                                <span class="position">{{ staffMember.title }}</span>
+                            </div>
+                            {% for social in staffMember.social %}
+                            <a href="{{ social["link"] }}" target="_blank">
+                                <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+                                </svg>
+                            </a>
+                            {% endfor %}
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+            {% endif %} {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End Staff List -->

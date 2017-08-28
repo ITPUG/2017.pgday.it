@@ -13,7 +13,6 @@
 -
   group: "Platinum Partners"
   elements:
-#  elements:
 #    -
 #      name:
 #        it: "___________"
@@ -26,7 +25,6 @@
 -
   group: "Gold Partners"
   elements:
-#  elements:
 #    -
 #      name:
 #        it: "___________"
@@ -39,7 +37,6 @@
 -
   group: "Silver Partners"
   elements:
-#  elements:
 #    -
 #      name:
 #        it: "___________"
@@ -52,16 +49,15 @@
 -
   group: "Bronze Partners"
   elements:
-#  elements:
-#    -
-#      name:
-#        it: "___________"
-#        en: "___________"
-#      description:
-#        it: "___________"
-#        en: "___________"
-#      link: "https://www.____________"
-#      imageUrl: "_________.svg"
+    -
+      name:
+        it: "R3 GIS Srl - GmbH"
+        en: "R3 GIS Srl - GmbH"
+      description:
+        it: "Dal 2003 R3 GIS realizza soluzioni web per la gestione dei dati territoriali. L’esperienza maturata negli anni grazie al contatto diretto con gli utilizzatori finali degli applicativi, la continua formazione del personale e la partecipazione ad eventi internazionali del settore GIS ci hanno permesso di ideare prodotti flessibili, semplici ed estremamente efficaci. R3 GIS si è così affermata come fornitore affidabile e competente. L’impostazione multilingue delle soluzioni permette ad R3 GIS di essere presente anche sul mercato estero."
+        en: "R3 GIS works in the field of GIS and develops Web-GIS applications to manage and update different types of geographic information. Products and services are mainly targeted at central and local public administrations with webGIS software applications, which integrate the spatial component (topographic map, ortophoto, physical plans, cadastral maps, etc.) and databases used by municipalities and public administrations in general."
+      link: "http://www.r3-gis.com/"
+      imageUrl: "logo_r3gis_high.png"
 -
   group: "Media Partners"
   elements:

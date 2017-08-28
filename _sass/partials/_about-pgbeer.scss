@@ -1,19 +1,19 @@
-$hackathon-img-width: 250px;
-$small-hackathon-img-width: 150px;
+$pgbeer-img-width: 250px;
+$small-pgbeer-img-width: 150px;
 
-.hackathon-row {
+.pgbeer-row {
 	margin-bottom: 90px;
     @media (max-width: 767px) {
         margin-bottom: 50px;
     }
 	&.float-right {
-		.hackathon-img-wrapper {
+		.pgbeer-img-wrapper {
 			float: right;
 		}
-		.hackathon-details {
+		.pgbeer-details {
 			text-align: right;
 			margin-left: 0;
-			margin-right: $hackathon-img-width + 50px;
+			margin-right: $pgbeer-img-width + 50px;
 		    @media (max-width: 767px) {
 		    	text-align: left;
 				margin-right: 0;
@@ -21,22 +21,22 @@ $small-hackathon-img-width: 150px;
 		}
 	}
 }
-.hackathon-img-wrapper {
+.pgbeer-img-wrapper {
 	float: left;
     @media (max-width: 767px) {
         float: right;
     }
 	img {
-		max-width: $hackathon-img-width;
+		max-width: $pgbeer-img-width;
 		margin: 0 auto;
         @media (max-width: 767px) {
-            max-width: $small-hackathon-img-width;
+            max-width: $small-pgbeer-img-width;
         }
 	}
 }
-.hackathon-details {
+.pgbeer-details {
 	text-align: left;
-	margin-left: $hackathon-img-width + 50px;
+	margin-left: $pgbeer-img-width + 50px;
     @media (max-width: 767px) {
         margin-left: 0;
     }
