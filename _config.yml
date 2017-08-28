@@ -70,9 +70,9 @@ navigationLinks:
  - {link: "/assets/Be_Partner_EN_PGDay_2017.pdf", text: "Become Partner", lang: "en"}
  - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Acquista il tuo biglietto", lang: "it"}
  - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Buy your ticket", lang: "en"}
- - {permalink: "/pgbeer/", text: "PG_beer"}
- - {permalink: "/staff/", text: "Staff"}
- - {permalink: "/training/", text: "Training"}
+# - {permalink: "/pgbeer/", text: "PG_beer"}
+# - {permalink: "/staff/", text: "Staff"}
+# - {permalink: "/training/", text: "Training"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/blog/", text: "Blog"}
 #bottomNavigationLinks:
