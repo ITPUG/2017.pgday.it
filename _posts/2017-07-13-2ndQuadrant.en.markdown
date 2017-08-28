@@ -17,8 +17,8 @@ Historically this company has supported PGDay.IT for many years in its PostgreSQ
 
 Thanks for joining us again!
 
-We asked [Umair Shaid](https://www.linkedin.com/in/umair-shahid-9458b327/), 2ndQuadrant's Head of Marketing and Products, for a comment because he thought
-appropriate for 2ndQuadrant to be Partner of the PGDay.It edition 2017. This is his answer:
+We asked [Umair Shaid](https://www.linkedin.com/in/umair-shahid-9458b327/), 2ndQuadrant's Head of Marketing and Products, for a comment about why he thought
+appropriate for 2ndQuadrant to be a Partner of the PGDay.It 2017. This is his answer:
 
 _“2ndQuadrant has always been a strong supporter of the PostgreSQL community across the globe._
 
