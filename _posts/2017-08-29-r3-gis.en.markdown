@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "R3 GIS – New Partner of PGDay.IT"
+date:   2017-08-28 18:00:00
+isStaticPost: false
+permalink: /en/blog/r3-gis
+lang: en
+ref: r3-gis
+---
+
+<h6> We are very proud to announce that we have a new Partner: R3 GIS Srl </h6>
+
+Historically, a company connected to the Open Source world and this is the first time that [R3 GIS Srl](https://www.r3-gis.com/) is a Partner of PGDay.IT
+
+We hope this is is only the beginning!
+
+We asked [Paolo Viskanic](https://www.linkedin.com/in/paolo-viskanic-6561431/), CEO of R3 GIS, for a comment about why he thought it appropriate for [R3 GIS Srl](https://www.r3-gis.com/) to be a Partner of the PGDay.It 2017. 
+
+This is his answer:
+
+_“Because R3 GIS has always used and promoted open source software components. PostgreSQL and PostGIS are key components of our applications._
+
+_R3 GIS participates to several open source projects._
+
+_Keeping a community alive around open source projects is definitely a great commitment, which must be supported also economically."_
+
+**About R3 GIS Srl GmbH**
+
+[R3 GIS](https://www.r3-gis.com/) develops Web and mobile GIS applications to manage and update different types of assets: urban green areas, buildings, 
+road infrastructure and ski areas. 
+
+Products and services are mainly targeted at central public administrations and service companies. 
+
+Our products have a web component, a geographic interface and mobile apps for smartphones and tablets. 
+
+Currently over 1000 municipalities 
+and companies in Italy, Austria, Switzerland and Poland use R3 GIS applications to manage their assets.
