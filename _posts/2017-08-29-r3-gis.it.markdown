@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "R3 GIS - Nuovo partner del PGDay.IT"
-date:   2017-08-28 18:00:00
+date:   2017-08-28 10:00:00
 isStaticPost: false
 permalink: /it/blog/r3-gis
 lang: it
