@@ -25,15 +25,21 @@
 -
   group: "Gold Partners"
   elements:
-#    -
-#      name:
-#        it: "___________"
-#        en: "___________"
-#      description:
-#        it: "___________"
-#        en: "___________"
-#      link: "https://www.____________"
-#      imageUrl: "_________.svg"
+    -
+      name:
+        it: "Subito"
+        en: "Subito"
+      description:
+        it: "Subito è l’azienda n. 1 in Italia per comprare e vendere. Siamo nati a Milano nel 2007 e oggi, nel nostro Paese, ci posizioniamo stabilmente tra i primi 10 brand online più visitati e come primo servizio di annunci su web (fonte: Media Audiweb Total Digital Audience 2016).
+        Ogni giorno Subito può contare su un milione e ottocento mila visitatori unici, 45 milioni di pagine viste e 150 mila nuovi annunci pubblicati.
+        Da sempre il nostro obiettivo è offrire il servizio online di compravendita più semplice, veloce e sicuro d’Italia. Con Subito, persone alla prima esperienza e utenti professionali riescono a fare ottimi affari.
+        Dobbiamo i grandi risultati ottenuti ad una piattaforma intuitiva ed efficace e a un’offerta ampia e di qualità, con contenuti controllati per una maggiore sicurezza. E poi, certo, a una squadra instancabile fatta di persone che lavorano, con passione, per le persone.
+        Subito è parte di Schibsted Media Group, multinazionale norvegese che opera con successo in 29 Paesi nei mercati editoriale (quotidiani e free press), online (siti di annunci di compravendita e servizi digitali) e mobile. Il Gruppo è stato fondato nel 1839 e oggi conta 6.900 dipendenti."
+        en: "Founded in 2007 in Milan, Subito.it is the company owning Subito's digital platform. Subito aims to offer the easiest, fastest and safest buying and selling online service to make good deals through service’s efficiency and quality and variety of the offer.
+        With over 5 million ads in 37 different product categories diversified per geographical locations, more than 8 million unique users monthly and over 45 million page views daily, Subito is the first classified service and is among the top six most visited websites in Italy (source: Audiweb Total Digital Audience 2016 average).
+        Subito is part of Schibsted Media Group (www.schibsted.com), a Norwegian multinational company founded in 1839. The Group has 6,900 employees and operates successfully in 29 Countries in publishing (newspapers, TV and free press), digital (news and classified ads) and mobile (services) markets."
+      link: "https://www.subito.it/"
+      imageUrl: "logo_SUBITO.jpg"
 -
   group: "Silver Partners"
   elements:
