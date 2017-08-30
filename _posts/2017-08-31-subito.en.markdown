@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Subito: Speaker in 2015, Partner in 2017"
+date:   2017-08-31 12:00:00
+isStaticPost: false
+permalink: /en/blog/subito
+lang: en
+ref: subito
+---
+
+<h6>We are very proud to announce that we have a new Partner: Subito</h6>
+
+Nel 2015, [Subito](https://www.subito.it/) presentò la sua architettura database basata su PostgreSQL, rappresentando uno dei casi d'uso più interessanti visti al PGDay.IT 
+con numeri come: "[1.500.000 visitatori unici, 60.000.000 pagine visitate al giorno, 150.000 nuovi annunci pubblicati](https://twitter.com/_GBartolini_/status/657559069776027648)", 
+numeri così sono la migliore promozione per PostgreSQL. 
+
+In 2015, [Subito](https://www.subito.it/) introduced their database architecture based on PostgreSQL, representing one of the most 
+interesting use case seen at PGDay.IT, with numbers like: "[1,500,000 unique visitors, 60,000,000 pages visited per day, 150,000 new ads published](https://twitter.com/_GBartolini_/status/657559069776027648)", 
+numbers like these are the best promotion for PostgreSQL. 
+
+Thank you very much for joining us!
+
+Inevitably, we expect a lightning talk from you, right?
+
+We asked [Marco Cupidi](https://www.linkedin.com/pulse/hello-world-marco-cupidi), CTO in [Subito](https://www.subito.it/), for a comment about whyhe thought it appropriate for [Subito](https://www.subito.it/) to be a Partner of the PGDay.It 2017. 
+
+This is his answer:
+
+_“Subito has made PostgreSQL an indispensable component of its architecture._
+
+_We believe that PGDay is a fundamental meeting to share experiences and keep us update._
+
+_We want to be there and we want to support ITPUG for the valuable work they are carring out.“_
+
+**About Subito?**
+
+Founded in 2007 in Milan, [Subito](https://www.subito.it/) is the company owning Subito's digital platform. Subito aims to offer the easiest, 
+fastest and safest buying and selling online service to make good deals through service’s efficiency and quality and variety of the offer.
+
+With over 5 million ads in 37 different product categories diversified per geographical locations, more than 8 million unique users monthly and over 
+45 million page views daily, Subito is the first classified service and is among the top six most visited websites in Italy (source: Audiweb Total 
+Digital Audience 2016 average).
+
+Subito is part of [Schibsted Media Group](http://www.schibsted.com/), a Norwegian multinational company founded in 1839. The Group has 6,900 employees 
+and operates successfully in 29 Countries in publishing (newspapers, TV and free press), digital (news and classified ads) and mobile (services) markets.

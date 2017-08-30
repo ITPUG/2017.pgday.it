@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Subito: Speaker nel 2015, Partner nel 2017"
+date:   2017-08-31 12:00:00
+isStaticPost: false
+permalink: /it/blog/subito
+lang: it
+ref: subito
+redirect-from:
+ - /blog/subito
+---
+
+<h6>Siamo molto orgogliosi di annunciare che abbiamo un nuovo Partner: Subito</h6>
+
+Nel 2015, [Subito](https://www.subito.it/) presentò la sua architettura database basata su PostgreSQL, rappresentando uno dei casi d'uso più interessanti visti al PGDay.IT 
+con numeri come: "[1.500.000 visitatori unici, 60.000.000 pagine visitate al giorno, 150.000 nuovi annunci pubblicati](https://twitter.com/_GBartolini_/status/657559069776027648)", 
+numeri così sono la migliore promozione per PostgreSQL. 
+
+Grazie per essere ancora parte del del PGDay.It!
+
+Inevitabile aspettarci un lightning talk da parte vostra, giusto?
+
+Abbiamo chiesto a [Marco Cupidi](https://www.linkedin.com/pulse/hello-world-marco-cupidi), CTO di [Subito](https://www.subito.it/), perché ha ritenuto opportuno per [Subito](https://www.subito.it/) essere Partner del PGDay.IT edizione 2017. 
+
+Questo è ciò che ci ha detto:
+
+_“Subito ha fatto di PostgreSQL un componente imprescindibile della propria architettura._
+
+_Riteniamo che il PGDay sia un appuntamento fondamentale per condividere le esperienze e tenerci aggiornati._
+
+_Vogliamo esserci e vogliamo supportare ITPUG per il prezioso lavoro che porta avanti.“_
+
+**Chi è Subito?**
+
+[Subito](https://www.subito.it/) è l’azienda n. 1 in Italia per comprare e vendere. Siamo nati a Milano nel 2007 e oggi, nel nostro Paese, ci posizioniamo stabilmente tra 
+i primi 10 brand online più visitati e come primo servizio di annunci su web (fonte: Media Audiweb Total Digital Audience 2016).
+
+Ogni giorno Subito può contare su un milione e ottocento mila visitatori unici, 45 milioni di pagine viste e 150 mila nuovi annunci pubblicati.
+
+Da sempre il nostro obiettivo è offrire il servizio online di compravendita più semplice, veloce e sicuro d’Italia. Con Subito, persone alla prima 
+esperienza e utenti professionali riescono a fare ottimi affari.
+
+Dobbiamo i grandi risultati ottenuti ad una piattaforma intuitiva ed efficace e a un’offerta ampia e di qualità, con contenuti controllati per una 
+maggiore sicurezza. E poi, certo, a una squadra instancabile fatta di persone che lavorano, con passione, per le persone.
+
+Subito è parte di [Schibsted Media Group](http://www.schibsted.com/), multinazionale norvegese che opera con successo in 29 Paesi nei mercati editoriale (quotidiani e free press), 
+online (siti di annunci di compravendita e servizi digitali) e mobile. Il Gruppo è stato fondato nel 1839 e oggi conta 6.900 dipendenti.
