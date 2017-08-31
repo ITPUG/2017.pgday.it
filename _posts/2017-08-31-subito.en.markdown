@@ -10,23 +10,19 @@ ref: subito
 
 <h6>We are very proud to announce that we have a new Partner: Subito</h6>
 
-Nel 2015, [Subito](https://www.subito.it/) presentò la sua architettura database basata su PostgreSQL, rappresentando uno dei casi d'uso più interessanti visti al PGDay.IT 
-con numeri come: "[1.500.000 visitatori unici, 60.000.000 pagine visitate al giorno, 150.000 nuovi annunci pubblicati](https://twitter.com/_GBartolini_/status/657559069776027648)", 
-numeri così sono la migliore promozione per PostgreSQL. 
-
 In 2015, [Subito](https://www.subito.it/) introduced their database architecture based on PostgreSQL, representing one of the most 
-interesting use case seen at PGDay.IT, with numbers like: "[1,500,000 unique visitors, 60,000,000 pages visited per day, 150,000 new ads published](https://twitter.com/_GBartolini_/status/657559069776027648)", 
+interesting use case that will be at PGDay.IT with numbers such as: "[1,500,000 unique visitors, 60,000,000 pages visited per day, 150,000 new ads published](https://twitter.com/_GBartolini_/status/657559069776027648)", 
 numbers like these are the best promotion for PostgreSQL. 
 
-Thank you very much for joining us!
+hank you very much for joining us!
 
-Inevitably, we expect a lightning talk from you, right?
+Inevitably, we can expect a lightning talk from you, right?
 
-We asked [Marco Cupidi](https://www.linkedin.com/pulse/hello-world-marco-cupidi), CTO in [Subito](https://www.subito.it/), for a comment about whyhe thought it appropriate for [Subito](https://www.subito.it/) to be a Partner of the PGDay.It 2017. 
+We asked [Marco Cupidi](https://www.linkedin.com/pulse/hello-world-marco-cupidi), CTO in [Subito](https://www.subito.it/), for a comment on why he thought it appropriate to be a Partner of PGDay.IT 2017. 
 
 This is his answer:
 
-_“Subito has made PostgreSQL an indispensable component of its architecture._
+_“[Subito](https://www.subito.it/) has made PostgreSQL an indispensable component of its architecture._
 
 _We believe that PGDay is a fundamental meeting to share experiences and keep us update._
 
