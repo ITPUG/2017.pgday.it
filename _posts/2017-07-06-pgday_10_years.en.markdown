@@ -49,6 +49,9 @@ To remember what happened 10 years ago, we did some research and have found some
 * [Year 2008: About European PGDay 2008](https://www.postgresql.org/about/event/698/)
 * [June 2008: Secondo convegno italiano dedicato a PostgreSQL - PGDay 2008](http://www.psql.it/?q=node/152)
 * [October 2008: Il Comune di Prato capitale d'Europa per l'open source](http://comunicati.comune.prato.it/generali/?action=dettaglio&comunicato=14200800001006)
+* [October 2008: PGDay - day 1](https://andreas.scherbaum.la/blog/archives/465-PGDay.org-first-day.html)
+* [October 2008: PGDay - day 2](https://andreas.scherbaum.la/blog/archives/467-PGDay.org-second-day.html)
+* [October 2008: A Sunday in Tuscany](https://andreas.scherbaum.la/blog/archives/470-A-sunday-in-Tuscany.html)
 
 Happy reading!
 
