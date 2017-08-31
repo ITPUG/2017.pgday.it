@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PGDay.It Partnership: 2ndQuadrant"
+title:  "PGDay.IT Partnership: 2ndQuadrant"
 date:   2017-07-13 09:00:00
 image:  2ndQ_logo_color.jpg
 isStaticPost: false
@@ -9,7 +9,7 @@ lang: en
 ref: 2ndQuadrant
 ---
 
-<h5> 2ndQuadrant - one of the historical Partners of PGDay.It</h5>
+<h5> 2ndQuadrant - one of the historical Partners of PGDay.IT</h5>
 
 We are very proud to announce that we have the first Partner of the PGDay.IT: [2ndQuadrant](https://www.2ndquadrant.com)
 
