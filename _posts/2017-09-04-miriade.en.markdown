@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "PGDay.IT Partnership: Miriade"
+date:   2017-08-31 04:00:00
+isStaticPost: false
+permalink: /en/blog/miriade
+lang: en
+ref: miriade
+---
+
+<h6>We are very proud to announce that another historic Partner is still with us: Miriade</h6>
+
+In 2013, [Miriade](http://www.miriade.it/) has done the first appearance alongside PGDay.IT and since then, at each edition 
+[Miriade](http://www.miriade.it/) is with us.
+
+Thanks for being still part of the PGDay.IT!
+
+We asked [Maurizio Novello](https://www.linkedin.com/in/maurizio-novello-82bb927/), CEO di [Miriade](http://www.miriade.it/), for a comment about whyhe thought it appropriate for [Miriade](http://www.miriade.it/) 
+to be a Partner of the PGDay.It 2017. 
+
+This is his answer:
+
+_“We have been supporting ITPUG for several years, because we strongly believe in open innovation and in the importance of being part of a community of enthusiasts who work to make technology more accessible._
+
+_We look forward to discovering all about the appointment in Milan!“._
+
+**About Miriade**
+
+[Miriade](http://www.miriade.it/) is an IT consulting firm committed to cultivate the culture of change and specialized in middleware, cloud and machine learning solutions.
+
+The company is composed by  group of digital natives who play in a world that moves fast and who change the rules of the game when it’s necessary to face new challenges.
+
+Miriade believes in the value of beauty and invest in its territory in order to have a positive impact on its community.

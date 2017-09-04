@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "PGDay.IT Partnership: Miriade"
+date:   2017-08-31 04:00:00
+isStaticPost: false
+permalink: /it/blog/miriade
+lang: it
+ref: miriade
+redirect-from:
+ - /blog/miriade
+---
+
+<h6>Siamo molto orgogliosi di annunciare che un altro Partner storico è con noi anche quest'anno: Miriade</h6>
+
+Nel 2013, [Miriade](http://www.miriade.it/) ha fatto la sua prima apparizione a fianco del PGDay.IT e da allora, ad ogni 
+edizione è stato al nostro fianco.
+
+Grazie per essere ancora parte del del PGDay.IT!
+
+Abbiamo chiesto a [Maurizio Novello](https://www.linkedin.com/in/maurizio-novello-82bb927/), CEO di [Miriade](http://www.miriade.it/), 
+perché ha ritenuto opportuno per [Miriade](http://www.miriade.it/) essere Partner del PGDay.IT edizione 2017. 
+
+Questo è ciò che ci ha detto:
+
+_“Sosteniamo l'ITPUG da tempo, perché crediamo fortemente nell'open innovation e nell'importanza di far parte di comunità di appassionati che si confrontano per rendere la tecnologia sempre più accessibile e aperta._
+
+_Non vediamo l'ora di scoprire cosa ci riserva l'appuntamento di Milano!“_
+
+**Chi è Miriade?**
+
+[Miriade](http://www.miriade.it/) è una società di consulenza informatica impegnata a coltivare la cultura del cambiamento. Si occupa di middleware, cloud e machine learning.
+
+E' composta da un gruppo di nativi digitali che si divertono a giocare in un mondo che si muove veloce e a cambiare le regole del gioco quando è tempo di aprirsi alle novità.
+
+Profondamente convinta del valore della bellezza, propone servizi che si alimentano nell’interazione e nel sostegno costante alla comunità e al territorio che la ospitano.
