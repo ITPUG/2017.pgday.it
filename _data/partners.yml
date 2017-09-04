@@ -40,6 +40,19 @@
         Subito is part of Schibsted Media Group (www.schibsted.com), a Norwegian multinational company founded in 1839. The Group has 6,900 employees and operates successfully in 29 Countries in publishing (newspapers, TV and free press), digital (news and classified ads) and mobile (services) markets."
       link: "https://www.subito.it/"
       imageUrl: "logo_SUBITO.jpg"
+    -
+      name:
+        it: "Miriade"
+        en: "Miriade"
+      description:
+        it: "Miriade è una società di consulenza informatica impegnata a coltivare la cultura del cambiamento. Ci occupiamo di middleware, cloud e machine learning.
+        Siamo un gruppo di nativi digitali: ci divertiamo a giocare in un mondo che si muove veloce e a cambiare le regole del gioco quando è tempo di aprirsi alle novità.
+        Profondamente convinti del valore della bellezza, proponiamo servizi che si alimentano nell’interazione e nel sostegno costante alla comunità e al territorio che ci ospitano."
+        en: "Miriade is an IT consulting firm committed to cultivate the culture of change. We specialize in middleware, cloud and machine learning solutions.
+        We’re a team composed by digital natives: we play in a world that moves fast and we change the rules of the game when it’s necessary to face new challenges.
+        We believe in the value of beauty and we invest in our territory in order to have a positive impact on our community."
+      link: "http://www.miriade.it/"
+      imageUrl: "Miriade.png"      
 -
   group: "Silver Partners"
   elements:
