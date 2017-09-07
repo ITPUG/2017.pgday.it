@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Seeweb: Partner of PGDay.IT"
+date:   2017-09-08 04:00:00
+isStaticPost: false
+permalink: /en/blog/seeweb
+lang: en
+ref: seeweb
+---
+
+<h6>Seeweb promote Open Source and is Partner of PGDay.IT</h6>
+
+We are very happy to announce that another Partner decide to support PGDay.IT: Seeweb
+
+Thank you for joining us!
+
+We asked [Marco Cristofanilli](https://www.linkedin.com/in/marcocristofanilli/) for a comment about whyhe thought it appropriate for [Seeweb](https://www.seeweb.it/)
+to be a Partner of the PGDay.IT 2017. 
+
+This is his answer:
+
+_"We are always close to the open source world as we believe it is a great opportunity for companies and one of the main drivers of change in our society._
+
+_For this reason, we follow very closely the community and we are happy to support events like the PGday."_
+
+Thanks for being part of the PGDay.IT!
+
+**About Seeweb**
+
+[Seeweb](https://www.seeweb.it/) is one of the leading providers in the market of Cloud Computing, Hosting and Colocation in italy. Today particularly focused on a very wide offer of Cloud products. 
+
+These solutions are developed in its own server Farm of Frosinone and Milan by extremely well qualified technicians and account managers team. 

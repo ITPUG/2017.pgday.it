@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Seeweb: Partner del PGDay.iT"
+date:   2017-09-08 04:00:00
+isStaticPost: false
+permalink: /it/blog/seeweb
+lang: it
+ref: seeweb
+redirect-from:
+ - /blog/seeweb
+---
+
+<h6>Seeweb promuove l’Open Source ed è Partner del PGDay.IT</h6>
+
+Siamo felici di annunciare che un nuovo Partner ha deciso di sostenere il PGDay.IT: Seeweb
+
+Grazie per essere con noi!
+
+Abbiamo chiesto a [Marco Cristofanilli](https://www.linkedin.com/in/marcocristofanilli/) perché ha ritenuto opportuno per [Seeweb](https://www.seeweb.it/) 
+essere Partner del PGDay.IT edizione 2017. 
+
+Questo è ciò che ci ha detto:
+
+_"Siamo da sempre vicini al mondo open source in quanto riteniamo che sia un’opportunità vincente e rappresenta uno dei motori del cambiamento della società di oggi._
+
+_Per tale motivo, seguiamo da vicino la comunity e appoggiamo con piacere eventi come il PGday."_
+
+Grazie per essere parte del del PGDay.IT!
+
+**Chi è Seeweb?**
+
+[Seeweb](https://www.seeweb.it/) è una società leader nei servizi di Cloud Computing, Hosting e Datacenter che offre soluzioni IT dal 1998. Presente in Italia con quattro datacenter certificati (Milano, Sesto San Giovanni e Frosinone), è un marchio simbolo di servizi di alta qualità unici quanto a tecnologia, scalabilità e rapporto prezzo/prestazioni.
+
+Tra i primi registranti di domini in Italia e primi in assoluto nell’introdurre sul mercato italiano soluzioni cloud (2009), fornisce una vasta gamma di prodotti e servizi in ambito SaaS, IaaS e PaaS, nonché soluzioni che vanno dall’hosting condiviso al server dedicato, dallo streaming alla colocation.
+
+Seeweb si rivolge al mercato internet fornendo soluzioni tecnologiche per la presenza in rete che sono sviluppate da un team qualificato di tecnici e account manager sempre disponibili a fornire risposte concrete e innovative. 
+L’azienda segue il cliente dal momento della progettazione dell’architettura, individuando la soluzione migliore per il suo business e supportandolo nelle successive fasi della crescita sul web tramite le attività di consulenza e grazie a un’assistenza tecnica rapida e H24.
+ 
+Gli obiettivi Seeweb sono da sempre quelli di sviluppare un’offerta completa e integrata di prodotti che soddisfano i fabbisogni dei clienti, fornire prodotti a prezzi competitivi, garantendo tecnologia, affidabilità e sicurezza e instaurare con i clienti relazioni commerciali stabili, improntate sulla serietà e trasparenza.
