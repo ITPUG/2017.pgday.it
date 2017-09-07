@@ -77,6 +77,15 @@
         en: "R3 GIS works in the field of GIS and develops Web-GIS applications to manage and update different types of geographic information. Products and services are mainly targeted at central and local public administrations with webGIS software applications, which integrate the spatial component (topographic map, ortophoto, physical plans, cadastral maps, etc.) and databases used by municipalities and public administrations in general."
       link: "http://www.r3-gis.com/"
       imageUrl: "logo_r3gis_high.png"
+    -
+      name:
+        it: "20tab"
+        en: "20tab"
+      description:
+        it: "Il team 20tab si occupa di sviluppo software principalmente in python per grandi Aziende o Organizzazioni internazionali. Ideale proseguimento del percorso intrapreso dalla società 'madre' Unbit con prodotti quali uWSGI e UnrealEnginePython, è molto attiva anche a livello di formazione e nel settore del gaming e della simulazione 3D."
+        en: "The 20tab team deals mainly with software development in python for large corporations or international organizations. Ideal continuation of the path taken its mother company Unbit, with products such as uWSGI and UnrealEnginePython, is also very active in training and in gaming and 3D simulation."
+      link: "https://www.20tab.com"
+      imageUrl: "20tab-01.png"      
 -
   group: "Media Partners"
   elements:
