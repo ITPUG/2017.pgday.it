@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "20tab: new Partner of PGDay.IT"
+date:   2017-09-07 04:00:00
+isStaticPost: false
+permalink: /en/blog/20tab
+lang: en
+ref: 20tab
+---
+
+<h6>New Partner for PGDay.IT but not new for PostgreSQL: a warm welcome to 20tab.</h6>
+
+We asked [Gabriele Giaccari](https://www.linkedin.com/in/gabriele-giaccari-1502a837/), co-founder of [20tab](http://www.20tab.com/) with [Roberto De Ioris](https://www.linkedin.com/in/roberto-de-ioris-a1311013/) and [Raffaele Colace](https://www.linkedin.com/in/raffaele-colace-9217771b/), for a comment about whyhe thought it appropriate for [20tab](http://www.20tab.com/) s.r.l. 
+to be a Partner of the PGDay.IT 2017. 
+
+This is his answer:
+
+_"20tab has used Postgres in every project since its foundation, in 2012, for private customers, public administration and internal projects._ 
+
+_This choice has always given us great satisfaction and we try to use this tool in its most advanced form, such as its recent implementations for full-text search._ 
+
+_We have always been trying to make our contribution to the community both sharing knowledge and providing economical support."_
+
+Thanks for being part of the PGDay.IT!
+
+**About 20tab**
+
+The [20tab](http://www.20tab.com/) team deals mainly with software development in python for large corporations or international organizations. 
+
+Ideal continuation of the path taken by its mother company Unbit, with products such as uWSGI and UnrealEnginePython, is also very active in training and in gaming and 3D simulation.
