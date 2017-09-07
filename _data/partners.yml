@@ -85,7 +85,20 @@
         it: "Il team 20tab si occupa di sviluppo software principalmente in python per grandi Aziende o Organizzazioni internazionali. Ideale proseguimento del percorso intrapreso dalla società 'madre' Unbit con prodotti quali uWSGI e UnrealEnginePython, è molto attiva anche a livello di formazione e nel settore del gaming e della simulazione 3D."
         en: "The 20tab team deals mainly with software development in python for large corporations or international organizations. Ideal continuation of the path taken its mother company Unbit, with products such as uWSGI and UnrealEnginePython, is also very active in training and in gaming and 3D simulation."
       link: "https://www.20tab.com"
-      imageUrl: "20tab-01.png"      
+      imageUrl: "20tab-01.png"
+    #-
+      name:
+        it: "Seeweb"
+        en: "Seeweb"
+      description:
+        it: "Seeweb è una società leader nei servizi di Cloud Computing, Hosting e Datacenter che offre soluzioni IT dal 1998. Presente in Italia con quattro datacenter certificati (Milano, Sesto San Giovanni e Frosinone), è un marchio simbolo di servizi di alta qualità unici quanto a tecnologia, scalabilità e rapporto prezzo/prestazioni.
+        Tra i primi registranti di domini in Italia e primi in assoluto nell’introdurre sul mercato italiano soluzioni cloud (2009), fornisce una vasta gamma di prodotti e servizi in ambito SaaS, IaaS e PaaS, nonché soluzioni che vanno dall’hosting condiviso al server dedicato, dallo streaming alla colocation.
+        Seeweb si rivolge al mercato internet fornendo soluzioni tecnologiche per la presenza in rete che sono sviluppate da un team qualificato di tecnici e account manager sempre disponibili a fornire risposte concrete e innovative.
+        L’azienda segue il cliente dal momento della progettazione dell’architettura, individuando la soluzione migliore per il suo business e supportandolo nelle successive fasi della crescita sul web tramite le attività di consulenza e grazie a un’assistenza tecnica rapida e H24.
+        Gli obiettivi Seeweb sono da sempre quelli di sviluppare un’offerta completa e integrata di prodotti che soddisfano i fabbisogni dei clienti, fornire prodotti a prezzi competitivi, garantendo tecnologia, affidabilità e sicurezza e instaurare con i clienti relazioni commerciali stabili, improntate sulla serietà e trasparenza."
+        en: "Seeweb is one of the leading providers in the market of Cloud Computing, Hosting and Colocation in italy. Today particularly focused on a very wide offer of Cloud products. These solutions are developed in its own server Farm of Frosinone and Milan by extremely well qualified technicians and account managers team."
+      link: "https://www.seeweb.it/"
+      imageUrl: "seeweb.png"      
 -
   group: "Media Partners"
   elements:
