@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Dear Boss, I would like to attend PGDay.IT"
+date:   2017-09-11 04:00:00
+isStaticPost: false
+permalink: /en/blog/dear-boss
+lang: en
+ref: dear-boss
+---
+
+I suppose that most of us have happened to receive a "no" from our boss to our request to attend important conferences that would improve our skills, 
+such as [PGDay.IT](http://2017.pgday.it/en/).
+
+Before we decide to take some days off, buy the ticket and so on, maybe we should ask if we best argued our request.
+
+So, what is better than a good e-mail to our boss?
+
+<h6>Subject: Dear Boss, I would like to attend PGDay.IT 2017</h6>
+
+Dear Boss,
+I am writing to you about a training and networking opportunity that will increase my skills, bringing great value to our organization.
+
+I understand that there are always budget constraints, but I firmly believe that this conference can bring many advantages in respect to the price of a ticket.
+
+[PGDay.IT](http://2017.pgday.it/en/) is an event organized by the Italian PostgreSQL Association [(ITPUG - ITalian PostgreSQL Users Group)](http://www.itpug.org/index.it.html), 
+and has reached its eleventh edition. It will take place in Milan on October 13, 2017.
+
+Here there are a couple of the main reasons why I would like to participate:
+
+* [Italian and European speakers](http://2017.pgday.it/en/speakers/) will participate to share their skills and knowledge.
+
+* Technical presentations will go deeper into the kind of problems that companies face while implementing [PostgreSQL](https://www.postgresql.org/).
+
+There are so many benefits for the company that will come of my participation in [PGDay.IT 2017](http://2017.pgday.it/en/). 
+Starting with the fact that I will share the know-how that I will acquire about [PostgreSQL](https://www.postgresql.org/), the opportunity to interact with 
+other participants and with speakers so as to solve some of the issues we are facing in order to reach our goals quickly and consciously.
+
+In addition my participation, this can be seen as an integral part of the training plan that the company is obliged to give.
+
+But the most important note is the economic advantage of the adoption of [PostgreSQL](https://www.postgresql.org/) by [reducing the licensing costs](https://www.postgresql.org/about/licence/) 
+that today prevent us from investing in research and development, enabling us to be more competitive on the market.
+
+You can find out more information looking at the conference web site at [http://2017.pgday.it/en/](http://2017.pgday.it/en/).
+
+If I sign up now, we can receive the [Early Bird fee, valid until September 15 (47 € instead of 95 €)](https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231)
+
+I think this is really a great opportunity for our organization.
+
+Thank you in advance for your attention and I look forward for your approval of my participation at [PGDay.IT](http://2017.pgday.it/en/).
+
+I suggest: Before September 15th would be perfect and [**we have only 4 days**](https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231)
+
+Best regards,
+
+_Send!_
+
+---
+
+<h6>See you in Milan on October 13th, 2017</h6>
+
+---

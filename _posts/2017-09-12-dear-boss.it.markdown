@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "Caro Boss, vorrei partecipare al PGDay.IT"
+date:   2017-09-11 04:00:00
+isStaticPost: false
+permalink: /it/blog/dear-boss
+lang: it
+ref: dear-boss
+redirect-from:
+ - /blog/dear-boss
+---
+
+Ad ognuno di noi è capitato di ricevere un no dal nostro Boss alla nostra richiesta di partecipare a Conferenze per noi importanti 
+perché ci permettevano di accrescere le nostre competenze. Proprio come il [PGDay.IT](http://2017.pgday.it/it/).
+
+Prima di prendere ferie, pagarci il biglietto, forse dovremmo chiederci se abbiamo argomentato bene la nostra richiesta.
+
+E allora, quale soluzione migliore di una bella mail al nostro Boss?
+
+<h6>Oggetto: Caro Boss, vorrei partecipare al PGDay.IT 2017</h6>
+
+Caro Boss,
+
+le scrivo per parlarle di un’opportunità formativa e di networking che potenzierà le mie competenze, apportando un grande valore alla 
+nostra organizzazione. 
+
+Capisco che ci sono sempre vincoli di bilancio, tuttavia credo fermamente che questa conferenza può portare benefici maggiori rispetto 
+al prezzo di un biglietto.
+
+Il [PGDay.IT](http://2017.pgday.it/it/), che si svolgerà a Milano il 13 ottobre 2017, è la manifestazione organizzata dall’associazione 
+Italiana dedicata a PostgreSQL [(ITPUG - ITalian PostgreSQL Users Group)](http://www.itpug.org/index.it.html), ed è giunto alla sua undicesima edizione. 
+
+Ecco alcuni dei principali motivi per cui vorrei partecipare:
+
+* [Speaker Italiani ed Europei](http://2017.pgday.it/it/speakers/) parteciperanno per condividere le loro competenze e conoscenze.
+
+* Presentazioni tecniche andranno in profondità sul tipo di problemi che le aziende affrontano mentre implementano [PostgreSQL](https://www.postgresql.org/). 
+
+I benefici dati dalla mia partecipazione al [PGDay.IT 2017](http://2017.pgday.it/it/) per l’azienda sono tanti. A partire dal fatto che potrò condividere internamente 
+il know how che acquisirò su [PostgreSQL](https://www.postgresql.org/), alla possibilità di confrontarmi con altri partecipanti e con gli stessi speaker in modo da risolvere alcune delle 
+problematiche che stiamo affrontando in modo da raggiungere i nostri obiettivi velocemente ed in modo consapevole. 
+
+Inoltre la mia partecipazione può essere vista come parte integrante del piano formativo che l’azienda è obbligata ad elargire.
+
+Ma la nota sicuramente più importante è il vantaggio economico nell’incrementare l’adozione di [PostgreSQL](https://www.postgresql.org/) al nostro interno, [abbattendo i 
+costi di licenza](https://www.postgresql.org/about/licence/) che oggi ci impediscono di investire in ricerca e sviluppo, permettendoci di essere maggiormente competitivi sul mercato.  
+
+Può scoprire di più visitando il sito della Conferenza, al link [http://2017.pgday.it/it/](http://2017.pgday.it/it/). 
+
+Le segnalo infine che registrandomi adesso possiamo usufruire della tariffa [Early Bird, valida fino al 15 settembre (47€ invece di 95€)](https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231)
+
+Penso che questa sia davvero una fantastica occasione per la nostra organizzazione. 
+
+La ringrazio in anticipo per la sua attenzione e resto in attesa della sua autorizzazione alla mia partecipazione al [PGDay.IT](http://2017.pgday.it/it/). 
+
+Mi raccomando: prima del 15 settembre sarebbe l’ideale e [**mancano solo 4 giorni**](https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231)
+
+Cordiali saluti,
+
+_E Via!_
+
+---
+
+<h6>Ci vediamo a Milano il 13 ottobre 2017</h6>
+
+---
