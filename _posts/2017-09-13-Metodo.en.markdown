@@ -14,7 +14,7 @@ We asked Franco Violi, Direttore di [Metodo](http://www.metodo.net/metodo), for 
 
 This is his answer:
 
-_"Metodo is Partner of PGDay.IT because they believe that postgreSQL is one of the elements that most contributed to the success of their application solutions."_
+_"Metodo is Partner of PGDay.IT because they believe that PostgreSQL is one of the elements that most contributed to the success of their application solutions."_
 
 A warm welcome to Metodo and thank you join us!
 
