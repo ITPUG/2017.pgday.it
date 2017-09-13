@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "A new Partner to support PGDay.IT: Metodo"
+date:   2017-09-13 04:00:00
+isStaticPost: false
+permalink: /en/blog/Metodo
+lang: en
+ref: metodo
+---
+
+<h6>Thanks to the adoption of Open Source, Metodo is a successful company and recognises in PostgreSQL one of its competitive advantages.</h6>
+
+We asked Franco Violi, Direttore di [Metodo](http://www.metodo.net/metodo), for a comment about whyhe thought it appropriate for [Metodo Srl](http://www.metodo.net/metodo) to be a Partner of the PGDay.It 2017. 
+
+This is his answer:
+
+_"Metodo is Partner of PGDay.IT because they believe that postgreSQL is one of the elements that most contributed to the success of their application solutions."_
+
+A warm welcome to Metodo and thank you join us!
+
+**About Metodo**
+
+[Metodo](http://www.metodo.net/metodo) has been an IT Company in the market for over thirty years. In the second half of the 1990s Metodo realized the impact that the open source 
+development model would have on the market of applications and operating systems, adopting the first versions of the Linux operating system as their server technology. 
+
+Since 2001, [Metodo](http://www.metodo.net/metodo) solutions has also extended to desktop and is currently used on over 1200 jobs. 
+
+They develop [OpenMetopack](http://www.metodo.net/metodo/pagina-prodotti)'s management software, and coupled with the Linux platform stability, it is a great integrated solution for both Enterprises and Associations with a capacity of over 500 installations. 
+
+The SQL database is PostgreSQL.

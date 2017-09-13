@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Un nuovo Partner a supporto del PGDay.IT: Metodo
+"
+date:   2017-09-13 04:00:00
+isStaticPost: false
+permalink: /it/blog/metodo
+lang: it
+ref: metodo
+redirect-from:
+ - /blog/metodo
+---
+
+<h6>Grazie all’adozione dell’Open Source, Metodo è un’azienda di successo e riconosce in PostgreSQL uno dei suoi vantaggi competitivi.</h6>
+
+Abbiamo chiesto a Franco Violi, Direttore di [Metodo](http://www.metodo.net/metodo), perché ha ritenuto opportuno per [Metodo](http://www.metodo.net/metodo) Srl essere Partner
+essere Partner del PGDay.IT edizione 2017. 
+
+Questo è ciò che ci ha detto:
+
+_"Metodo è partner del PGDay.IT perche' ritiene che postgreSQL sia uno degli elementi che ha maggiormente contribuito al successo delle proprie soluzioni applicative."_
+
+Un caldo benvenuto a Metodo e grazie per essere con noi!
+
+**Chi è Metodo?**
+
+[Metodo](http://www.metodo.net/metodo) e' una societa' di informatica sul mercato da oltre trenta anni. Gia' dalla seconda meta' degli '90 ha intuito l'impatto che il modello di 
+sviluppo open source avrebbe avuto sul mercato delle applicazioni e dei sistemi operativi, adottando come tecnologia server le primissime versioni 
+del sistema operativo Linux. 
+
+Dal 2001 le soluzioni [Metodo](http://www.metodo.net/metodo) si estendono anche al desktop ed attualmente sono utilizzate su oltre 1200 posti di lavoro. 
+
+Sviluppa il software gestionale [OpenMetopack](http://www.metodo.net/metodo/pagina-prodotti) che, affiancato dalla stabilita' della piattaforma Linux, costituisce una ottima soluzione integrata per 
+Imprese e Associazioni di Categoria con un installato di oltre 500 impianti. 
+
+Il database SQL di riferimento e' PostgreSQL.
