@@ -18,7 +18,7 @@ essere Partner del PGDay.IT edizione 2017.
 
 Questo è ciò che ci ha detto:
 
-_"Metodo è partner del PGDay.IT perche' ritiene che postgreSQL sia uno degli elementi che ha maggiormente contribuito al successo delle proprie soluzioni applicative."_
+_"Metodo è partner del PGDay.IT perche' ritiene che PostgreSQL sia uno degli elementi che ha maggiormente contribuito al successo delle proprie soluzioni applicative."_
 
 Un caldo benvenuto a Metodo e grazie per essere con noi!
 
