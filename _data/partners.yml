@@ -52,7 +52,54 @@
         We’re a team composed by digital natives: we play in a world that moves fast and we change the rules of the game when it’s necessary to face new challenges.
         We believe in the value of beauty and we invest in our territory in order to have a positive impact on our community."
       link: "http://www.miriade.it/"
-      imageUrl: "Miriade.png"      
+      imageUrl: "Miriade.png"
+    -
+      name:
+        it: "THUX srl"
+        en: "THUX srl"
+      description:
+        it: "THUX srl (aka Thunder Systems) è un'azienda di Milano, che da più di vent'anni fornisce servizi tecnologici in Italia e UK per diversi settori.
+Siamo specializzati nella realizzazione di piattaforme interattive utilizzate da diverse SIM ed SGR e da alcune startup online (OnPony, Whistle) per gestire i rispettivi Core Business.
+
+Sviluppiamo software e forniamo servizi Cloud, VoIP e Cyber Security tramite le nostre sedi di Pioltello (MI), Genova e Londra e i due data center di Milano e Londra.
+
+Le nostre Web Application si distinguono per l'efficacia e la responsività della User eXperience e comprendono, tra le altre:
+FINANCE SIM/SGR: piattaforme per promotori finanziari e clienti investitori (UnicaSIM, AcomeA, Gardena Capital).
+NEWS: soluzioni per l'editoria specialistica (Il Sole 24 ore motori, ANSA, BMW, FCA, AutolinkNews).
+LEGAL: cruscotti per supportare l'attività quotidiana degli associati e dei collaboratori degli studi legali (THUX LAW+ Dashboard), interfacciati col centralino e con i servizi email.
+BID: soluzioni per la gestione di gare d'appalto e adempimenti nella manutenzione di impianti di produzione di energia rinnovabile
+OnPony, piattaforma digitale per connettere fra loro chi viaggia con chi vuole spedire piccoli oggetti
+
+Organizziamo anche corsi di formazione su particolari tecnologie sulle quali abbiamo forte competenza ed esperienza (Python / Django, Angular JS).
+
+Di seguito alcuni video esemplificativi:
+
+myAcomeA - piattaforma per Società di Gestione del Risparmio, con la quale si interfaccia l'app Gimme5 per i micro-investimenti.
+DEMO-SIM Piattaforma per Società di Investimento Mobiliare
+THUX-LAW Dashboard Operativo per Studi legali."
+        en: "THUX srl (aka Thunder Systems) is a Company based in Milano, that since more than twenty years provides technological services to Customers of different Industries in Italy and in the UK.
+We are specialized in the development of interactive platforms used by several Asset Management companies and by some innovative online services (OnPony, Whistle), to manage their respective Core Businesses.
+
+We develop software and we provide ICT services, including Cloud, VoIP and Cyber Security, from our locations in Pioltello (MI), Genova and London, and through our Data Centers in Milan and London.
+
+Dinstinctive traits of our Web Applications are the responsivity of the User Interface that means an effective and pleasant eXperience for the User.
+
+Please notice among the others:
+FINANCE - Asset Management: web and mobile platforms for promoters and investors (UnicaSIM, AcomeA, Gardena Capital).
+NEWS: solutions designed for online news, automotive specialized (Il Sole 24 ore motori, ANSA, BMW, FCA, AutolinkNews).
+LEGAL: dashboards (THUX LAW+) interfaced with digital phone switchboards and email services, used by structured Legal Offices to support all Partners and their assistants in managing their day-by-day activities.
+BID: solutions designed for bidding accomplishments and compliance management, related to the maintenance of renewable energy production plants.
+OnPony, digital platform connecting people traveling with people who wish to send small objects.
+
+We organize also training sessions on specific technologies on which we are specifically skilled and experienced (Python / Django, Angular JS).
+
+Here following some sample video recorded sessions:
+
+myAcomeA – Web / Mobile Platform for Asset Management & Investment Companies interfaced to a mobile App (Gimme5, on iOS and Android), to allow micro-investment actions.
+DEMO-SIM  Web Platform for Asset Management & Investment Companies
+THUX-LAW Dashboard supporting the day-by-day activities of structured Legal Offices."
+      link: "https://thux.it/"
+      imageUrl: "thux.png"      
 -
   group: "Silver Partners"
   elements:
