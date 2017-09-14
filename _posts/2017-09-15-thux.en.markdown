@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "THUX: Partner of PGDay.IT"
+date:   2017-09-15 04:00:00
+isStaticPost: false
+permalink: /en/blog/thux
+lang: en
+ref: thux
+---
+
+<h6>We are very proud to announce that we have a new Partner: THUX</h6>
+
+Historically, a company connected to the Open Source world and this is the first time that [THUX srl](https://www.thux.it/en/) is a Partner of PGDay.IT
+
+We hope this is just the beginning!
+
+We asked [Ilario Tariello](https://www.linkedin.com/in/ilario-tariello/), BDM of [THUX](https://www.thux.it/en/), for a comment about why he thought it appropriate for [THUX srl](https://www.thux.it/en/) to become Partner of the PGDay.IT 2017.
+
+Here it is the answer:
+
+_“Because [THUX](https://www.thux.it/en/) develops applications that turn data into value for its customers, by interfacing efficiently and effectively the best data management systems._ 
+
+_THUX has always been using open source software components in its applications, and particularly PostgreSQL._
+
+_In addition, THUX is very active in supporting the open source community, both by being sponsor of events and by providing components like pyMailUP.“_
+
+**About THUX**
+
+[THUX srl](https://www.thux.it/en/) (aka Thunder Systems) is a Company based in Milano, that since more than twenty years provides technological services to Customers of different Industries in Italy and in the UK.
+
+We are specialized in the development of interactive platforms used by several Asset Management companies and by some innovative online services (OnPony, Whistle), to manage their respective Core Businesses.
+
+We develop software and we provide ICT services, including Cloud, VoIP and Cyber Security, from our locations in Pioltello (MI), Genova and London, and through our Data Centers in Milan and London.
+
+Dinstinctive traits of our Web Applications are the responsivity of the User Interface that means an effective and pleasant eXperience for the User.
+
+Please notice among the others:
+
+* FINANCE - Asset Management: web and mobile platforms for promoters and investors (UnicaSIM, AcomeA, Gardena Capital). 
+* NEWS: solutions designed for online news, automotive specialized (Il Sole 24 ore motori, ANSA, BMW, FCA, AutolinkNews).
+* LEGAL: dashboards (THUX LAW+) interfaced with digital phone switchboards and email services, used by structured Legal Offices to support all Partners and their assistants in managing their day-by-day activities.
+* BID: solutions designed for bidding accomplishments and compliance management, related to the maintenance of renewable energy production plants.
+* OnPony, digital platform connecting people traveling with people who wish to send small objects.
+
+We organize also training sessions on specific technologies on which we are specifically skilled and experienced (Python / Django, Angular JS).
+
+Here following some sample video recorded sessions:
+
+* [myAcomeA](https://vimeo.com/220431357) – Web / Mobile Platform for Asset Management & Investment Companies interfaced to a mobile App (Gimme5, on iOS and Android), to allow micro-investment actions.
+* [DEMO-SIM](https://vimeo.com/220430447)  Web Platform for Asset Management & Investment Companies
+* [THUX-LAW](https://vimeo.com/225224533) Dashboard supporting the day-by-day activities of structured Legal Offices.

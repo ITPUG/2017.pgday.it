@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "THUX: Partner del PGDay.iT"
+date:   2017-09-15 04:00:00
+isStaticPost: false
+permalink: /it/blog/thux
+lang: it
+ref: thux
+redirect-from:
+ - /blog/thux
+---
+
+<h6>Siamo molto orgogliosi di annunciare che abbiamo un nuovo Partner: THUX</h6>
+
+Azienda storicamente connessa all’Open Source ma [THUX srl](https://thux.it/) è per la prima volta Partner del PGDay.IT
+
+Tutti noi ci auguriamo che questo sia solo l’inizio!
+
+Abbiamo chiesto a [Ilario Tariello](https://www.linkedin.com/in/ilario-tariello/), BDM di [THUX](https://thux.it/), perché ha ritenuto opportuno per [THUX srl](https://thux.it/) essere Partner del PGDay.IT edizione 2017.
+
+Questo è ciò che ci ha detto:
+
+_“Perché in [THUX](https://www.thux.it/en/) sviluppiamo applicazioni che trasformano dati in valore per i nostri Clienti, interfacciando in modo efficace ed efficiente i migliori sistemi di gestione dati._ 
+
+_THUX ha sempre utilizzato componenti software open source nelle sue applicazioni e, in particolare PostgreSQL._
+
+_THUX inoltre è sempre molto attiva nel supportare la community open source, sia sponsorizzando eventi che fornendo componenti come pyMailUP._
+
+_Da sempre usiamo componenti software open source ed in particolare PostgreSQL nelle nostre applicazioni.“_
+
+**Chi è THUX?**
+
+[THUX srl](https://thux.it/) (aka Thunder Systems) è un'azienda di Milano, che da più di vent'anni fornisce servizi tecnologici in Italia e UK per diversi settori.
+
+Siamo specializzati nella realizzazione di piattaforme interattive utilizzate da diverse SIM ed SGR e da alcune startup online (OnPony, Whistle) per gestire i rispettivi Core Business.
+
+Sviluppiamo software e forniamo servizi Cloud, VoIP e Cyber Security tramite le nostre sedi di Pioltello (MI), Genova e Londra e i due data center di Milano e Londra.
+
+Le nostre Web Application si distinguono per l'efficacia e la responsività della User eXperience e comprendono, tra le altre:
+
+* FINANCE SIM/SGR: piattaforme per promotori finanziari e clienti investitori (UnicaSIM, AcomeA, Gardena Capital). 
+* NEWS: soluzioni per l'editoria specialistica (Il Sole 24 ore motori, ANSA, BMW, FCA, AutolinkNews).
+* LEGAL: cruscotti per supportare l'attività quotidiana degli associati e dei collaboratori degli studi legali (THUX LAW+ Dashboard), interfacciati col centralino e con i servizi email.
+* BID: soluzioni per la gestione di gare d'appalto e adempimenti nella manutenzione di impianti di produzione di energia rinnovabile
+* OnPony, piattaforma digitale per connettere fra loro chi viaggia con chi vuole spedire piccoli oggetti
+
+Organizziamo anche corsi di formazione su particolari tecnologie sulle quali abbiamo forte competenza ed esperienza (Python / Django, Angular JS).
+
+Di seguito alcuni video esemplificativi:
+
+* [myAcomeA](https://vimeo.com/220431357) - piattaforma per Società di Gestione del Risparmio, con la quale si interfaccia l'app Gimme5 per i micro-investimenti.
+* [DEMO-SIM](https://vimeo.com/220430447) Piattaforma per Società di Investimento Mobiliare 
+* [THUX-LAW](https://vimeo.com/225224533) Dashboard Operativo per Studi legali.
