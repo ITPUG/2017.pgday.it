@@ -50,4 +50,4 @@ Di seguito alcuni video esemplificativi:
 
 * [myAcomeA](https://vimeo.com/220431357) - piattaforma per Società di Gestione del Risparmio, con la quale si interfaccia l'app Gimme5 per i micro-investimenti.
 * [DEMO-SIM](https://vimeo.com/220430447) Piattaforma per Società di Investimento Mobiliare 
-* [THUX-LAW](https://vimeo.com/225224533) Dashboard Operativo per Studi legali.
+* [THUX-LAW](https://vimeo.com/225224533) Dashboard Operativo per Studi legali. 
