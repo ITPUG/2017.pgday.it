@@ -22,7 +22,7 @@ _“Noi di [Ispirer Systems](http://www.ispirer.com) mostreremo ai partecipanti 
 
 _Aiutiamo clienti in tutto il mondo a migrare i loro sistemi in un nuovi ambienti, permettendo loro di risparmiare tempo e sforzi._
 
-_Siamo orgogliosi di essere uno dei Partner del PGDay.IT e vorremmo svolgere uno dei ruoli chiave nell'espansione PostgreSQL in Italia“_
+_Siamo orgogliosi di essere uno dei Partner del PGDay.IT e vorremmo svolgere uno dei ruoli chiave nell'espansione di PostgreSQL in Italia“_
 
 **Chi è Ispirer Systems**
 
