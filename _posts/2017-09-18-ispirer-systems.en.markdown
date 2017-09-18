@@ -12,7 +12,7 @@ ref: ispirer-systems
 
 Thank you for joining us!
 
-We asked [Yury Jhol](https://www.linkedin.com/in/yuryjhol/), Chief Technical Officer of [Ispirer Systems](http://www.ispirer.com), for a comment about whyhe thought it appropriate for [Ispirer Systems](http://www.ispirer.com) to be a Partner of the PGDay.It 2017.
+We asked [Yury Jhol](https://www.linkedin.com/in/yuryjhol/), Chief Technical Officer of [Ispirer Systems](http://www.ispirer.com), for a comment about why he thought it appropriate for [Ispirer Systems](http://www.ispirer.com) to be a Partner of the PGDay.It 2017.
 
 This is his answer:
 
