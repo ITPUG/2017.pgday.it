@@ -18,7 +18,7 @@ Abbiamo chiesto a [Yury Jhol](https://www.linkedin.com/in/yuryjhol/), Chief Tech
 
 Questo è ciò che ci ha detto:
 
-_“Noi di [Ispirer Systems](http://www.ispirer.com) mostreremo ai partecipanti del PGDay.IT la nostra soluzione per la migrazione automatica a PostgreSQL da altri database.
+_“Noi di [Ispirer Systems](http://www.ispirer.com) mostreremo ai partecipanti del PGDay.IT la nostra soluzione per la migrazione automatica a PostgreSQL da altri database._
 
 _Aiutiamo clienti in tutto il mondo a migrare i loro sistemi in un nuovi ambienti, permettendo loro di risparmiare tempo e sforzi._
 
