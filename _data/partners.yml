@@ -13,15 +13,15 @@
 -
   group: "Platinum Partners"
   elements:
-#    -
-#      name:
-#        it: "___________"
-#        en: "___________"
-#      description:
-#        it: "___________"
-#        en: "___________"
-#      link: "https://www.____________"
-#      imageUrl: "_________.svg"
+    -
+      name:
+        it: "Ispirer Systems"
+        en: "Ispirer Systems"
+      description:
+        it: "Ispirer Systems è un’azienda leader nel settore di migrazione di database ed applicazioni, che aiuta ogni organizzazione del mondo andare al passo con le tecnologie moderne. Ispirer Systems fornisce software soluzioni innovativi e servizi per migrazione automatizzata di database e codice di programmazione. Siamo qui per rendere il processo di migrazione più facile, veloce ed economico."
+        en: "Ispirer Systems is a leader in database and application migration, which helps every organization in the world to keep up with modern technologies. Ispirer Systems provides innovative software solutions and services for automated cross-platform migration of databases and human-written program code. We are here to make the migration process easier, faster and cheaper."
+      link: "http://www.ispirer.com"
+      imageUrl: "ispirer.jpg"
 -
   group: "Gold Partners"
   elements:
