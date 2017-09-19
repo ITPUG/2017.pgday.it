@@ -167,3 +167,12 @@ THUX-LAW Dashboard supporting the day-by-day activities of structured Legal Offi
         en: "Python Italia APS is a local association which aims to help and support the diffusion and use of the Python programming language. It runs many local initiatives of varying size and nature. Key event: PyCon Italia, the official Italian conference, now unmissable date for hundreds of python developers from all over the world."
       link: "https://www.pycon.it/it/"
       imageUrl: "pycon_otto.svg"
+    -
+      name:
+        it: "Apogeo"
+        en: "Apogeo"
+      description:
+        it: ""
+        en: ""
+      link: "http://www.apogeonline.com/"
+      imageUrl: "apogeo.png"
