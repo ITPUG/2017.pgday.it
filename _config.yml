@@ -16,6 +16,8 @@ exclude:
   # Temporary disabled pages
   - 'hackathon.it.html'
   - 'hackathon.en.html'
+  - 'training.it.html'
+  - 'training.en.html'  
 
 # Site Settings
 title: "PGDay.IT 2017"
@@ -234,7 +236,7 @@ ticketsOffers:
     en: ["Early Bird - PGDay.IT 2017", "October 13th", "Milan"]
   validFrom: "2017-06-15T10:00"
   validThrough: "2017-09-15T23:59"
-  disabled: false
+  disabled: true
  -
   name:
     it: "Ordinario"
@@ -251,7 +253,7 @@ ticketsOffers:
     en: ["Ordinary - PGDay.IT 2017", "October 13th", "Milan"]
   validFrom: "2017-09-16T00:00"
   validThrough: "2017-10-12T23:59"
-  disabled: true
+  disabled: false
  -
   name:
     it: "Studente"
@@ -319,7 +321,6 @@ showSessions: true
 staffBlockTitle:
     it: "Il loro principale interesse: permettervi di seguire il PGDay.IT senza problemi"
     en: "Their main interest is to allow you to follow PGDay.IT without any problems"
-
 
 # Team Block
 teamBlockTitle:
