@@ -61,8 +61,16 @@ Non esitare!"
     en: "Keynote"
     it: "Keynote"
   description:
-    en: ""
-    it: ""
+    en: "Gaia (http://sci.esa.int/gaia/) is a cornerstone ESA space mission to craft the most precise three-dimensional map of our Galaxy for decades to come. 
+    The talk will describe how the Postgres and its ecosystem enabled large-scale with Variability Studies at Gaia Data processing Centre in Geneva in the context 
+    a new wave of cutting-edge astronomical missions producing petabyte-scale results. Ideas behind data model, iterative process, international collaboration while 
+    dealing with multibillion-sized sets will be outlined as well as architectural challenges and choices.
+    I will also give insight on our experience with Postgres-XL, scalable Postgres incarnation that we have been supporting from its inception and how the perseverance pays off."
+    it: "Gaia(http://sci.esa.int/gaia/) è una missione spaziale ESA finalizzata a creare la più precisa mappa tridimensionale della nostra galassia nei decenni a venire.
+    Nel talk verrà discusso come Postgres ed il suo ecosistema consentiranno di eseguire una vasta gamma di studi presso il 
+    Gaia Data Processing Centre di Ginevra, in un contesto che prevede una nuova ondata di missioni astronomiche all'avanguardia che produrranno una mole di dati dell'ordine dei petabyte. 
+    Saranno descritte le idee alla base del modello dei dati, a partire dal processamento su scala miliardaria in termini di oggetti analizzati da parte della collaborazione internazionale, fino alle scelte architettoniche.
+    Verrà discussa anche l'esperienza con Postgres-XL, la versione altamente scalabile di Postgres, partendo dalle ragioni che hanno spinto ad adottarlo sin dall'inizio del progetto, mostrando poi come tali scelte siano state ampiamente ripagate."
   subtype: Keynote
   speakers: [0]
   language: en
