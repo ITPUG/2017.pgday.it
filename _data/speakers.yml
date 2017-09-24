@@ -1,19 +1,30 @@
 -
   id: 0
-  name: "Keynote"
-  surname: ""
-  company: ""
-  title: ""
+  name: "Krzysztof"
+  surname: "Nienartowicz"
+  company: "Gaia Data Processing Centre in Geneva which is part of European Space Agency"
+  title: "Keynote"
   bio:
-    it: ""
-    en: ""
-  thumbnailUrl: anonimo.jpg
+    it: "Krzysztof è iln leader del Gaia Data Processing Centre di Ginevra che fa parte dell'European Space Agency Gaia Data Processing 
+    and Analysis Consortium.
+    Progetti sempre più impegnativi hanno segnato il suo percorso professionale, iniziato alla fine dei suoi studi, dove ha avuto 
+    la possibilità di lavorare con i più grandi esperti di econometria negli Stati Uniti, nel Regno Unito e in Polonia (1996). 
+    Attratto dal più grande database scientifico mondiale, successivamente è entrato nel team dedicato ai Database presso il CERN 
+    di Ginevra (2001), dove è stato coautore della più grande migrazione dati del più grande database scientifico relazionale in produzione presso il CERN. 
+    Dopo aver fatto parte del team di Gaia a Ginevra come data architect (2008), è diventato il responsabile 
+    di tutti gli aspetti della piattaforma alla base di uno dei più esigenti progetti ESA in termini di trattamento ed analisi dati."
+    en: "Krzysztof is a leader of Gaia Data Processing Centre in Geneva which is part of European Space Agency Gaia Data Processing and Analysis Consortium.
+    His journey with increasingly challenging projects started at the end of his studies where he had a chance to work around biggest econometric time series data 
+    at the time in the US, UK and Poland (1996). Attracted by the biggest world scientific-database then, he joined Database group at CERN in Geneva (2001) where 
+    he was co-author of the largest data migration, producing the largest scientific relation database that had been running at CERN. After joining Gaia group in 
+    Geneva as data architect (2008), he has been responsible for all aspects of the platform to derive useful scientific results from one of the most data-demanding ESA projects."
+  thumbnailUrl: KrzysztofNienartowicz.jpg
   rockstar: true
   social:
     - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
     - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/krzysztof-nienartowicz-6524b0/?ppe=1"}
 -
   id: 1
   name: "Gianni"
