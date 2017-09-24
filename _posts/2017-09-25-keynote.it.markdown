@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Keynote d'eccellenza per il PGDay.IT 2017"
+date:   2017-09-18 04:00:00
+isStaticPost: false
+permalink: /it/blog/keynote
+lang: it
+ref: keynote
+redirect-from:
+ - /blog/keynote
+---
+
+<h6>Siamo davvero eccitati nell'annunciare il Keynote di apertura per il PGDay.IT 2017: Krzysztof Nienartowicz - Gaia</h6>
+
+Grazie per aver accettato! Non vediamo l'ora di esserci!
+
+[Krzysztof](https://www.linkedin.com/in/krzysztof-nienartowicz-6524b0/?ppe=1) è il leader del [Gaia](http://sci.esa.int/gaia/) 
+Data Processing Centre di Ginevra che fa parte dell'European Space Agency Gaia Data Processing and Analysis Consortium.
+
+Progetti sempre più impegnativi hanno segnato il suo percorso professionale, iniziato alla fine dei suoi studi, dove ha avuto 
+la possibilità di lavorare con i più grandi esperti di econometria negli Stati Uniti, nel Regno Unito e in Polonia (1996). 
+
+Attratto dal più grande database scientifico mondiale, successivamente è entrato nel team dedicato ai Database presso il [CERN](https://home.cern/) 
+di Ginevra (2001), dove è stato coautore della più grande migrazione dati del più grande database scientifico relazionale 
+in produzione presso il [CERN](https://home.cern/). 
+
+Dopo aver fatto parte del team di [Gaia](http://sci.esa.int/gaia/) a Ginevra come data architect (2008), è diventato il responsabile 
+di tutti gli aspetti della piattaforma alla base di uno dei più esigenti progetti [ESA](http://www.esa.int/ESA) in termini di trattamento ed analisi dati.
+
+
+**Keynote: the abstract told by Krzysztof Nienartowicz**
+
+[Gaia](http://sci.esa.int/gaia/) è una missione spaziale [ESA](http://www.esa.int/ESA) finalizzata a creare la più precisa mappa tridimensionale della 
+nostra galassia nei decenni a venire.
+
+Nel talk verrà discusso come [Postgres](https://www.postgresql.org/) ed il suo ecosistema consentiranno di eseguire una vasta gamma di studi presso il 
+[Gaia](http://sci.esa.int/gaia/) Data Processing Centre di Ginevra, in un contesto che prevede una nuova ondata di missioni astronomiche all'avanguardia 
+che produrranno una mole di dati dell'ordine dei petabyte. 
+
+Saranno descritte le idee alla base del modello dei dati, a partire dal processamento su scala miliardaria in termini di oggetti analizzati da parte 
+della collaborazione internazionale, fino alle scelte architettoniche.
+
+Verrà discussa anche l'esperienza con [Postgres-XL](https://www.postgres-xl.org/), la versione altamente scalabile di Postgres, partendo dalle ragioni 
+che hanno spinto ad adottarlo sin dall'inizio del progetto, mostrando poi come tali scelte siano state ampiamente ripagate.

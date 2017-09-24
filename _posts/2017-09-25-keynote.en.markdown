@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Keynote ____ for PGDay.IT 2017"
+date:   2017-09-18 04:00:00
+isStaticPost: false
+permalink: /en/blog/keynote
+lang: en
+ref: keynote
+---
+
+<h6>We are very excited to announce the opening Keynote for PGDay.IT 2017: Krzysztof Nienartowicz - Gaia</h6>
+
+Thank you for joining us! We look forward to being there!
+
+[Krzysztof](https://www.linkedin.com/in/krzysztof-nienartowicz-6524b0/?ppe=1) is a leader of [Gaia](http://sci.esa.int/gaia/) 
+Data Processing Centre in Geneva which is part of European Space Agency Gaia Data Processing and Analysis Consortium.
+
+His journey with increasingly challenging projects started at the end of his studies where he had a chance to work around biggest 
+econometric time series data at the time in the US, UK and Poland (1996). 
+
+Attracted by the biggest world scientific-database then, he joined Database group at [CERN](https://home.cern/) in Geneva (2001) where he was co-author of 
+the largest data migration, producing the largest scientific relation database that had been running at [CERN](https://home.cern/). 
+
+After joining Gaia group in Geneva as data architect (2008), he has been responsible for all aspects of the platform to derive useful 
+scientific results from one of the most data-demanding [ESA](http://www.esa.int/ESA) projects. 
+
+**Keynote abstract**
+
+[Gaia](http://sci.esa.int/gaia/) is a cornerstone [ESA](http://www.esa.int/ESA) space mission to craft the most precise three-dimensional map of our Galaxy for 
+decades to come. 
+
+The talk will describe how the [Postgres](https://www.postgresql.org/) and its ecosystem enabled large-scale with Variability Studies at [Gaia](http://sci.esa.int/gaia/) 
+Data processing Centre in Geneva in the context a new wave of cutting-edge astronomical missions producing petabyte-scale results. 
+
+Ideas behind data model, iterative process, international collaboration while dealing with multibillion-sized sets will be outlined as 
+well as architectural challenges and choices.
+
+I will also give insight on our experience with [Postgres-XL](https://www.postgres-xl.org/), scalable Postgres incarnation that we have been supporting 
+from its inception and how the perseverance pays off. 
