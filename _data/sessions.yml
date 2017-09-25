@@ -108,15 +108,15 @@ Non esitare!"
 -
   id: 004
   title:
-    it: "Azure Database for PostgreSQL"
-    en: "Azure Database for PostgreSQL"
+    it: "PostgreSQL and the Raspberry Pi"
+    en: "PostgreSQL and the Raspberry Pi"
   description:
-    it: "Azure Database for PostgreSQL is a managed database service built for developers using the community PostgreSQL database technology you love. Learn how you can leverage the managed service and the key capabilities that the service offers which enables you as a developer to focus on developing apps. Using customer stories and experiences including live demos, we will walk through best practices and demonstrate how this service integrates with the other Azure services."
-    en: "Azure Database for PostgreSQL is a managed database service built for developers using the community PostgreSQL database technology you love. Learn how you can leverage the managed service and the key capabilities that the service offers which enables you as a developer to focus on developing apps. Using customer stories and experiences including live demos, we will walk through best practices and demonstrate how this service integrates with the other Azure services."
+    it: "Being one of the most well known single-board computers (SBC), the Raspberry Pi is the perfect target for many interesting projects, which brings the question: how PostgreSQL would work on the Raspberry Pi? In this talk we will learn how to compile and install PostgreSQL for the ARM architecture, compare benchmarks of the lastest two Raspberry Pi versions against more powerful computers, and also discuss why installing a professional and robust database system on a tiny computer meets the main educational purpose of the Raspberry Pi on becoming a tool that facilitates the teaching and learning of Computer Science for the masses. As an example, we will present the pgbramble project (PostgreSQL Educational Bramble), which is composed by a cluster of 4 Raspberrys: 1 PostgreSQL master, 1 PostgreSQL standby (streaming replication), 1 backup server (Barman), and 1 webserver."
+    en: "Being one of the most well known single-board computers (SBC), the Raspberry Pi is the perfect target for many interesting projects, which brings the question: how PostgreSQL would work on the Raspberry Pi? In this talk we will learn how to compile and install PostgreSQL for the ARM architecture, compare benchmarks of the lastest two Raspberry Pi versions against more powerful computers, and also discuss why installing a professional and robust database system on a tiny computer meets the main educational purpose of the Raspberry Pi on becoming a tool that facilitates the teaching and learning of Computer Science for the masses. As an example, we will present the pgbramble project (PostgreSQL Educational Bramble), which is composed by a cluster of 4 Raspberrys: 1 PostgreSQL master, 1 PostgreSQL standby (streaming replication), 1 backup server (Barman), and 1 webserver."
   subtype: Talk
   speakers: [16]
   language: en
-  complexity: "Intermediate"
+  complexity: "Beginner"
   #presentation: ""
   #video: ""
 -
