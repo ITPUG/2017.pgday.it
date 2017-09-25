@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Keynote d'eccellenza per il PGDay.IT 2017"
-date:   2017-09-18 04:00:00
+date:   2017-09-25 04:00:00
 isStaticPost: false
 permalink: /it/blog/keynote
 lang: it
