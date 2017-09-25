@@ -280,7 +280,7 @@ Inizia a lavorare per 2ndQuadrant italia sviluppando in Python applicazioni a su
   name: "Francesco"
   surname: "Canovai"
   company: "2ndQuadrant"
-  title: ""
+  title: "PostgreSQL Consultant"
   bio:
     en: "Francesco Canovai works in 2ndQuadrant as PostgreSQL database administrator and system administrator, taking care of support, performance tuning, monitoring, infrastructure automation via Puppet and writing integration tests for the PostgreSQL disaster recovery tool Barman."
     it: "Francesco Canovai lavora presso 2ndQuadrant come amministratore di database PostgreSQL e sistemista, occupandosi di supporto, performance tuning, monitoraggio, automatizzazione dell'infrastruttura tramite Puppet e scrittura di integration test per Barman, tool di disaster recovery per PostgreSQL."
@@ -309,17 +309,18 @@ Da pochi mesi lavora in 2ndQuadrant come SRE e ingegnere di supporto."
     - {name: "github", link: "https://github.com/xstasi"}
 -
   id: 16
-  name: "Silvano"
-  surname: "Coriani"
-  company: "Microsoft"
-  title: "Principal PM"
+  name: "Rubens"
+  surname: "Souza"
+  company: "2ndQuadrant"
+  title: "PostgreSQL Consultant"
   bio:
-    it: "Silvano lavora come Principal Program Manager in Azure Engineering presso Microsoft Corporation. Ha 20 anni di esperienza in soluzioni distribuite e sistemi di database relazionali, tra cui costruire servizi di scala globale."
-    en: "Silvano works as Principal Program Manager in Azure Engineering at Microsoft Corporation. He has 20+ years experience on distributed solutions and relational database systems, including building global scale data services."
-  thumbnailUrl: silvano_coriani.jpg
+    it: ""
+    en: "Truly passionate about computers and the open source movement, Rubens has being involved with GNU/Linux since he could grab a copy of Slackware 4.0 on "the good old days", and have been learning, working and having fun with databases, system administration, servers, networks, and benchmarks ever since. Rubens works as a PostgreSQL Consultant at 2ndQuadrant, where he performs various tasks related to our beloved database."
+  thumbnailUrl: rubens_souza.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/scoriani"}
+    - {name: "twitter", link: "https://twitter.com/rubens_ts"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rubensts/"}
 -
   id: 17
   name: "Erik"
