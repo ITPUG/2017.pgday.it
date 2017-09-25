@@ -21,9 +21,6 @@
   thumbnailUrl: KrzysztofNienartowicz.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
     - {name: "linkedin", link: "https://www.linkedin.com/in/krzysztof-nienartowicz-6524b0/?ppe=1"}
 -
   id: 1
