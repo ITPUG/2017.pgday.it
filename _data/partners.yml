@@ -99,7 +99,16 @@ myAcomeA – Web / Mobile Platform for Asset Management & Investment Companies i
 DEMO-SIM  Web Platform for Asset Management & Investment Companies
 THUX-LAW Dashboard supporting the day-by-day activities of structured Legal Offices."
       link: "https://thux.it/"
-      imageUrl: "thux.png"      
+      imageUrl: "thux.png"
+    -
+      name:
+        it: "Arcoda"
+        en: "Arcoda"
+      description:
+        it: "Arcoda è una società del mondo ICT che si occupa di piattaforme tecnologiche innovative nel settore del work force management. Il proprio know how fuori dal comune e la capacità di realizzare soluzioni anche molto personalizzate hanno destato l’interesse di aziende di spicco del panorama nazionale e internazionale."
+        en: "Arcoda is an ICT company that focuses on innovative platforms on work force management field. Its outstanding know-how and highly customized solutions represent an attractive for Italian and international big players."
+      link: "https://www.arcoda.it/"
+      imageUrl: "Arcoda.jpg"      
 -
   group: "Silver Partners"
   elements:
