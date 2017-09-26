@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "A new Partner to support PGDay.IT: Arcoda"
+date:   2017-09-26 04:00:00
+isStaticPost: false
+permalink: /en/blog/arcoda
+lang: en
+ref: arcoda
+---
+
+<h6>We are very proud to announce that we have a new Partner: Arcoda</h6>
+
+We asked [Daniele Sevegnani](https://www.linkedin.com/in/daniele-sevegnani-494692a/), Co-Founder and CFO di [Arcoda](https://www.arcoda.it/), for a comment about why he thought it appropriate for [Arcoda](https://www.arcoda.it/) to be a Partner of the PGDay.It 2017.
+
+This is his answer:
+
+_"We're very excited about the partnership in PGDay.IT._
+
+_We strongly believe that PostgreSQL is the best choice for our today’s and future needs of cartographic data management, that is crucial for our business._
+
+_We aim to constantly enhance our knowledge of this powerful and reliable technology, and to take advantage of the opportunities offered by its continuous improvement."_
+
+A warm welcome to [Arcoda](https://www.arcoda.it/) and thank you join us!
+
+**About Arcoda**
+
+[Arcoda](https://www.arcoda.it/) is an ICT company that focuses on innovative platforms on work force management field.
+
+Its outstanding know-how and highly customized solutions represent an attractive for Italian and international big players.
