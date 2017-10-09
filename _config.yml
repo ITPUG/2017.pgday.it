@@ -320,7 +320,16 @@ showSessions: true
 # Staff Block
 staffBlockTitle:
     it: "Il loro principale interesse: permettervi di seguire il PGDay.IT senza problemi"
-    en: "Their main interest is to allow you to follow PGDay.IT without any problems"
+    en: "The main interest is to allow you to follow PGDay.IT without any problems"
+staffSubtitle1:
+    it: "Al desk per la registrazione, per il rinnovo della quota societaria e per accogliere nuovi iscritti"
+    en: "At the registration desk, you will be able to inscribe to our association and renew your subscription"
+staffSubtitle2:
+    it: "Presenteranno la track Italiana e la track Inglese e i Lightning Talk"
+    en: "The host speaker will present in Italian and English, the Lightning Talk is included as well"
+staffSubtitle3:
+    it: "Per assistenza tecnica durante la conferenza"
+    en: "For technical assistance during the conference"
 
 # Team Block
 teamBlockTitle:

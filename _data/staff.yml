@@ -23,10 +23,10 @@
     - {name: "linkedin", link: "https://it.linkedin.com/in/bam965"}
 -
   id: 2
-  name: ""
-  surname: ""
-  title: ""
-  thumbnailUrl:
+  name: "Andrej"
+  surname: "Sossi"
+  title: "Desk registrazione partecipanti"
+  thumbnailUrl: andrej.png
   staff: true
   social:
     - {name: "google-plus", link: ""}
@@ -34,6 +34,16 @@
     - {name: "linkedin", link: ""}
 -
   id: 0
+  name: "Stefano"
+  surname: "Frigerio"
+  title: "Master of Ceremony - Italian track"
+  thumbnailUrl: Stefano_Frigerio.jpg
+  subStaff: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/stefanofrigerio"}
+    - {name: "linkedin", link: ""}
+-
+  id: 1
   name: "Rubens"
   surname: "Souza"
   title: "Master of Ceremony - English track"
@@ -42,17 +52,6 @@
   social:
     - {name: "twitter", link: "https://twitter.com/rubens_ts"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/rubensts/"}
--
-  id: 1
-  name: ""
-  surname: ""
-  title: "Master of Ceremony - Track Italiana"
-  thumbnailUrl:
-  subStaff: true
-  social:
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "linkedin", link: ""}
 -
   id: 2
   name: ""
@@ -66,10 +65,10 @@
     - {name: "linkedin", link: ""}
 -
   id: 0
-  name: ""
-  surname: ""
-  title: ""
-  thumbnailUrl:
+  name: "Emanuele"
+  surname: "Zamprogno"
+  title: "Fotografo ufficiale del PGDay.IT"
+  thumbnailUrl: emanuele_zamprogno.jpg
   exStaff: true
   social:
     - {name: "google-plus", link: ""}
