@@ -33,6 +33,39 @@
     - {name: "twitter", link: ""}
     - {name: "linkedin", link: ""}
 -
+  id: 3
+  name: "Torello"
+  surname: "Querci"
+  title: "Desk registrazione partecipanti"
+  thumbnailUrl: torello.jpg
+  staff: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: ""}
+-
+  id: 4
+  name: ""
+  surname: ""
+  title: "Desk registrazione partecipanti"
+  thumbnailUrl: 
+  staff: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: ""}
+-
+  id: 5
+  name: ""
+  surname: ""
+  title: "Desk registrazione partecipanti"
+  thumbnailUrl: 
+  staff: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: ""}     
+-
   id: 0
   name: "Stefano"
   surname: "Frigerio"
@@ -85,14 +118,3 @@
     - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
     - {name: "linkedin", link: "https://www.linkedin.com/in/domenico-commisso-8a6011122/"}
--
-  id: 2
-  name: ""
-  surname: ""
-  title: ""
-  thumbnailUrl:
-  exStaff: true
-  social:
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "linkedin", link: ""}
