@@ -36,7 +36,7 @@
   id: 0
   name: "Stefano"
   surname: "Frigerio"
-  title: "Master of Ceremony - Italian track"
+  title: "Host Italian track"
   thumbnailUrl: Stefano_Frigerio.jpg
   subStaff: true
   social:
@@ -46,7 +46,7 @@
   id: 1
   name: "Rubens"
   surname: "Souza"
-  title: "Master of Ceremony - English track"
+  title: "Host English track"
   thumbnailUrl: rubens.jpg
   subStaff: true
   social:
@@ -54,15 +54,15 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/rubensts/"}
 -
   id: 2
-  name: ""
+  name: "Giulio Calacoci"
   surname: ""
-  title: ""
-  thumbnailUrl:
+  title: "Host Lightning Talk"
+  thumbnailUrl: giulio-calacoci.jpg
   subStaff: true
   social:
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "linkedin", link: ""}
+    - {name: "github", link: "https://github.com/gcalacoci"}
+    - {name: "twitter", link: "https://twitter.com/asdmaster"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gcalacoci/"}
 -
   id: 0
   name: "Emanuele"
@@ -79,7 +79,7 @@
   name: "Domenico"
   surname: "Commisso"
   title: "Assistenza tecnica"
-  thumbnailUrl:
+  thumbnailUrl: domenico_commisso.jpeg
   exStaff: true
   social:
     - {name: "google-plus", link: ""}
