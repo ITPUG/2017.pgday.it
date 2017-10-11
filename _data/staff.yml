@@ -45,26 +45,26 @@
     - {name: "linkedin", link: ""}
 -
   id: 4
-  name: ""
-  surname: ""
+  name: "Gianni"
+  surname: "Ciolli"
   title: "Desk registrazione partecipanti"
-  thumbnailUrl: 
+  thumbnailUrl: gianni_ciolli.jpg 
   staff: true
   social:
     - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
+    - {name: "twitter", link: "https://twitter.com/GianniCiolli"}
     - {name: "linkedin", link: ""}
 -
   id: 5
-  name: ""
-  surname: ""
+  name: "Laura"
+  surname: "Markus"
   title: "Desk registrazione partecipanti"
-  thumbnailUrl: 
+  thumbnailUrl: laura_markus.jpg
   staff: true
   social:
     - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
-    - {name: "linkedin", link: ""}     
+    - {name: "linkedin", link: "https://www.linkedin.com/in/laura-markus-a302826/"}     
 -
   id: 0
   name: "Stefano"
