@@ -76,15 +76,15 @@
     - {name: "linkedin", link: ""}
 -
   id: 1
-  name: ""
-  surname: ""
-  title: ""
+  name: "Domenico"
+  surname: "Commisso"
+  title: "Assistenza tecnica"
   thumbnailUrl:
   exStaff: true
   social:
     - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
-    - {name: "linkedin", link: ""}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/domenico-commisso-8a6011122/"}
 -
   id: 2
   name: ""
