@@ -1,0 +1,100 @@
+---
+layout: post
+title:  "The eleventh edition of PGDay.IT closed the doors"
+date:   2017-10-16 04:00:00
+isStaticPost: false
+permalink: /en/blog/thanks
+lang: en
+ref: thanks
+---
+
+
+<h6>Thanks! Thanks! Thanks! Thanks! Thanks! Thanks! Thanks!</ h6>
+
+The [eleventh edition of PGDay.IT](http://2017.pgday.it/en/) has come to the end and we want to say **thanks to everyone**, a **real thanks coming from the heart**.
+
+**Thanks to the attendees** who have believed in the event. 
+
+With 196 subscribers, of which 192 attendees coming from various regions of Italy such as Lombardia, Veneto, Toscana, Emilia Romagna, Lazio, 
+Trentino-Alto Adige, Marche, Piemonte, Abruzzo, Campania, Friuli-Venezia Giulia, Puglia, Liguria, Sicilia. 
+
+And we have to thank even more the attendees coming from Switzerland, England, Belarus, France, the Czech Republic, Croatia, Germany, Iceland, 
+Holland and from Ukraine. 
+
+We look forward to seeing you again next year, maybe we could reach 250 attendees!
+
+**Thanks to the speakers** who have brought to all the attendees their own experiences and knowledge about PostgreSQL, filling PGDay.IT 2017 of 
+[relevant content](http://2017.pgday.it/en/schedule/).
+
+It is our duty to mention them one by one:
+
+* Krzysztof Nienartowicz (Gaia Data Processing Center in Geneva) who gave us a excellence **Keynote** , sharing with us ESA experience with PostgreSQL 
+for the management of exabyte data coming from space.
+
+Krzysztof's keynote has excited and keep the attention of the whole audience. Thank you Krzysztof!
+
+For the English track, let's remember:
+
+* Wolfram Hempel (DeepstreamHub) with _'PostgreSQL Realtime Queries at Scale'_
+
+* Simon Riggs (2ndQuadrant) _'Replication In PostgreSQL 9.6, 10 and Beyond'_
+
+* Gabriele Bartolini (2ndQuadrant) with _'From 0 to 100: Business Continuity with PostgreSQL'_
+
+* Rubens Souza (2ndQuadrant) with _'PostgreSQL and the Raspberry Pi'_
+
+* Mladen Marinović (vehicle d.o.o. aka Smartivo) with _'General Data Protection Regulation and PostgreSQL'_
+
+* Alessandro Grassi (2ndQuadrant) with _'Hardening PostgreSQL: demistifying database security'_
+
+* Erik Tiengo (GisUp) with _'pg-gis-interoperability'
+
+* Gianni Ciolli (2ndQuadrant) with _parallel queries with PostgreSQL'_
+
+For the track in Italian, let's remember:
+
+* Giuseppe Broccolo (Viralize) with _'Gli indici in PostgreSQL 10'_
+
+* Luca Veronese (Lapsy srl) with _'(Ri)scrivere l'SQL per ottenere le massime prestazioni'_
+
+* Leonardo Cecchi (2ndQuadranrt) with _'Estendere PostgreSQL con Go'_
+
+* Paolo Melchiorre (20tab) with _'Ricerca full text in Django con PostgreSQL'_
+
+* Lucio Grenzi (Freelance) with _'Patroni: PostgreSQL HA nel cloud'_
+
+* Denis Gasparin (Smart Solutions) with _'Keep calm e installa PostgreSQL (utilizzando Ansible)'_
+
+* Jonathan Battiato (2ndQuadrant) with _'PostgreSQL & Benchmark'_
+
+* Giulio Calacoci, Francesco Canovai and Leonardo Cecchi (2ndQuadrant) with _'Disaster Recovery: una serie di sfortunati eventi'_
+
+Slides and videos will be available as soon as possible in the event site.
+
+**Thanks to our Partners**, without them all this could not be possible. 
+
+Thanks to [2ndQuadrant](https://www.2ndquadrant.com/) as Diamond Partner of PGDay.IT 2017.
+Thanks to [Ispirer](http://www.ispirer.com/) as Platinum Partner of PGDay.IT 2017.
+Thanks to [Subito](https://www.subito.it/), [Miriade](http://www.miriade.it/), [Thux](https://www.thux.it/en/) and [Arcoda](https://www.arcoda.it/) as Gold Partners of PGDay.IT 2017.
+Thanks to [Metodo](http://www.metodo.net/metodo) as Silver Partner of PGDay.IT 2017.
+Thanks to [R3GIS](https://www.r3-gis.com/), [20tab](http://www.20tab.com/) and [Seeweb](https://www.seeweb.it/) as Bronze Partners of PGDay.IT 2017.
+
+Our wish is to have all of you with us also next year and we invite other companies to support PGDay.IT and PostgreSQL through their partnerships.
+
+**Thanks to our Media Partners** who have supported PGDay.IT 2017 by giving news through press releases and newsletters.
+Let's remember them together: [GRUSP](http://www.grusp.org/it/), [Python Italia](https://www.pycon.it/it/), [Apogeo](http://www.apogeonline.com/)
+  
+**Thanks to the City of Milan** who has granted the [free patronage]((http://2017.pgday.it/en/)) for PGDay.IT 2017.
+Important recognition for our ITPUG Association and the work of volunteers who actively participated in the organization of PGDay.IT.
+  
+**Thanks to the new members of ITPUG Association** it is great to have you with us! About 30 new members will receive official welcome inside our 
+Association this week.
+
+If someone has not been able to join, do not worry! You can write to us and receive the gadget reserved to new members as well as to members who decide 
+to renew.
+
+**Thanks to the volunteers of the ITPUG Association** who worked very hard to make the event run smoothly, or at least that is what we hope for.
+
+<h6>Thanks! Thanks! Thanks! Thanks! Thanks! Thanks! Thanks!</ h6>
+
+See you on 28 and 29 June 2018 for the twelfth edition of PGDay.IT!
