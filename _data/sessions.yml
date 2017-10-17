@@ -74,8 +74,8 @@ Non esitare!"
   subtype: Keynote
   speakers: [0]
   language: en
-  complexity: ""
-  #presentation: ""
+  complexity: "keynote"
+  presentation: "https://github.com/ITPUG/2017.pgday.it"
   #video: ""
 -
   id: 002
