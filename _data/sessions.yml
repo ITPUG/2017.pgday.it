@@ -155,7 +155,7 @@ we will briefly present the GDPR, list the problems that arise and see what can 
   speakers: [3]
   language: en
   complexity: "Intermediate"
-  #presentation: ""
+  presentation: "https://bitbucket.org/marin/pgdayit2017/src"
   #video: ""
 -
   id: 006
@@ -253,7 +253,7 @@ this feature."
   speakers: [4]
   language: it
   complexity: "Intermediate"
-  #presentation: ""
+  presentation: "https://www.slideshare.net/GiuseppeBroccolo/indexes-in-postgresql-10"
   #video: ""
 -
   id: 010
@@ -279,7 +279,7 @@ this feature."
   speakers: [2]
   language: it
   complexity: "Intermediate"
-  #presentation: ""
+  presentation: "https://github.com/ITPUG/2017.pgday.it/blob/master/assets/(Ri)scrivere_SQL_per_ottenere_le_massime_prestazioni.pdf"
   #video: ""
 -
   id: 011
@@ -299,7 +299,7 @@ this feature."
   speakers: [18]
   language: it
   complexity: "Intermediate"
-  #presentation: ""
+  presentation: "https://github.com/ITPUG/2017.pgday.it/blob/master/assets/Estendere%20PostgreSQL%20con%20Go%20-%20Leonardo%20Cecchi%20-%202ndQuadrant%20Italy.pdf"
   #video: ""
 -
   id: 012
@@ -319,7 +319,7 @@ this feature."
   speakers: [6]
   language: it
   complexity: "Beginner"
-  #presentation: ""
+  presentation: "https://speakerdeck.com/pauloxnet/full-text-search-in-django-with-postgresql-pgday-dot-it"
   #video: ""
 -
   id: 013
@@ -387,7 +387,7 @@ avere pessime prestazioni se mal configurate."
   speakers: [12]
   language: it
   complexity: "Intermediate"
-  #presentation: ""
+  presentation: "https://prezi.com/0rrgilcxlrmd/postgresql-benchmark/"
   #video: ""
 -
   id: 016
