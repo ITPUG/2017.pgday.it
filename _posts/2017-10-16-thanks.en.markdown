@@ -8,7 +8,7 @@ lang: en
 ref: thanks
 ---
 
-<h6>Thanks! Thanks! Thanks! Thanks! Thanks! Thanks! Thanks!</ h6>
+<h6>Thanks! Thanks! Thanks! Thanks! Thanks! Thanks! Thanks!</h6>
 
 The [eleventh edition of PGDay.IT](http://2017.pgday.it/en/) has come to the end and we want to say **thanks to everyone**, a **real thanks coming from the heart**.
 
