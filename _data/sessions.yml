@@ -363,7 +363,7 @@ Il talk si occuperà di introdurre il movimento DevOps con un focus particolare 
   speakers: [7]
   language: it
   complexity: "Intermediate"
-  #presentation: ""
+  #presentation: "http://2017.pgday.it/assets/Keep Calm and Install PostGreSQL (using Ansible).pdf"
   #video: ""
 -
   id: 015
