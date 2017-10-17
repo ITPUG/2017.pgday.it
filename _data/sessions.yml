@@ -259,7 +259,7 @@ this feature."
   id: 010
   title:
     it: "(Ri)scrivere l'SQL per ottenere le massime prestazioni"
-    en: "(Re)writing SQL queries to be fast"
+    en: "(Ri)scrivere l'SQL per ottenere le massime prestazioni"
   description:
     it: "SQL è un linguaggio dichiarativo. Basta scrivere quello che desideri ottenere e il RDBMS scoprirà come
     restituire un risultato corretto nel modo più veloce. Beh, non sempre. A volte avrà bisogno del tuo aiuto.
@@ -279,7 +279,7 @@ this feature."
   speakers: [2]
   language: it
   complexity: "Intermediate"
-  presentation: "https://github.com/ITPUG/2017.pgday.it/blob/master/assets/(Ri)scrivere_SQL_per_ottenere_le_massime_prestazioni.pdf"
+  presentation: "http://2017.pgday.it/assets/(Ri)scrivere_SQL_per_ottenere_le_massime_prestazioni.pdf"
   #video: ""
 -
   id: 011
@@ -299,7 +299,7 @@ this feature."
   speakers: [18]
   language: it
   complexity: "Intermediate"
-  presentation: "https://github.com/ITPUG/2017.pgday.it/blob/master/assets/Estendere%20PostgreSQL%20con%20Go%20-%20Leonardo%20Cecchi%20-%202ndQuadrant%20Italy.pdf"
+  presentation: "http://2017.pgday.it/assets/Estendere%20PostgreSQL%20con%20Go%20-%20Leonardo%20Cecchi%20-%202ndQuadrant%20Italy.pdf"
   #video: ""
 -
   id: 012
