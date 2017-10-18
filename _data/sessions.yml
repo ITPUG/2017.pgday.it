@@ -117,7 +117,7 @@ Non esitare!"
   speakers: [16]
   language: en
   complexity: "Beginner"
-  #presentation: ""
+  presentation: "https://prezi.com/ibt3bgzjpl7q/postgresql-and-the-raspberry-pi/"
   #video: ""
 -
   id: 005
