@@ -231,7 +231,7 @@ this feature."
   speakers: [1]
   language: en
   complexity: "Intermediate"
-  #presentation: ""
+  presentation: "http://2017.pgday.it/assets/Parallel_Queries_with_PostgreSQL.pdf"
   #video: ""
 -
   id: 009
