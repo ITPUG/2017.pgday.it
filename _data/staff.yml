@@ -56,15 +56,15 @@
     - {name: "linkedin", link: ""}
 -
   id: 5
-  name: "Laura"
-  surname: "Markus"
+  name: "Denis"
+  surname: "Gasparin"
   title: "Desk registrazione partecipanti"
-  thumbnailUrl: laura_markus.jpg
+  thumbnailUrl: denis_gasparin.jpg
   staff: true
   social:
     - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/laura-markus-a302826/"}     
+    - {name: "twitter", link: "https://twitter.com/rtshome"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/denis-gasparin-19395817/"}     
 -
   id: 0
   name: "Stefano"
