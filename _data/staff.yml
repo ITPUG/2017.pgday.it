@@ -64,7 +64,29 @@
   social:
     - {name: "google-plus", link: ""}
     - {name: "twitter", link: "https://twitter.com/rtshome"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/denis-gasparin-19395817/"}     
+    - {name: "linkedin", link: "https://www.linkedin.com/in/denis-gasparin-19395817/"}
+-
+  id: 6
+  name: "Leonardo"
+  surname: "Cecchi"
+  title: "Desk registrazione partecipanti"
+  thumbnailUrl: leonardo_cecchi.jpg
+  staff: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: "https://twitter.com/leonardo_cecchi/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/leonardo-cecchi-54b0a396/"}
+-
+  id: 7
+  name: "Tamara"
+  surname: "Nocentini"
+  title: "Desk registrazione partecipanti"
+  thumbnailUrl: tamara.jpg
+  staff: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/tamara-nocentini-44482295"}     
 -
   id: 0
   name: "Stefano"
