@@ -27,63 +27,63 @@ We look forward to seeing you again next year, maybe we could reach 250 attendee
 
 It is our duty to mention them one by one:
 
-* Krzysztof Nienartowicz (Gaia Data Processing Center in Geneva) who gave us a excellence **Keynote** , sharing with us ESA experience with PostgreSQL 
+* **Krzysztof Nienartowicz** (Gaia Data Processing Center in Geneva) who gave us a excellence **Keynote** , sharing with us ESA experience with PostgreSQL 
 for the management of exabyte data coming from space.
 
 Krzysztof's keynote has excited and keep the attention of the whole audience. Thank you Krzysztof!
 
 For the English track, let's remember:
 
-* Wolfram Hempel (DeepstreamHub) with _'PostgreSQL Realtime Queries at Scale'_
+* **Wolfram Hempel** (DeepstreamHub) with _'PostgreSQL Realtime Queries at Scale'_
 
-* Simon Riggs (2ndQuadrant) _'Replication In PostgreSQL 9.6, 10 and Beyond'_
+* **Simon Riggs** (2ndQuadrant) _'Replication In PostgreSQL 9.6, 10 and Beyond'_
 
-* Gabriele Bartolini (2ndQuadrant) with _'From 0 to 100: Business Continuity with PostgreSQL'_
+* **Gabriele Bartolini** (2ndQuadrant) with _'From 0 to 100: Business Continuity with PostgreSQL'_
 
-* Rubens Souza (2ndQuadrant) with _'PostgreSQL and the Raspberry Pi'_
+* **Rubens Souza** (2ndQuadrant) with _'PostgreSQL and the Raspberry Pi'_
 
-* Mladen Marinović (vehicle d.o.o. aka Smartivo) with _'General Data Protection Regulation and PostgreSQL'_
+* **Mladen Marinović** (vehicle d.o.o. aka Smartivo) with _'General Data Protection Regulation and PostgreSQL'_
 
-* Alessandro Grassi (2ndQuadrant) with _'Hardening PostgreSQL: demistifying database security'_
+* **Alessandro Grassi** (2ndQuadrant) with _'Hardening PostgreSQL: demistifying database security'_
 
-* Erik Tiengo (GisUp) with _'pg-gis-interoperability'
+* **Erik Tiengo** (GisUp) with _'pg-gis-interoperability'
 
-* Gianni Ciolli (2ndQuadrant) with _parallel queries with PostgreSQL'_
+* **Gianni Ciolli** (2ndQuadrant) with _parallel queries with PostgreSQL'_
 
 For the track in Italian, let's remember:
 
-* Giuseppe Broccolo (Viralize) with _'Gli indici in PostgreSQL 10'_
+* **Giuseppe Broccolo** (Viralize) with _'Gli indici in PostgreSQL 10'_
 
-* Luca Veronese (Lapsy srl) with _'(Ri)scrivere l'SQL per ottenere le massime prestazioni'_
+* **Luca Veronese** (Lapsy srl) with _'(Ri)scrivere l'SQL per ottenere le massime prestazioni'_
 
-* Leonardo Cecchi (2ndQuadranrt) with _'Estendere PostgreSQL con Go'_
+* **Leonardo Cecchi** (2ndQuadranrt) with _'Estendere PostgreSQL con Go'_
 
-* Paolo Melchiorre (20tab) with _'Ricerca full text in Django con PostgreSQL'_
+* **Paolo Melchiorre** (20tab) with _'Ricerca full text in Django con PostgreSQL'_
 
-* Lucio Grenzi (Freelance) with _'Patroni: PostgreSQL HA nel cloud'_
+* **Lucio Grenzi** (Freelance) with _'Patroni: PostgreSQL HA nel cloud'_
 
-* Denis Gasparin (Smart Solutions) with _'Keep calm e installa PostgreSQL (utilizzando Ansible)'_
+* **Denis Gasparin** (Smart Solutions) with _'Keep calm e installa PostgreSQL (utilizzando Ansible)'_
 
-* Jonathan Battiato (2ndQuadrant) with _'PostgreSQL & Benchmark'_
+* **Jonathan Battiato** (2ndQuadrant) with _'PostgreSQL & Benchmark'_
 
-* Giulio Calacoci, Francesco Canovai and Leonardo Cecchi (2ndQuadrant) with _'Disaster Recovery: una serie di sfortunati eventi'_
+* **Giulio Calacoci, Francesco Canovai and Leonardo Cecchi** (2ndQuadrant) with _'Disaster Recovery: una serie di sfortunati eventi'_
 
 Slides and videos will be available as soon as possible in the event website.
 
 **Thanks to our Partners**, without them all this could not be possible. 
 
-Thanks to [2ndQuadrant](https://www.2ndquadrant.com/) as Diamond Partner of PGDay.IT 2017.
-Thanks to [Ispirer](http://www.ispirer.com/) as Platinum Partner of PGDay.IT 2017.
-Thanks to [Subito](https://www.subito.it/), [Miriade](http://www.miriade.it/), [Thux](https://www.thux.it/en/) and [Arcoda](https://www.arcoda.it/) as Gold Partners of PGDay.IT 2017.
-Thanks to [Metodo](http://www.metodo.net/metodo) as Silver Partner of PGDay.IT 2017.
-Thanks to [R3GIS](https://www.r3-gis.com/), [20tab](http://www.20tab.com/) and [Seeweb](https://www.seeweb.it/) as Bronze Partners of PGDay.IT 2017.
+Thanks to **[2ndQuadrant](https://www.2ndquadrant.com/)** as Diamond Partner of PGDay.IT 2017.
+Thanks to **[Ispirer](http://www.ispirer.com/)** as Platinum Partner of PGDay.IT 2017.
+Thanks to **[Subito](https://www.subito.it/), [Miriade](http://www.miriade.it/), [Thux](https://www.thux.it/en/) and [Arcoda](https://www.arcoda.it/)** as Gold Partners of PGDay.IT 2017.
+Thanks to **[Metodo](http://www.metodo.net/metodo)** as Silver Partner of PGDay.IT 2017.
+Thanks to **[R3GIS](https://www.r3-gis.com/), [20tab](http://www.20tab.com/) and [Seeweb](https://www.seeweb.it/)** as Bronze Partners of PGDay.IT 2017.
 
 Our wish is to have all of you with us also next year and we invite other companies to support PGDay.IT and PostgreSQL through their partnerships.
 
 **Thanks to our Media Partners** who have supported PGDay.IT 2017 by giving news through press releases and newsletters.
-Let's remember them together: [GRUSP](http://www.grusp.org/it/), [Python Italia](https://www.pycon.it/it/), [Apogeo](http://www.apogeonline.com/)
+Let's remember them together: **[GRUSP](http://www.grusp.org/it/), [Python Italia](https://www.pycon.it/it/), [Apogeo](http://www.apogeonline.com/)**
   
-**Thanks to the City of Milan** who has granted the [free patronage]((http://2017.pgday.it/en/)) for PGDay.IT 2017.
+**Thanks to the City of Milan** who has granted the **[free patronage](http://2017.pgday.it/en/)** for PGDay.IT 2017.
 Important recognition for our ITPUG Association and the work of volunteers who actively participated in the organization of PGDay.IT.
   
 **Thanks to the new members of ITPUG Association** it is great to have you with us! About 30 new members will receive official welcome inside our 
