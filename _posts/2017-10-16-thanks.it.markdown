@@ -29,62 +29,62 @@ rendendo il PGDay.IT 2017 [carico di contenuti interessati](http://2017.pgday.it
 
 Doveroso da parte nostra menzionarli uno ad uno: 
 
-* Krzysztof Nienartowicz (Gaia Data Processing Centre in Geneva) che ci ha regalato un **Keynote** d'eccellenza, 
+* **Krzysztof Nienartowicz** (Gaia Data Processing Centre in Geneva) che ci ha regalato un **Keynote** d'eccellenza, 
 raccontandoci l'esperienza di ESA con PostgreSQL per la gestione di exabyte di dati provenienti dallo spazio. 
 Talk che ha entusiasmato e coinvolto tutta la platea. Grazie Krzysztof!
 
 Per la track in inglese, ricordiamo:
 
-* Wolfram Hempel (DeepstreamHub) con _'PostgreSQL Realtime Queries at Scale'_
+* **Wolfram Hempel** (DeepstreamHub) con _'PostgreSQL Realtime Queries at Scale'_
 
-* Simon Riggs (2ndQuadrant) _'Replication In PostgreSQL 9.6, 10 and Beyond'_
+* **Simon Riggs** (2ndQuadrant) _'Replication In PostgreSQL 9.6, 10 and Beyond'_
 
-* Gabriele Bartolini (2ndQuadrant) con _'From 0 to 100: Business Continuity with PostgreSQL'_
+* **Gabriele Bartolini** (2ndQuadrant) con _'From 0 to 100: Business Continuity with PostgreSQL'_
 
-* Rubens Souza (2ndQuadrant) con _'PostgreSQL and the Raspberry Pi'_
+* **Rubens Souza** (2ndQuadrant) con _'PostgreSQL and the Raspberry Pi'_
 
-* Mladen Marinović (vozila d.o.o. aka Smartivo) con _'General Data Protection Regulation and PostgreSQL'_
+* **Mladen Marinović** (vozila d.o.o. aka Smartivo) con _'General Data Protection Regulation and PostgreSQL'_
 
-* Alessandro Grassi (2ndQuadrant) con _'Hardening PostgreSQL: demistifying database security'_
+* **Alessandro Grassi** (2ndQuadrant) con _'Hardening PostgreSQL: demistifying database security'_
 
-* Erik Tiengo (GisUp) con _'pg-gis-interoperability'_
+* **Erik Tiengo** (GisUp) con _'pg-gis-interoperability'_
 
-* Gianni Ciolli (2ndQuadrant) con _'Parallel queries with PostgreSQL'_
+* **Gianni Ciolli** (2ndQuadrant) con _'Parallel queries with PostgreSQL'_
 
 Per la track in italiano, ricordiamo:
 
-* Giuseppe Broccolo (Viralize) con _'Gli indici in PostgreSQL 10'_
+* **Giuseppe Broccolo** (Viralize) con _'Gli indici in PostgreSQL 10'_
 
-* Luca Veronese (Lapsy srl) con _'(Ri)scrivere l'SQL per ottenere le massime prestazioni'_
+* **Luca Veronese** (Lapsy srl) con _'(Ri)scrivere l'SQL per ottenere le massime prestazioni'_
 
-* Leonardo Cecchi (2ndQuadranrt) con _'Estendere PostgreSQL con Go'_
+* **Leonardo Cecchi** (2ndQuadranrt) con _'Estendere PostgreSQL con Go'_
 
-* Paolo Melchiorre (20tab) con _'Ricerca full text in Django con PostgreSQL'_
+* **Paolo Melchiorre** (20tab) con _'Ricerca full text in Django con PostgreSQL'_
 
-* Lucio Grenzi (Freelance) con _'Patroni: PostgreSQL HA nel cloud'_
+* **Lucio Grenzi** (Freelance) con _'Patroni: PostgreSQL HA nel cloud'_
 
-* Denis Gasparin (Smart Solutions) con _'Keep calm e installa PostgreSQL (utilizzando Ansible)'_
+* **Denis Gasparin** (Smart Solutions) con _'Keep calm e installa PostgreSQL (utilizzando Ansible)'_
 
-* Jonathan Battiato (2ndQuadrant) con _'PostgreSQL & Benchmark'_
+* **Jonathan Battiato** (2ndQuadrant) con _'PostgreSQL & Benchmark'_
 
-* Giulio Calacoci, Francesco Canovai e Leonardo Cecchi (2ndQuadrant) con _'Disaster Recovery: una serie di sfortunati eventi'_
+* **Giulio Calacoci, Francesco Canovai e Leonardo Cecchi** (2ndQuadrant) con _'Disaster Recovery: una serie di sfortunati eventi'_
 
 Le slide dei talk ed i video dei talk saranno disponibili a breve sul sito della manifestazione.
 
 **Grazie ai nostri Partner**, senza i quali tutto questo non sarebbe stato possibile. 
 
-Grazie a [2ndQuadrant](https://www.2ndquadrant.com/), Diamond Partner del PGDay.IT 2017. 
-Grazie a [Ispirer](http://www.ispirer.com/), Platinum Partner del PGDay.IT 2017. 
-Grazie a [Subito](https://www.subito.it/), [Miriade](http://www.miriade.it/), [Thux](https://www.thux.it/en/) e [Arcoda](https://www.arcoda.it/) Gold Partner del PGDay.IT 2017. 
-Grazie a [Metodo](http://www.metodo.net/metodo), Silver Partner del PGDay.IT 2017. 
-Grazie a [R3GIS](https://www.r3-gis.com/), [20tab](http://www.20tab.com/) e [Seeweb](https://www.seeweb.it/) Bronze Partner del PGDay.IT 2017.
+Grazie a **[2ndQuadrant](https://www.2ndquadrant.com/)**, Diamond Partner del PGDay.IT 2017. 
+Grazie a **[Ispirer](http://www.ispirer.com/)**, Platinum Partner del PGDay.IT 2017. 
+Grazie a **[Subito](https://www.subito.it/), [Miriade](http://www.miriade.it/), [Thux](https://www.thux.it/en/) e [Arcoda](https://www.arcoda.it/)** Gold Partner del PGDay.IT 2017. 
+Grazie a **[Metodo](http://www.metodo.net/metodo)**, Silver Partner del PGDay.IT 2017. 
+Grazie a **[R3GIS](https://www.r3-gis.com/), [20tab](http://www.20tab.com/) e [Seeweb](https://www.seeweb.it/)** Bronze Partner del PGDay.IT 2017.
 
 Il nostro augurio è di avervi con noi anche il prossimo anno, invitando altre aziende a supportare il PGDay.IT e PostgreSQL.
 
 **Grazie ai nostri Media Partner** che hanno supportato il PGDay.IT 2017 dandone notizia attraverso comunicati stampa e newsletter.
-Ricordiamoli insieme: [GRUSP](http://www.grusp.org/it/), [Python Italia](https://www.pycon.it/it/), [Apogeo](http://www.apogeonline.com/)
+Ricordiamoli insieme: **[GRUSP](http://www.grusp.org/it/), [Python Italia](https://www.pycon.it/it/), [Apogeo](http://www.apogeonline.com/)**
   
-**Grazie al Comune di Milano** che ci ha concesso il [patrocinio gratuito](http://2017.pgday.it/it/) per il PGDay.IT 2017. 
+**Grazie al Comune di Milano** che ci ha concesso il **[patrocinio gratuito](http://2017.pgday.it/it/)** per il PGDay.IT 2017. 
 Importante riconoscimento per la nostra Associazione ITPUG ed il lavoro dei volontari che hanno partecipato in modo attivo all'organizzazione del 
 PGDay.IT.
   
@@ -94,7 +94,7 @@ all'interno della nostra Associazione in questa settimana.
 Se qualcuno non fosse riuscito ad aderire, non deve preoccuparsi! Può scriverci, e potrà ricevere anche il gadget riservato ai nuovi iscritti oltre 
 che ai Soci che decidono di rinnovare.
 
-**Grazie ai volontari dell'Associazione ITPUG** che si sono adoperati per far si che la manifestazione si svolgesse senza problemi, o almeno è quello 
+**Grazie ai [volontari dell'Associazione ITPUG](http://2017.pgday.it/en/staff/)** che si sono adoperati per far si che la manifestazione si svolgesse senza problemi, o almeno è quello 
 che ci auguriamo.
 
 <h6>Grazie! Grazie! Grazie! Grazie! Grazie! Grazie! Grazie!</h6>
