@@ -328,8 +328,8 @@ staffSubtitle2:
     it: "Presenteranno la track Italiana e la track Inglese e i Lightning Talk"
     en: "The host speaker will present in Italian and English, the Lightning Talk is included as well"
 staffSubtitle3:
-    it: "Per assistenza tecnica durante la conferenza"
-    en: "For technical assistance during the conference"
+    it: "Altre attività"
+    en: "Other activity"
 
 # Team Block
 teamBlockTitle:
