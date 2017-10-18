@@ -103,7 +103,7 @@ Non esitare!"
   speakers: [5]
   language: en
   complexity: "Intermediate"
-  #presentation: ""
+  presentation: "https://www.slideshare.net/GabrieleBartolini/from-0-to-100-business-continuity-with-postgresql/1"
   #video: ""
 -
   id: 004
