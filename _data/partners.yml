@@ -185,3 +185,15 @@ THUX-LAW Dashboard supporting the day-by-day activities of structured Legal Offi
         en: "Ideas about technology that changes our lives."
       link: "http://www.apogeonline.com/"
       imageUrl: "apogeo.png"
+-
+  group: "Con il Patrocinio del"
+  elements:
+    -
+      name:
+        it: "Comune di Milano"
+        en: "Comune di Milano"
+      description:
+        it: ""
+        en: ""
+      link: "http://www.comune.milano.it/wps/portal/ist/it"
+      imageUrl: "comunemilano2.jpg"      
