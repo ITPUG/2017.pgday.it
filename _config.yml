@@ -73,7 +73,7 @@ navigationLinks:
  - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Acquista il tuo biglietto", lang: "it"}
  - {link: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231", text: "Buy your ticket", lang: "en"}
  - {permalink: "/pgbeer/", text: "PG_beer"}
-# - {permalink: "/staff/", text: "Staff"}
+ - {permalink: "/staff/", text: "Staff"}
 # - {permalink: "/training/", text: "Training"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/blog/", text: "Blog"}
