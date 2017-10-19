@@ -333,7 +333,7 @@ this feature."
   speakers: [11]
   language: it
   complexity: "Intermediate"
-  #presentation: ""
+  presentation: "http://2017.pgday.it/assets/slide_pgday_2017_patroni.pdf"
   #video: ""
 -
   id: 014
