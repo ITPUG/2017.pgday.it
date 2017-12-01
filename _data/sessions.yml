@@ -196,7 +196,7 @@ We will cover the main points required to make postgres harder to attack, and ho
   language: en
   complexity: "Intermediate"
   presentation: "https://prezi.com/n2yp-sjgstf0/?utm_campaign=share&utm_medium=copy&rc=ex0share"
-  video: "https://www.youtube.com/embed/TfH1JYwshko&index=18"
+  video: "https://www.youtube.com/embed/TfH1JYwshko"
 -
   id: 008
   title:
@@ -280,7 +280,7 @@ this feature."
   language: it
   complexity: "Intermediate"
   presentation: "http://2017.pgday.it/assets/(Ri)scrivere_SQL_per_ottenere_le_massime_prestazioni.pdf"
-  video: "https://www.youtube.com/embed/KHRQZJWWgU"
+  video: "https://www.youtube.com/embed/FKHRQZJWWgU"
 -
   id: 011
   title:
