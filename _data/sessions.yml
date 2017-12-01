@@ -29,10 +29,79 @@
     en: "'"
     it: "'"
 -
-  id: 099
+  id: 094
   title:
     en: "Lightning talk"
     it: "Lightning talk"
+  service: true    
+  description:
+    en: "You will find a board at ITPUG desk where you could write the Title and your Name to book your Lightning Talk.
+Do not hesitate!"
+    it: "Al desk ITPUG troverai una lavagna dove poter scrivere il tuo Nome ed il Titolo del tuo Lightning Talk.
+Non esitare!"
+  subtype: Lightning talk
+  language: en - it
+  #presentation: ""
+  #video: ""
+-
+  id: 095
+  title:
+    en: "Lightning talk no. 1"
+    it: "Lightning talk nr. 1"
+  description:
+    en: "You will find a board at ITPUG desk where you could write the Title and your Name to book your Lightning Talk.
+Do not hesitate!"
+    it: "Al desk ITPUG troverai una lavagna dove poter scrivere il tuo Nome ed il Titolo del tuo Lightning Talk.
+Non esitare!"
+  subtype: Lightning talk
+  language: en - it
+  #presentation: ""
+  #video: ""
+-
+  id: 096
+  title:
+    en: "Lightning talk no. 2"
+    it: "Lightning talk nr. 2"
+  description:
+    en: "You will find a board at ITPUG desk where you could write the Title and your Name to book your Lightning Talk.
+Do not hesitate!"
+    it: "Al desk ITPUG troverai una lavagna dove poter scrivere il tuo Nome ed il Titolo del tuo Lightning Talk.
+Non esitare!"
+  subtype: Lightning talk
+  language: en - it
+  #presentation: ""
+  #video: ""
+-
+  id: 097
+  title:
+    en: "Lightning talk no. 3"
+    it: "Lightning talk nr. 3"
+  description:
+    en: "You will find a board at ITPUG desk where you could write the Title and your Name to book your Lightning Talk.
+Do not hesitate!"
+    it: "Al desk ITPUG troverai una lavagna dove poter scrivere il tuo Nome ed il Titolo del tuo Lightning Talk.
+Non esitare!"
+  subtype: Lightning talk
+  language: en - it
+  #presentation: ""
+  #video: ""
+-
+  id: 098
+  title:
+    en: "Lightning talk no. 4"
+    it: "Lightning talk nr. 4"
+  description:
+    en: "Pietro Partescano, Data Architect of Subito.it"
+    it: "Pietro Partescano, Data Architect di Subito.it"
+  subtype: Lightning talk
+  language: it
+  #presentation: "http://2017.pgday.it/assets/pietro_partescano.pdf"
+  video: "https://www.youtube.com/embed/7IRGP9I4R5Q"
+-
+  id: 099
+  title:
+    en: "Lightning talk no. 5"
+    it: "Lightning talk nr. 5"
   description:
     en: "You will find a board at ITPUG desk where you could write the Title and your Name to book your Lightning Talk.
 Do not hesitate!"
