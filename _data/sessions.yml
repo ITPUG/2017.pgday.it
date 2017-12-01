@@ -46,31 +46,27 @@ Non esitare!"
 -
   id: 095
   title:
-    en: "Lightning talk no. 1"
-    it: "Lightning talk nr. 1"
+    en: "Lightning talk no. 1 - Marco Nenciarini, Presidente ITPUG"
+    it: "Lightning talk nr. 1 - Marco Nenciarini, Presidente ITPUG"
   description:
-    en: "You will find a board at ITPUG desk where you could write the Title and your Name to book your Lightning Talk.
-Do not hesitate!"
-    it: "Al desk ITPUG troverai una lavagna dove poter scrivere il tuo Nome ed il Titolo del tuo Lightning Talk.
-Non esitare!"
+    en: "Marco Nenciarini, Presidente ITPUG - PostgreSQL Consultant, 2ndQuadrant"
+    it: "Marco Nenciarini, Presidente ITPUG - PostgreSQL Consultant, 2ndQuadrant"
   subtype: Lightning talk
-  language: en - it
+  language: it
   #presentation: ""
-  #video: ""
+  video: "https://www.youtube.com/embed/4FnSJaRewvU""
 -
   id: 096
   title:
-    en: "Lightning talk no. 2"
-    it: "Lightning talk nr. 2"
+    en: "Lightning talk no. 2 - Alexandr Kirpichny, Ispirer System Consultant"
+    it: "Lightning talk nr. 2 - Alexandr Kirpichny, Ispirer System Consultant"
   description:
-    en: "You will find a board at ITPUG desk where you could write the Title and your Name to book your Lightning Talk.
-Do not hesitate!"
-    it: "Al desk ITPUG troverai una lavagna dove poter scrivere il tuo Nome ed il Titolo del tuo Lightning Talk.
-Non esitare!"
+    en: "Alexandr Kirpichny - Ispirer System Consultant"
+    it: "Alexandr Kirpichny - Ispirer System Consultant"
   subtype: Lightning talk
   language: en - it
   #presentation: ""
-  #video: ""
+  video: "https://www.youtube.com/embed/ysntzv7KcAo"
 -
   id: 097
   title:
@@ -98,17 +94,15 @@ Non esitare!"
 -
   id: 099
   title:
-    en: "Lightning talk no. 5"
-    it: "Lightning talk nr. 5"
+    en: "Lightning talk no. 5 - Simone Dalla, Pubblica Amministrazione"
+    it: "Lightning talk nr. 5 - Simone Dalla, Pubblica Amministrazione"
   description:
-    en: "You will find a board at ITPUG desk where you could write the Title and your Name to book your Lightning Talk.
-Do not hesitate!"
-    it: "Al desk ITPUG troverai una lavagna dove poter scrivere il tuo Nome ed il Titolo del tuo Lightning Talk.
-Non esitare!"
+    en: " - Simone Dalla, Pubblica Amministrazione"
+    it: " - Simone Dalla, Pubblica Amministrazione"
   subtype: Lightning talk
-  language: en - it
+  language: it
   #presentation: ""
-  #video: ""
+  video: "https://www.youtube.com/embed/cpVbQyJBXvM"
 -
   id: 999
   title:
